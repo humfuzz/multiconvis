@@ -1,0 +1,77 @@
+{
+
+"totalAuthors":"6",
+
+
+"totalTopics":"8",
+
+
+"totalLines":"13",
+
+"topics":[{"topicID":1,"strength":2,"labels":[{"phrase":"off-topic","prob":0.00}],"topicsentiments":[0, 0, 1, 0, 1]},{"topicID":2,"strength":2,"labels":[{"phrase":"off-topic","prob":0.00}],"topicsentiments":[0, 1, 1, 0, 0]}],
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#articleiphone_4",
+"title":"iPhone 6 Front Panel Subjected to Scratch Test, Significant Bending  Mac Rumors","author":"dummy",
+"date":"Monday July 07, 2014 11:35 am PDT",
+"htmltext":"\t\t\t\t\t Earlier today, we shared a video of what appeared to be the front panel of the 4.7-inch iPhone 6 subjected to a limited bending stress test, but YouTube user Marques Brownlee has now acquired the same front panel and subjected it to additional stress tests, including more significant bending and scratching.\n",
+
+"sent": [{"linePolarity":-1.625,"systemtopicid": 1, "systemlabel":"rigid protective Guy bends", "sentid":"1", "sent":"Earlier today, we shared a video of what appeared to be the front panel of the 4.7-inch iPhone 6 subjected to a limited bending stress test, but YouTube user Marques Brownlee has now acquired the same front panel and subjected it to additional stress tests, including more significant bending and scratching","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_4.19869555",
+"date":"Sep 23, 2014, 05:07 PM",
+"author":"RosOne",
+"aid":"329772",
+"htmltext":"\r\n            \r\n            How exactly is this a &quot;test&quot;? Guy bends an iPhone and it bent. Wow :|\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"off-topic", "sentid":"4", "sent":"How exactly is this a quottestquot?","sentimentwords":[]},{"linePolarity":0,"systemtopicid": 1, "systemlabel":"rigid protective Guy bends", "sentid":"5", "sent":"Guy bends an iPhone and it bent.","sentimentwords":[]},{"linePolarity":0,"systemtopicid": 1, "systemlabel":"off-topic", "sentid":"6", "sent":"Wow :","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_4.19869567",
+"date":"Sep 23, 2014, 05:08 PM",
+"author":"farewelwilliams",
+"aid":"897314",
+"htmltext":"\r\n            \r\n            for the sake of Science?<br />\n<br />\nmore like for the sake of Youtube money.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid": 1, "systemlabel":"off-topic", "sentid":"7", "sent":"for the sake of Science?more like for the sake of Youtube money.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_4.19869568",
+"date":"Sep 23, 2014, 05:08 PM",
+"author":"Richardgm",
+"aid":"212276",
+"htmltext":"\r\n            \r\n            My 4S doesn't have that feature. Damn it Apple, keep leaving us in the dark!\r\n\n",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"off-topic", "sentid":"8", "sent":"My 4S doesnt have that feature.","sentimentwords":[{"word":"feature","polarity":2.0}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"off-topic", "sentid":"9", "sent":"Damn it Apple keep leaving us in the dark","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_4.19869574",
+"date":"Sep 23, 2014, 05:08 PM",
+"author":"Kebabselector",
+"aid":"107639",
+"htmltext":"\r\n            \r\n            Thin metal things bend - wow - and in other news bears continue to do business in woodland areas.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid": 1, "systemlabel":"off-topic", "sentid":"10", "sent":"Thin metal things bend  wow  and in other news bears continue to do business in woodland areas.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_4.19869585",
+"date":"Sep 23, 2014, 05:09 PM",
+"author":"Jmacman78",
+"aid":"94635",
+"htmltext":"\r\n            \r\n            Gimme a break. you could do this with most phones on the market. Put pressure on it and it will bend/break no matter what it is.<br />\n<br />\r\nEvery time a new iPhone comes out everyone freaks out that it's a &quot;bendgate&quot;.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"off-topic", "sentid":"11", "sent":"Gimme a break.","sentimentwords":[]},{"linePolarity":0,"systemtopicid": 1, "systemlabel":"off-topic", "sentid":"12", "sent":"you could do this with most phones on the market.","sentimentwords":[]},{"linePolarity":-0.833333333333,"systemtopicid": 1, "systemlabel":"off-topic", "sentid":"13", "sent":"Put pressure on it and it will bendbreak no matter what it is.Every time a new iPhone comes out everyone freaks out that its a quotbendgatequot.","sentimentwords":[]}]
+}
+]
+}

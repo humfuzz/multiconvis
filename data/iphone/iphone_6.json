@@ -1,0 +1,1125 @@
+{
+
+"totalAuthors":"72",
+
+
+"totalTopics":"8",
+
+
+"totalLines":"328",
+
+"topics":[{"topicID":1,"strength":190,"labels":[{"phrase":"high-definition audio playback","prob":0.0703317848244},{"phrase":" this connector","prob":0.0599004029091},{"phrase":" cable this reversible USB","prob":0.0538751597389},{"phrase":" Lightning cable","prob":0.0538751597389},{"phrase":" future iOS devices","prob":0.0496828625042},{"phrase":" flexible stalk","prob":0.0378071464132},{"phrase":" this fabulous idea","prob":0.0378071464132},{"phrase":" susceptible equal parts","prob":0.0378071464132},{"phrase":" sure Apple revealing","prob":0.0378071464132},{"phrase":" vulnerable insertions","prob":0.0217391330875},{"phrase":" Really","prob":0.0217391330875},{"phrase":" features","prob":0.0217391330875}],"topicsentiments":[13, 47, 62, 65, 19]},{"topicID":2,"strength":10,"labels":[{"phrase":"4-way adapter strips","prob":0.0648747959133},{"phrase":" induction plate part","prob":0.048623058145},{"phrase":" modern cars","prob":0.0370025464889},{"phrase":" multiple devices","prob":0.0370025464889},{"phrase":" hotel rooms","prob":0.0370025464889},{"phrase":" generic USB power supplies","prob":0.0321662039715},{"phrase":" power supply","prob":0.0321662039715},{"phrase":" USB connector","prob":0.0275449199028},{"phrase":" reversible USB cables","prob":0.0275449199028},{"phrase":" great wireless charger","prob":0.0270179008638},{"phrase":" point","prob":0.0212765968927},{"phrase":" maybe wireless","prob":0.0212765968927},{"phrase":" computer","prob":0.0212765968927}],"topicsentiments":[0, 2, 10, 2, 4]},{"topicID":3,"strength":20,"labels":[{"phrase":"tongue showing durable","prob":0.0341268981515},{"phrase":" durable flexible portion","prob":0.0341268981515},{"phrase":" key design detail","prob":0.0308418790814},{"phrase":" Increase Contact Normal Force","prob":0.0227901396394},{"phrase":" structural support element","prob":0.0227301953276},{"phrase":" allow plug connector tongues","prob":0.0203202872256},{"phrase":" future iOS devices","prob":0.0193681756418},{"phrase":" Trademark Office today","prob":0.0193681756418},{"phrase":" iPhone MFi audio accessories","prob":0.0186081539538},{"phrase":" high-definition audio playback","prob":0.0186081539538},{"phrase":" Lightning cable","prob":0.0180888160012},{"phrase":" mating event","prob":0.0180888160012},{"phrase":" structural support elements","prob":0.0179783239949},{"phrase":" leakedphotosandvideossuggest Apple","prob":0.0147384001975},{"phrase":" susceptible Apple","prob":0.0147384001975},{"phrase":" present invention","prob":0.0147384001975},{"phrase":" Spread Stress","prob":0.0147384001975},{"phrase":" Compliant Member","prob":0.0147384001975},{"phrase":" strong connection","prob":0.0147384001975},{"phrase":" distinct advantage","prob":0.0147384001975},{"phrase":" plug connectors","prob":0.0141222030759},{"phrase":" flexible tongue","prob":0.0139102964172},{"phrase":" holds tongue","prob":0.0139102964172},{"phrase":" thin tongue","prob":0.0139102964172},{"phrase":" thin flexible stalkThis flexible tongue","prob":0.0139102964172},{"phrase":" rigid tongue","prob":0.0139102964172},{"phrase":" thicker tongue","prob":0.0139102964172},{"phrase":" allow tongue","prob":0.0139102964172},{"phrase":" flexible stalk","prob":0.0126876409712},{"phrase":" This stalk","prob":0.0126876409712},{"phrase":" latest application","prob":0.0118249959954},{"phrase":" aseparate applicationmade","prob":0.0118249959954},{"phrase":" These cables","prob":0.0118249959954},{"phrase":" current solutions","prob":0.0118249959954},{"phrase":" USB port regardless","prob":0.0106817978437},{"phrase":" mating USB ports","prob":0.0102959580694},{"phrase":" describes","prob":0.00847458019172},{"phrase":" anotherApple","prob":0.00847458019172},{"phrase":" Patent","prob":0.00847458019172},{"phrase":" weeks","prob":0.00847458019172},{"phrase":" ViaAppleInsider","prob":0.00847458019172},{"phrase":" February","prob":0.00847458019172},{"phrase":" differs","prob":0.00847458019172},{"phrase":" PCB","prob":0.00847458019172},{"phrase":" highlighting","prob":0.00847458019172}],"topicsentiments":[1, 3, 7, 7, 2]},{"topicID":4,"strength":6,"labels":[{"phrase":"biggest pet peeves","prob":0.176054754841},{"phrase":" usb plugs","prob":0.12925150102},{"phrase":" symmetrical design","prob":0.12925150102}],"topicsentiments":[0, 0, 10, 7, 0]},{"topicID":5,"strength":10,"labels":[{"phrase":"pro-Windows argument","prob":0.0495595537768},{"phrase":" valuable life lesson","prob":0.0483168868234},{"phrase":" serious so shoes","prob":0.0426867356588},{"phrase":" power plugs","prob":0.0394558101239},{"phrase":" reversible IEC plugs","prob":0.0394558101239},{"phrase":" plug","prob":0.0394558101239},{"phrase":" common sense","prob":0.0358139186194},{"phrase":" work deviceI","prob":0.0347797814403},{"phrase":" patient careful hard obvious resistance","prob":0.0347797814403},{"phrase":" device work","prob":0.0347797814403},{"phrase":" real man","prob":0.0347797814403},{"phrase":" balsa wood","prob":0.0347797814403},{"phrase":" reversible shoes","prob":0.0281927832544},{"phrase":" better solution","prob":0.0279069633223},{"phrase":" cheaper","prob":0.0200000091037}],"topicsentiments":[0, 3, 13, 1, 5]},{"topicID":6,"strength":9,"labels":[{"phrase":"faster NAND","prob":0.112397558241},{"phrase":" iPad Air","prob":0.0826944269598},{"phrase":" iCloud Drive","prob":0.0790449377892},{"phrase":" bysputnikvI wonder","prob":0.0790449377892},{"phrase":" horizon","prob":0.0454545535155},{"phrase":" so Syncing","prob":0.0454545535155},{"phrase":" real devices","prob":0.0454545535155}],"topicsentiments":[0, 0, 3, 3, 6]},{"topicID":7,"strength":11,"labels":[{"phrase":"solid part","prob":0.0535081581781},{"phrase":" hard time","prob":0.0532212798267},{"phrase":" safer place","prob":0.0511410710761},{"phrase":" reversible usb sure","prob":0.0442438952553},{"phrase":" port","prob":0.0442438952553},{"phrase":" usb ports","prob":0.0442438952553},{"phrase":" horizontal ports","prob":0.0442438952553},{"phrase":" tasty","prob":0.0294117708844},{"phrase":" world","prob":0.0294117708844},{"phrase":" butterflies","prob":0.0294117708844},{"phrase":" thank","prob":0.0294117708844}],"topicsentiments":[1, 5, 3, 6, 0]},{"topicID":8,"strength":13,"labels":[{"phrase":"it movable joint","prob":0.0644113214111},{"phrase":" it Quote","prob":0.0370370559081},{"phrase":" flexible part","prob":0.0370370559081},{"phrase":" hinge","prob":0.0370370559081},{"phrase":" sense","prob":0.0370370559081},{"phrase":" durable wait","prob":0.0370370559081},{"phrase":" damn","prob":0.0370370559081},{"phrase":" cable OMG","prob":0.0370370559081}],"topicsentiments":[2, 4, 9, 0, 3]}],
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#articleiphone_6",
+"title":"Apple Reveals Furthers Details on Reversible USB Cable With Flexible Internal Connector  Mac Rumors","author":"Kelly_Hodgkins",
+"date":"Thursday August 21, 2014 9:37 am PDT",
+"htmltext":"\t\t\t\t\t\tThe U.S. Patent and Trademark Office today published another <a href=\"http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220140235095%22.PGNR.&amp;OS=DN/20140235095&amp;RS=DN/20140235095\">Apple patent application</a> that describes a reversible USB connector with a \"double orientation design.\" (Via <a href=\"http://appleinsider.com/articles/14/08/21/apples-interest-in-reversible-usb-plugs-detailed-in-new-patent-application\"><em>AppleInsider</em></a>) Today's patent application, filed in February and titled \"Reversible USB Connector with Compliant Member to Spread Stress and Increase Contact Normal Force,\" differs slightly from a <a href=\"http://www.macrumors.com/2014/08/18/apple-reversible-usb-flipper/\">separate application</a> made a few weeks earlier by highlighting a key design detail that adds flexibility to the USB connector contacts.\r<br />\n<br />\nAccording to the patent description, the USB connector would feature a flexible tongue allowing it to bend to fit an existing USB port regardless of the insertion orientation. This flexible plug connector was mentioned briefly in the January patent, but Apple has expanded upon this idea in this latest patent application to address various types of support elements that would minimize stress on the flexible portion of the tongue while still ensuring strong contact between the connector and a USB port.<blockquote>As mentioned previously, some plug connectors of the present invention may include structural support elements made from materials chosen to allow plug connector tongues to deflect. Connector 1610 may also include a structural support element, e.g., a structural support 1635. Structural support 1635 may provide flexure to PCB 1632 to reduce stress and fatigue on PCB 1632 and allow tongue 1630, along with PCB 1632, to deflect toward and away from first or second inner surfaces 1620a, 1620b during insertion/extraction events. In order to provide this flexure, structural support 1635 may be made from an elastomer that deforms in response to stress, e.g., a mating event, but holds tongue 1630 centrally located between first and second inner surfaces 1620a, 1620b otherwise.</blockquote> As shown in the patent drawings, Apple's solution allows the contact portion of the tongue to be thicker and sturdier, while positioning it on a thinner, flexible \"stalk\". This stalk will deflect in either direction in order to provide room for mating with existing USB ports while maintaining a strong connection with the contacts. \r<br />\n<br />\n<img src=\"http://cdn.macrumors.com/article-new/2014/08/apple-USB-patent-application.jpg\" alt=\"apple-USB-patent-application\" width=\"608\" height=\"204\" class=\"aligncenter size-full wp-image-420005\" /><center><i>Apple's proposed USB connector with tongue showing durable contact portion (1939) on a thin, flexible stalk</i></center> <br />\nThis flexible tongue provides a distinct advantage over current solutions from <a href=\"http://flipperusb.com/\">competing products</a>, which typically use a rigid tongue that has been slimmed down to fit existing USB ports. Though these cables can be inserted in either orientation, the very thin tongue is susceptible to breakage. With Apple's proposed solution, the contact portion of the tongue can be thicker and more durable, with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation. \r<br />\n<br />\nRecently leaked <a href=\"http://www.macrumors.com/2014/08/15/new-lightning-cable-reversible-usb/\">photos</a> and <a href=\"http://www.macrumors.com/2014/08/19/video-new-lightning-cable-in-action/\">videos</a> suggest Apple may be working on a new Lightning cable with this reversible USB connector. These cables may ship with future iOS devices and also may contain <a href=\"http://www.macrumors.com/2014/05/13/hd-audio-ios-8-new-in-ear-headphones-lightning/\">other features</a> such as support for high-definition audio playback on Made For iPhone (MFi) audio accessories.\n                                        <div style=\"clear:both;\"></div>\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"1", "sent":"The U.S. Patent and Trademark Office today published anotherApple patent applicationthat describes a reversible USB connector with a double orientation design.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"2", "sent":" ViaAppleInsider Todays patent application filed in February and titled Reversible USB Connector with Compliant Member to Spread Stress and Increase Contact Normal Force differs slightly from aseparate applicationmade a few weeks earlier by highlighting a key design detail that adds flexibility to the USB connector contacts.According to the patent description the USB connector would feature a flexible tongue allowing it to bend to fit an existing USB port regardless of the insertion orientation.","sentimentwords":[]},{"linePolarity":1.4375,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"3", "sent":"This flexible plug connector was mentioned briefly in the January patent but Apple has expanded upon this idea in this latest patent application to address various types of support elements that would minimize stress on the flexible portion of the tongue while still ensuring strong contact between the connector and a USB port.As mentioned previously some plug connectors of the present invention may include structural support elements made from materials chosen to allow plug connector tongues to deflect.","sentimentwords":[]},{"linePolarity":0.75,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"4", "sent":"Connector 1610 may also include a structural support element e.g. a structural support 1635.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"5", "sent":"Structural support 1635 may provide flexure to PCB 1632 to reduce stress and fatigue on PCB 1632 and allow tongue 1630 along with PCB 1632 to deflect toward and away from first or second inner surfaces 1620a 1620b during insertionextraction events.","sentimentwords":[]},{"linePolarity":1.21428571429,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"6", "sent":"In order to provide this flexure structural support 1635 may be made from an elastomer that deforms in response to stress e.g. a mating event but holds tongue 1630 centrally located between first and second inner surfaces 1620a 1620b otherwise.As shown in the patent drawings Apples solution allows the contact portion of the tongue to be thicker and sturdier while positioning it on a thinner flexible stalk.","sentimentwords":[]},{"linePolarity":1.625,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"7", "sent":"This stalk will deflect in either direction in order to provide room for mating with existing USB ports while maintaining a strong connection with the contacts.Apples proposed USB connector with tongue showing durable contact portion 1939 on a thin flexible stalkThis flexible tongue provides a distinct advantage over current solutions fromcompeting products which typically use a rigid tongue that has been slimmed down to fit existing USB ports.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"8", "sent":"Though these cables can be inserted in either orientation the very thin tongue is susceptible to breakage.","sentimentwords":[{"word":"susceptible","polarity":-3.0}]},{"linePolarity":2.1,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"9", "sent":"With Apples proposed solution the contact portion of the tongue can be thicker and more durable with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation.Recently leakedphotosandvideossuggest Apple may be working on a new Lightning cable with this reversible USB connector.","sentimentwords":[{"word":"solution","polarity":2.0},{"word":"fit","polarity":2.0},{"word":"more","polarity":1.5},{"word":"flexible","polarity":3.0},{"word":"new","polarity":2.0}]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"10", "sent":"These cables may ship with future iOS devices and also may containother featuressuch as support for highdefinition audio playback on Made For iPhone MFi audio accessories.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508275",
+"date":"Aug 21, 2014, 11:39 AM",
+"author":"theanimala",
+"aid":"100174",
+"htmltext":"\r\n            \r\n            Cables..., boring!\r\n\n",
+
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"11", "sent":"Cables... boring","sentimentwords":[{"word":"boring","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508276",
+"date":"Aug 21, 2014, 11:39 AM",
+"author":"theheadguy",
+"aid":"51132",
+"htmltext":"\r\n            \r\n            This makes more sense on how it differentiates from the previously awarded patent.  Kudos to Apple for improving on existing hardware.\r\n\n",
+
+"sent": [{"linePolarity":0.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"12", "sent":"This makes more sense on how it differentiates from the previously awarded patent.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"13", "sent":"Kudos to Apple for improving on existing hardware.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508283",
+"date":"Aug 21, 2014, 11:40 AM",
+"author":"shubie",
+"aid":"907553",
+"htmltext":"\r\n            \r\n            I know it's just a cable, but I'm pretty excited for this whole reversible USB thing to start showing up.\r\n\n",
+
+"sent": [{"linePolarity":1.4,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"17", "sent":"I know its just a cable but Im pretty excited for this whole reversible USB thing to start showing up.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509638",
+"date":"Aug 21, 2014, 03:54 PM",
+"author":"leroypants",
+"aid":"466101",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>shubie</strong>\n<a href=\"showthread.php?p=19508283#post19508283\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I know it's just a cable, but I'm pretty excited for this whole reversible USB thing to start showing up.</div>\n</td>\n</tr>\n</table>\n</div>It has been around for a while, I actually have one. Apple is just stealing an idea from a smaller company who won't be able to put a fight against Apple.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508283",
+
+"sent": [{"linePolarity":1.4,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"167", "sent":"Quote:Originally Posted byshubieI know its just a cable but Im pretty excited for this whole reversible USB thing to start showing up.It has been around for a while I actually have one.","sentimentwords":[]},{"linePolarity":-0.45,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"168", "sent":"Apple is just stealing an idea from a smaller company who wont be able to put a fight against Apple.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510196",
+"date":"Aug 21, 2014, 06:05 PM",
+"author":"diddl14",
+"aid":"348915",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>leroypants</strong>\n<a href=\"showthread.php?p=19509638#post19509638\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">It has been around for a while, I actually have one. Apple is just stealing an idea from a smaller company who won't be able to put a fight against Apple.</div>\n</td>\n</tr>\n</table>\n</div>Either that or they might have paid that small company a ******** of money to take their idea a step further..\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509638",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"201", "sent":"Quote:Originally Posted byleroypantsIt has been around for a while I actually have one.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"202", "sent":"Apple is just stealing an idea from a smaller company who wont be able to put a fight against Apple.Either that or they might have paid that small company a ******** of money to take their idea a step further..","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508286",
+"date":"Aug 21, 2014, 11:41 AM",
+"author":"ValSalva",
+"aid":"333200",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\r\n\t\t\t\r\n\t\t\t\tApple may be working on a new Lightning cable with this reversible USB connector. These cables may ship with future iOS devices and also may contain other features such as support for high-definition audio playback on Made For iPhone (MFi) audio accessories.\r\n\t\t\t\r\n\t\t</td>\n</tr>\n</table>\n</div>Can't see how this is anything but good news. As long as the connector is not too fragile.\r\n\n",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"18", "sent":"Quote:Apple may be working on a new Lightning cable with this reversible USB connector.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"19", "sent":"These cables may ship with future iOS devices and also may contain other features such as support for highdefinition audio playback on Made For iPhone MFi audio accessories.Cant see how this is anything but good news.","sentimentwords":[{"word":"features","polarity":2.0},{"word":"support","polarity":1.0},{"word":"good","polarity":6.0}]},{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"20", "sent":"As long as the connector is not too fragile.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508292",
+"date":"Aug 21, 2014, 11:42 AM",
+"author":"BMcCoy",
+"aid":"451353",
+"htmltext":"\r\n            \r\n            Yeah, looks a bit vulnerable to me.. after repeated insertions, that flexible stalk must be susceptible to snapping.\r\n\n",
+
+"sent": [{"linePolarity":0.3,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"21", "sent":"Yeah looks a bit vulnerable to me.. after repeated insertions that flexible stalk must be susceptible to snapping.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508769",
+"date":"Aug 21, 2014, 01:17 PM",
+"author":"snebes",
+"aid":"180734",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>BMcCoy</strong>\n<a href=\"showthread.php?p=19508292#post19508292\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Yeah, looks a bit vulnerable to me.. after repeated insertions, that flexible stalk must be susceptible to <b>going flaccid</b>.</div>\n</td>\n</tr>\n</table>\n</div>FTFY.  And TWSS.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508292",
+
+"sent": [{"linePolarity":0.3,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"91", "sent":"Quote:Originally Posted byBMcCoyYeah looks a bit vulnerable to me.. after repeated insertions that flexible stalk must be susceptible togoing flaccid.FTFY.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"92", "sent":"And TWSS.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508306",
+"date":"Aug 21, 2014, 11:46 AM",
+"author":"GeneralChang",
+"aid":"864176",
+"htmltext":"\r\n            \r\n            I'm running about equal parts &quot;this is such a fabulous idea&quot; and &quot;that connector is going to break so fast.&quot;<br />\n<br />\r\nReally not sure how to feel about this.\r\n\n",
+
+"sent": [{"linePolarity":0.45625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"22", "sent":"Im running about equal parts quotthis is such a fabulous ideaquot and quotthat connector is going to break so fast.quotReally not sure how to feel about this.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508316",
+"date":"Aug 21, 2014, 11:47 AM",
+"author":"mazz0",
+"aid":"555900",
+"htmltext":"\r\n            \r\n            Really?  You think a flexible, moving part would reduce breakage?\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"23", "sent":"Really?","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"24", "sent":"You think a flexible moving part would reduce breakage?","sentimentwords":[{"word":"flexible","polarity":3.0}]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508330",
+"date":"Aug 21, 2014, 11:50 AM",
+"author":"TimUSCA",
+"aid":"69332",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>mazz0</strong>\n<a href=\"showthread.php?p=19508316#post19508316\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Really?  You think a flexible, moving part would reduce breakage?</div>\n</td>\n</tr>\n</table>\n</div>In theory, it'll reduce breakage in the sense that people are trying to force them cord into the port upside down. If it just flexes instead of having a movable joint or hinge, it'll be fine.<br />\n<br />\nSome of you amaze me with your armchair engineering. You think Apple would release a cable like this and then afterwards being all like, &quot;OMG we totally forgot this could break since it moves! Why didn't we consider this and design something more durable!&quot;<br />\n<br />\nJust wait for the damn thing to be released, and if you don't like it, nobody is forcing you to use it. There are plenty of 3rd-party normal cords out there. I, for one, will be happy to use a USB cable that works without having to attempt insertion 3 times.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508316",
+
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"28", "sent":"Quote:Originally Posted bymazz0Really?","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"29", "sent":"You think a flexible moving part would reduce breakage?In theory itll reduce breakage in the sense that people are trying to force them cord into the port upside down.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"30", "sent":"If it just flexes instead of having a movable joint or hinge itll be fine.Some of you amaze me with your armchair engineering.","sentimentwords":[{"word":"amaze","polarity":3.0},{"word":"just","polarity":1.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"31", "sent":"You think Apple would release a cable like this and then afterwards being all like quotOMG we totally forgot this could break since it moves","sentimentwords":[]},{"linePolarity":-1.25,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"32", "sent":"Why didnt we consider this and design something more durablequotJust wait for the damn thing to be released and if you dont like it nobody is forcing you to use it.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"33", "sent":"There are plenty of 3rdparty normal cords out there.","sentimentwords":[{"word":"normal","polarity":2.0}]},{"linePolarity":4.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"34", "sent":"I for one will be happy to use a USB cable that works without having to attempt insertion 3 times.","sentimentwords":[{"word":"happy","polarity":4.0}]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508902",
+"date":"Aug 21, 2014, 01:37 PM",
+"author":"the8thark",
+"aid":"565711",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TimUSCA</strong>\n<a href=\"showthread.php?p=19508330#post19508330\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">There are plenty of 3rd-party normal cords out there. I, for one, will be happy to use a USB cable that works without having to attempt insertion 3 times.</div>\n</td>\n</tr>\n</table>\n</div>How many cables are you inserting that 3 seconds longer per cable insert actually matters?\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508330",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"116", "sent":"Quote:Originally Posted byTimUSCAThere are plenty of 3rdparty normal cords out there.","sentimentwords":[{"word":"normal","polarity":2.0}]},{"linePolarity":4.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"117", "sent":"I for one will be happy to use a USB cable that works without having to attempt insertion 3 times.How many cables are you inserting that 3 seconds longer per cable insert actually matters?","sentimentwords":[{"word":"happy","polarity":4.0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19512610",
+"date":"Aug 22, 2014, 10:08 AM",
+"author":"mazz0",
+"aid":"555900",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TimUSCA</strong>\n<a href=\"showthread.php?p=19508330#post19508330\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">In theory, it'll reduce breakage in the sense that people are trying to force them cord into the port upside down. If it just flexes instead of having a movable joint or hinge, it'll be fine.<br />\n<br />\r\nSome of you amaze me with your armchair engineering. You think Apple would release a cable like this and then afterwards being all like, &quot;OMG we totally forgot this could break since it moves! Why didn't we consider this and design something more durable!&quot;<br />\n<br />\r\nJust wait for the damn thing to be released, and if you don't like it, nobody is forcing you to use it. There are plenty of 3rd-party normal cords out there. I, for one, will be happy to use a USB cable that works without having to attempt insertion 3 times.</div>\n</td>\n</tr>\n</table>\n</div>The problem is, Apple has a history of producing flimsy peripherals.  I've had multiple cables who's skin has split apart without any rough treatment, I've had the catch holding the battery cover in on the Apple TV remote break, I've had headphones who've stopped producing sound in less than two years (but out of warranty <img src=\"http://cdn.macrumors.com/vb/images/smilies/frown.png\" border=\"0\" alt=\"\" title=\"Frown\" class=\"inlineimg\" /> ). I'm not saying all their peripherals are rubbish, but I'm saying they've produced enough weak ones for me to not assume that they wouldn't do so again.  I think we all know that they do seem to focus on sveltness sometimes at the expense of other concerns.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508330",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"243", "sent":"Quote:Originally Posted byTimUSCAIn theory itll reduce breakage in the sense that people are trying to force them cord into the port upside down.","sentimentwords":[{"word":"amaze","polarity":3.0},{"word":"just","polarity":1.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"244", "sent":"If it just flexes instead of having a movable joint or hinge itll be fine.Some of you amaze me with your armchair engineering.","sentimentwords":[]},{"linePolarity":-1.25,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"245", "sent":"You think Apple would release a cable like this and then afterwards being all like quotOMG we totally forgot this could break since it moves","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"246", "sent":"Why didnt we consider this and design something more durablequotJust wait for the damn thing to be released and if you dont like it nobody is forcing you to use it.","sentimentwords":[{"word":"normal","polarity":2.0}]},{"linePolarity":-0.666666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"247", "sent":"There are plenty of 3rdparty normal cords out there.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"248", "sent":"I for one will be happy to use a USB cable that works without having to attempt insertion 3 times.The problem is Apple has a history of producing flimsy peripherals.","sentimentwords":[]},{"linePolarity":-6.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"249", "sent":"Ive had multiple cables whos skin has split apart without any rough treatment Ive had the catch holding the battery cover in on the Apple TV remote break Ive had headphones whove stopped producing sound in less than two years but out of warranty.","sentimentwords":[{"word":"weak","polarity":-6.0}]},{"linePolarity":-2.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"250", "sent":"Im not saying all their peripherals are rubbish but Im saying theyve produced enough weak ones for me to not assume that they wouldnt do so again.","sentimentwords":[{"word":"expense","polarity":-3.0},{"word":"concerns","polarity":-1.5}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"251", "sent":"I think we all know that they do seem to focus on sveltness sometimes at the expense of other concerns.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508334",
+"date":"Aug 21, 2014, 11:51 AM",
+"author":"WordMasterRice",
+"aid":"475156",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>mazz0</strong>\n<a href=\"showthread.php?p=19508316#post19508316\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Really?  You think a flexible, moving part would reduce breakage?</div>\n</td>\n</tr>\n</table>\n</div>Exactly what I was thinking.  I don't like USB a whole lot, but I don't think that this is the solution to the problem.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508316",
+
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"36", "sent":"Quote:Originally Posted bymazz0Really?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"37", "sent":"You think a flexible moving part would reduce breakage?Exactly what I was thinking.","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"38", "sent":"I dont like USB a whole lot but I dont think that this is the solution to the problem.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19514287",
+"date":"Aug 22, 2014, 04:31 PM",
+"author":"zipa",
+"aid":"409971",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>mazz0</strong>\n<a href=\"showthread.php?p=19508316#post19508316\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Really?  You think a flexible, moving part would reduce breakwage?</div>\n</td>\n</tr>\n</table>\n</div>Yes. 99,9% of the time what breaks is the port, not the cable. A flexible, moving connector will prevent the connector being applied as a lever to smash the port into smithereens.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508316",
+
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"284", "sent":"Quote:Originally Posted bymazz0Really?","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"285", "sent":"You think a flexible moving part would reduce breakwage?Yes.","sentimentwords":[]},{"linePolarity":0.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"286", "sent":"999 of the time what breaks is the port not the cable.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"287", "sent":"A flexible moving connector will prevent the connector being applied as a lever to smash the port into smithereens.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19527437",
+"date":"Aug 26, 2014, 02:39 PM",
+"author":"mazz0",
+"aid":"555900",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>zipa</strong>\n<a href=\"showthread.php?p=19514287#post19514287\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Yes. 99,9% of the time what breaks is the port, not the cable. A flexible, moving connector will prevent the connector being applied as a lever to smash the port into smithereens.</div>\n</td>\n</tr>\n</table>\n</div>That would be a meaningful statistic if a) it were true, and b) flexible plugs were already available in similar numbers to non-flexible ones.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19514287",
+
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"320", "sent":"Quote:Originally Posted byzipaYes.","sentimentwords":[]},{"linePolarity":1.14,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"321", "sent":"999 of the time what breaks is the port not the cable.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"322", "sent":"A flexible moving connector will prevent the connector being applied as a lever to smash the port into smithereens.That would be a meaningful statistic if a it were true and b flexible plugs were already available in similar numbers to nonflexible ones.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19527461",
+"date":"Aug 26, 2014, 02:43 PM",
+"author":"zipa",
+"aid":"409971",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>mazz0</strong>\n<a href=\"showthread.php?p=19527437#post19527437\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">That would be a meaningful statistic if a) it were true, and b) flexible plugs were already available in similar numbers to non-flexible ones.</div>\n</td>\n</tr>\n</table>\n</div>No idea what this means, but yes, the main cause of failure for USB-connectors (and basically any port on a computer) is that the cable breaks the port loose from the motherboard.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19527437",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"323", "sent":"Quote:Originally Posted bymazz0That would be a meaningful statistic if a it were true and b flexible plugs were already available in similar numbers to nonflexible ones.No idea what this means but yes the main cause of failure for USBconnectors and basically any port on a computer is that the cable breaks the port loose from the motherboard.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19534375",
+"date":"Aug 28, 2014, 05:57 AM",
+"author":"mazz0",
+"aid":"555900",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>zipa</strong>\n<a href=\"showthread.php?p=19527461#post19527461\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">No idea what this means, but yes, the main cause of failure for USB-connectors (and basically any port on a computer) is that the cable breaks the port loose from the motherboard.</div>\n</td>\n</tr>\n</table>\n</div>What it means is that the current &quot;main cause of failure&quot; is irrelevant, as flexible connectors like this are barely used, so the frequency with which they'd break isn't included in the statistics.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19527461",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"328", "sent":"Quote:Originally Posted byzipaNo idea what this means but yes the main cause of failure for USBconnectors and basically any port on a computer is that the cable breaks the port loose from the motherboard.What it means is that the current quotmain cause of failurequot is irrelevant as flexible connectors like this are barely used so the frequency with which theyd break isnt included in the statistics.","sentimentwords":[]}]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508323",
+"date":"Aug 21, 2014, 11:48 AM",
+"author":"1Zach1",
+"aid":"160103",
+"htmltext":"\r\n            \r\n            This isn't really &quot;Apple revealing&quot;.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"25", "sent":"This isnt really quotApple revealingquot.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19512670",
+"date":"Aug 22, 2014, 10:21 AM",
+"author":"tbrinkma",
+"aid":"71581",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>1Zach1</strong>\n<a href=\"showthread.php?p=19508323#post19508323\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">This isn't really &quot;Apple revealing&quot;.</div>\n</td>\n</tr>\n</table>\n</div>Actually, it is.  Revealing the invention is an integral part of filing for a patent.<font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>cube</strong>\n<a href=\"showthread.php?p=19508395#post19508395\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">It would seem this would have to be an FRAND patent, as regular USB connectors are so annoying as to make this essential for all types of cables.</div>\n</td>\n</tr>\n</table>\n</div>If it becomes part of the official USB standard, then it might have to be FRAND (depending on the terms required by the USB standard committee to accept the IP into the standard).  If not, then it's fairly unlikely that it would &quot;have to be FRAND&quot;.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508323",
+
+"sent": [{"linePolarity":-0.35,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"252", "sent":"Quote:Originally Posted by1Zach1This isnt really quotApple revealingquot.Actually it is.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"253", "sent":"Revealing the invention is an integral part of filing for a patent.Quote:Originally Posted bycubeIt would seem this would have to be an FRAND patent as regular USB connectors are so annoying as to make this essential for all types of cables.If it becomes part of the official USB standard then it might have to be FRAND depending on the terms required by the USB standard committee to accept the IP into the standard.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"254", "sent":"If not then its fairly unlikely that it would quothave to be FRANDquot.","sentimentwords":[{"word":"too","polarity":-4.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508325",
+"date":"Aug 21, 2014, 11:49 AM",
+"author":"troop231",
+"aid":"400745",
+"htmltext":"\r\n            \r\n            Yeah these aren't going to last long, too many moving parts and complicated.\r\n\n",
+
+"sent": [{"linePolarity":-2.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"26", "sent":"Yeah these arent going to last long too many moving parts and complicated.","sentimentwords":[{"word":"complicated","polarity":-1.5},{"word":"too","polarity":-4.5},{"word":"long","polarity":-1.5}]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511478",
+"date":"Aug 22, 2014, 02:38 AM",
+"author":"juannacho",
+"aid":"568343",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>troop231</strong>\n<a href=\"showthread.php?p=19508325#post19508325\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Yeah these aren't going to last long, too many moving parts and complicated.</div>\n</td>\n</tr>\n</table>\n</div>When you say &quot;too many moving parts&quot; you mean 'one', right? ;P\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508325",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"234", "sent":"Quote:Originally Posted bytroop231Yeah these arent going to last long too many moving parts and complicated.When you say quottoo many moving partsquot you mean one right?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"235", "sent":"P","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511584",
+"date":"Aug 22, 2014, 03:56 AM",
+"author":"mw360",
+"aid":"481080",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>juannacho</strong>\n<a href=\"showthread.php?p=19511478#post19511478\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">When you say &quot;too many moving parts&quot; you mean 'one', right? ;P</div>\n</td>\n</tr>\n</table>\n</div>He does. The same number as ethernet plugs that don't break when inserted, or phone/modem plugs, or 3 less than magsafe plugs. <br />\n<br />\nWe've had flexing and moving parts in sockets for decades without there being any distress about it. Take a look inside pretty much any kind of socket - chances are you will find little flexing tongues to grip the pins. And even if there was an epidemic of these things breaking, isn't it a much better idea to have the supposedly fragile part, on the cheap cable, instead of the expensive motherboard?\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511478",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"238", "sent":"Quote:Originally Posted byjuannachoWhen you say quottoo many moving partsquot you mean one right?","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"239", "sent":"PHe does.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"240", "sent":"The same number as ethernet plugs that dont break when inserted or phonemodem plugs or 3 less than magsafe plugs.Weve had flexing and moving parts in sockets for decades without there being any distress about it.","sentimentwords":[]},{"linePolarity":-1.33333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"241", "sent":"Take a look inside pretty much any kind of socket  chances are you will find little flexing tongues to grip the pins.","sentimentwords":[]},{"linePolarity":-0.625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"242", "sent":"And even if there was an epidemic of these things breaking isnt it a much better idea to have the supposedly fragile part on the cheap cable instead of the expensive motherboard?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19529878",
+"date":"Aug 27, 2014, 03:37 AM",
+"author":"hyhybt",
+"aid":"847796",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>mw360</strong>\n<a href=\"showthread.php?p=19511584#post19511584\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">He does. The same number as ethernet plugs that don't break when inserted, or phone/modem plugs, or 3 less than magsafe plugs. <br /></div>\n</td>\n</tr>\n</table>\n</div>But those little tabs on ethernet and phone plugs often *do* break if the cable is put in and removed frequently, as is often done with USB. Or they get caught on something and snap off. Which isn't to disagree with your main point; it's just that those aren't a good example unless you're talking about semi-permanence.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511584",
+
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"324", "sent":"Quote:Originally Posted bymw360He does.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"325", "sent":"The same number as ethernet plugs that dont break when inserted or phonemodem plugs or 3 less than magsafe plugs.But those little tabs on ethernet and phone plugs often *do* break if the cable is put in and removed frequently as is often done with USB.","sentimentwords":[]},{"linePolarity":0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"326", "sent":"Or they get caught on something and snap off.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"327", "sent":"Which isnt to disagree with your main point its just that those arent a good example unless youre talking about semipermanence.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19512859",
+"date":"Aug 22, 2014, 11:02 AM",
+"author":"troop231",
+"aid":"400745",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>juannacho</strong>\n<a href=\"showthread.php?p=19511478#post19511478\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">When you say &quot;too many moving parts&quot; you mean 'one', right? ;P</div>\n</td>\n</tr>\n</table>\n</div>Actually no, the pins will have to change/move as when you flip the connector over, the pinout is not the same. V+, V -, D+ and D- change. I doubt there will be a chip in the cable to do this.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511478",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"255", "sent":"Quote:Originally Posted byjuannachoWhen you say quottoo many moving partsquot you mean one right?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"256", "sent":"PActually no the pins will have to changemove as when you flip the connector over the pinout is not the same.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"257", "sent":"V V  D and D change.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"258", "sent":"I doubt there will be a chip in the cable to do this.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19513374",
+"date":"Aug 22, 2014, 12:55 PM",
+"author":"skinned66",
+"aid":"539832",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>troop231</strong>\n<a href=\"showthread.php?p=19512859#post19512859\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Actually no, the pins will have to change/move as when you flip the connector over, the pinout is not the same. V+, V -, D+ and D- change. I doubt there will be a chip in the cable to do this.</div>\n</td>\n</tr>\n</table>\n</div>My apologies, I'm not following. Why would the pins have to change? Only one side makes a connection.<br />\n<br />\n<font face=\"Courier New\"> <br />\r\n[1234]<br />\r\n[----]<br />\n<font size=\"1\">insulator</font><br />\r\n[----]<br />\r\n[4321]<br />\n</font>\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19512859",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"259", "sent":"Quote:Originally Posted bytroop231Actually no the pins will have to changemove as when you flip the connector over the pinout is not the same.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"260", "sent":"V V  D and D change.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"261", "sent":"I doubt there will be a chip in the cable to do this.My apologies Im not following.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"262", "sent":"Why would the pins have to change?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"263", "sent":"Only one side makes a connection.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"264", "sent":"1234insulator4321","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521064",
+"date":"Aug 24, 2014, 09:33 PM",
+"author":"troop231",
+"aid":"400745",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>skinned66</strong>\n<a href=\"showthread.php?p=19513374#post19513374\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">My apologies, I'm not following. Why would the pins have to change? Only one side makes a connection.<br />\n<br />\n<font face=\"Courier New\"> <br />\r\n[1234]<br />\r\n[----]<br />\n<font size=\"1\">insulator</font><br />\r\n[----]<br />\r\n[4321]<br />\n</font></div>\n</td>\n</tr>\n</table>\n</div>I don't think you understand, how is the cable magically going to swap terminal positions?<br />\n<br />\n<img src=\"http://i.imgur.com/bDb2zGd.png\" border=\"0\" alt=\"\" />\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19513374",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"292", "sent":"Quote:Originally Posted byskinned66My apologies Im not following.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"293", "sent":"Why would the pins have to change?","sentimentwords":[]},{"linePolarity":2.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"294", "sent":"Only one side makes a connection.","sentimentwords":[{"word":"understand","polarity":1.0},{"word":"magically","polarity":4.0}]},{"linePolarity":1.33333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"295", "sent":"1234insulator4321I dont think you understand how is the cable magically going to swap terminal positions?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521179",
+"date":"Aug 24, 2014, 10:18 PM",
+"author":"skinned66",
+"aid":"539832",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>troop231</strong>\n<a href=\"showthread.php?p=19521064#post19521064\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I don't think you understand, how is the cable magically going to swap terminal positions?<br />\n<br />\n<a rel=\"nofollow\" href=\"http://i.imgur.com/bDb2zGd.png\" target=\"_blank\">Image</a></div>\n</td>\n</tr>\n</table>\n</div>You're correct, I don't understand; why there would need to be magic or swapping of terminal positions required.<br />\n<br />\nLeave the female connector alone, and redesign the male so that it's double-sided and &quot;wired&quot; in opposite directions.<br />\n<br />\nLet's reference the image you posted. When you flip that male connector upside down, the contacts are in now ordered differently - we agree on that. The contacts are now ordered 1234 right?<br />\n<br />\nDesign the cable that way. Flip it as many times as you want - the pins will always be in the right order.<br />\n<br />\nIn your depicted scenario the top row of the new cable is what makes the contact with the female port since its pins are pointing down. So maintaining that orientation these new <i>male</i> cables (as per the numbering you've graciously supplied) is <br />\n<br />\n4321<br />\n1234<br />\n<br />\nAgain this is the male cable only and not a diagram of the connection between both ports. Flip that over and you get<br />\n<br />\n4321<br />\n1234<br />\n<br />\nMagic <img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" /><br />\n<br />\nLook <i>closely</i> at the original patent diagram. It's all there. But it needs to be flexible to work and maintain reverse compatibility.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521064",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"296", "sent":"Quote:Originally Posted bytroop231I dont think you understand how is the cable magically going to swap terminal positions?ImageYoure correct I dont understand why there would need to be magic or swapping of terminal positions required.Leave the female connector alone and redesign the male so that its doublesided and quotwiredquot in opposite directions.Lets reference the image you posted.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"297", "sent":"When you flip that male connector upside down the contacts are in now ordered differently  we agree on that.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"298", "sent":"The contacts are now ordered 1234 right?Design the cable that way.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"299", "sent":"Flip it as many times as you want  the pins will always be in the right order.In your depicted scenario the top row of the new cable is what makes the contact with the female port since its pins are pointing down.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"300", "sent":"So maintaining that orientation these newmalecables as per the numbering youve graciously supplied is43211234Again this is the male cable only and not a diagram of the connection between both ports.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"301", "sent":"Flip that over and you get43211234MagicLookcloselyat the original patent diagram.","sentimentwords":[]},{"linePolarity":6.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"302", "sent":"Its all there.","sentimentwords":[{"word":"flexible","polarity":6.0}]},{"linePolarity":1.33333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"303", "sent":"But it needs to be flexible to work and maintain reverse compatibility.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521210",
+"date":"Aug 24, 2014, 10:29 PM",
+"author":"troop231",
+"aid":"400745",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>skinned66</strong>\n<a href=\"showthread.php?p=19521179#post19521179\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">You're correct, I don't understand; why there would need to be magic or swapping of terminal positions required.<br />\n<br />\nLeave the female connector alone, and redesign the male so that it's double-sided and &quot;wired&quot; in opposite directions.<br />\n<br />\nLet's reference the image you posted. When you flip that male connector upside down, the contacts are in now ordered differently - we agree on that. The contacts are now ordered 1234 right?<br />\n<br />\nDesign the cable that way. Flip it as many times as you want - the pins will always be in the right order.<br />\n<br />\nIn your depicted scenario the top row of the new cable is what makes the contact with the female port since its pins are pointing down. So maintaining that orientation these new <i>male</i> cables (as per the numbering you've graciously supplied) is <br />\n<br />\n4321<br />\n1234<br />\n<br />\nAgain this is the male cable only and not a diagram of the connection. Flip that over and you get<br />\n<br />\n4321<br />\n1234<br />\n<br />\nMagic <img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" /><br />\n<br />\nLook <i>closely</i> at the original patent diagram. It's all there. But it needs to be flexible to work and maintain reverse compatibility.</div>\n</td>\n</tr>\n</table>\n</div>Can you do a little mockup/drawing? I'm kind of lost now lol, it's getting late. <img src=\"http://cdn.macrumors.com/vb/images/smilies/smile.png\" border=\"0\" alt=\"\" title=\"Smilie\" class=\"inlineimg\" /> Edit: actually, are you implying/meaning that it would be a PCB with traces going to the other flip side of pins? That way it works in either orientation, because only one side is making connection, so the other side of the 'tongue' shouldn't be shorting out to the ground/shielding hopefully!\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521179",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"304", "sent":"Quote:Originally Posted byskinned66Youre correct I dont understand why there would need to be magic or swapping of terminal positions required.Leave the female connector alone and redesign the male so that its doublesided and quotwiredquot in opposite directions.Lets reference the image you posted.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"305", "sent":"When you flip that male connector upside down the contacts are in now ordered differently  we agree on that.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"306", "sent":"The contacts are now ordered 1234 right?Design the cable that way.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"307", "sent":"Flip it as many times as you want  the pins will always be in the right order.In your depicted scenario the top row of the new cable is what makes the contact with the female port since its pins are pointing down.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"308", "sent":"So maintaining that orientation these newmalecables as per the numbering youve graciously supplied is43211234Again this is the male cable only and not a diagram of the connection.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"309", "sent":"Flip that over and you get43211234MagicLookcloselyat the original patent diagram.","sentimentwords":[]},{"linePolarity":2.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"310", "sent":"Its all there.","sentimentwords":[{"word":"flexible","polarity":6.0},{"word":"little","polarity":-1.5}]},{"linePolarity":-2.1,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"311", "sent":"But it needs to be flexible to work and maintain reverse compatibility.Can you do a little mockupdrawing?","sentimentwords":[{"word":"kind","polarity":-2.1}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"312", "sent":"Im kind of lost now lol its getting late.Edit: actually are you implyingmeaning that it would be a PCB with traces going to the other flip side of pins?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"313", "sent":"That way it works in either orientation because only one side is making connection so the other side of the tongue shouldnt be shorting out to the groundshielding hopefully","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521339",
+"date":"Aug 24, 2014, 11:11 PM",
+"author":"skinned66",
+"aid":"539832",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>troop231</strong>\n<a href=\"showthread.php?p=19521210#post19521210\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">actually, are you implying/meaning that it would be a PCB with traces going to the other flip side of pins? That way it works in either orientation, because only one side is making connection, so the other side of the 'tongue' shouldn't be shorting out to the ground/shielding hopefully!</div>\n</td>\n</tr>\n</table>\n</div>Exactly!<br />\n<br />\r\nYes I would expect them to anticipate potential problems like that. That would be bad. Time will tell; I haven't read the patent myself. I'll just wait to see the real deal in the wild. For me it's not a &quot;must have&quot; given all of the USB cables I have already.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19521210",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"314", "sent":"Quote:Originally Posted bytroop231actually are you implyingmeaning that it would be a PCB with traces going to the other flip side of pins?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"315", "sent":"That way it works in either orientation because only one side is making connection so the other side of the tongue shouldnt be shorting out to the groundshielding hopefullyExactlyYes I would expect them to anticipate potential problems like that.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"316", "sent":"That would be bad.","sentimentwords":[]},{"linePolarity":0.233333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"317", "sent":"Time will tell I havent read the patent myself.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"318", "sent":"Ill just wait to see the real deal in the wild.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"319", "sent":"For me its not a quotmust havequot given all of the USB cables I have already.","sentimentwords":[]}]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508327",
+"date":"Aug 21, 2014, 11:49 AM",
+"author":"Nicky_G",
+"aid":"4448",
+"htmltext":"\r\n            \r\n            &quot;...the contact portion of the tongue can be thicker and more durable, with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation.&quot;<br />\n<br />\r\nI can definitely think of entirely different scenarios in which this would be useful.<br />\n<br />\n<img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" />\n\n",
+
+"sent": [{"linePolarity":1.625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"27", "sent":"quot...the contact portion of the tongue can be thicker and more durable with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation.quotI can definitely think of entirely different scenarios in which this would be useful.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508487",
+"date":"Aug 21, 2014, 12:17 PM",
+"author":"Locoboof",
+"aid":"192073",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Nicky G</strong>\n<a href=\"showthread.php?p=19508327#post19508327\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">&quot;...the contact portion of the tongue can be thicker and more durable, with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation.&quot;<br />\n<br />\r\nI can definitely think of entirely different scenarios in which this would be useful.<br />\n<br />\n<img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" /></div>\n</td>\n</tr>\n</table>\n</div>Lol! I see what you meant. <img src=\"http://cdn.macrumors.com/vb/images/smilies/wink.png\" border=\"0\" alt=\"\" title=\"Wink\" class=\"inlineimg\" />\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508327",
+
+"sent": [{"linePolarity":2.16666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"60", "sent":"Quote:Originally Posted byNicky Gquot...the contact portion of the tongue can be thicker and more durable with the flexible portion of the tongue minimizing the possibility of breakage and providing room for the thicker tongue to still fit in either orientation.quotI can definitely think of entirely different scenarios in which this would be useful.Lol","sentimentwords":[{"word":"fit","polarity":2.0},{"word":"more","polarity":1.5},{"word":"flexible","polarity":3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"61", "sent":"I see what you meant.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508331",
+"date":"Aug 21, 2014, 11:51 AM",
+"author":"mdhwoods",
+"aid":"204192",
+"htmltext":"\r\n            \r\n            Trying to figure out why the write up reference's 1600's yet the diagram shows everything in the 1900's.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"35", "sent":"Trying to figure out why the write up references 1600s yet the diagram shows everything in the 1900s.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508338",
+"date":"Aug 21, 2014, 11:52 AM",
+"author":"macguyindc",
+"aid":"890063",
+"htmltext":"\r\n            \r\n            &quot;Really? You think a flexible, moving part would reduce breakage?&quot;<br />\n<br />\r\nPeople. The flexible moving part could be made with LiquidMetal which allow this to function flawlessly without breaking.<br />\n<br />\r\nSheesh...when are you people going to stop having negative knee jerk reactions to news?<br />\n<br />\r\nI can't wait for this to roll out.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"43", "sent":"quotReally?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"44", "sent":"You think a flexible moving part would reduce breakage?quotPeople.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"45", "sent":"The flexible moving part could be made with LiquidMetal which allow this to function flawlessly without breaking.Sheesh...when are you people going to stop having negative knee jerk reactions to news?I cant wait for this to roll out.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508342",
+"date":"Aug 21, 2014, 11:53 AM",
+"author":"Mr_Fusion",
+"aid":"106085",
+"htmltext":"\r\n            \r\n            ... Just go back to FireWire already. <img src=\"http://cdn.macrumors.com/vb/images/smilies/rolleyes.png\" border=\"0\" alt=\"\" title=\"Roll Eyes (Sarcastic)\" class=\"inlineimg\" />\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"46", "sent":"... Just go back to FireWire already.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508343",
+"date":"Aug 21, 2014, 11:53 AM",
+"author":"samcraig",
+"aid":"331249",
+"htmltext":"\r\n            \r\n            Our product pipeline for 2014 is magical!\r\n\n",
+
+"sent": [{"linePolarity":4.0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"47", "sent":"Our product pipeline for 2014 is magical","sentimentwords":[{"word":"magical","polarity":4.0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508362",
+"date":"Aug 21, 2014, 11:55 AM",
+"author":"roow110",
+"aid":"590223",
+"htmltext":"\r\n            \r\n            Why can't Apple just ditch the metal housing altogether and just have the tongue like so many USB flash-drives these days?<br />\n<br />\nDoes the metal housing serve any real purpose? (ground maybe?)\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"48", "sent":"Why cant Apple just ditch the metal housing altogether and just have the tongue like so many USB flashdrives these days?Does the metal housing serve any real purpose?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"49", "sent":"ground maybe?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508378",
+"date":"Aug 21, 2014, 11:57 AM",
+"author":"vpndev",
+"aid":"314126",
+"htmltext":"\r\n            \r\n            I seem to recall something about there being a patent on the reversible version (sold by Tripp, I think).<br />\n<br />\r\nMaybe the flexible thingie would avoid infringing that patent?\r\n\n",
+
+"sent": [{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"50", "sent":"I seem to recall something about there being a patent on the reversible version sold by Tripp I think.Maybe the flexible thingie would avoid infringing that patent?","sentimentwords":[{"word":"avoid","polarity":0},{"word":"infringing","polarity":0},{"word":"flexible","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508395",
+"date":"Aug 21, 2014, 11:59 AM",
+"author":"cube",
+"aid":"33943",
+"htmltext":"\r\n            \r\n            It would seem this would have to be an FRAND patent, as regular USB connectors are so annoying as to make this essential for all types of cables.\r\n\n",
+
+"sent": [{"linePolarity":-1.7,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"51", "sent":"It would seem this would have to be an FRAND patent as regular USB connectors are so annoying as to make this essential for all types of cables.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508762",
+"date":"Aug 21, 2014, 01:16 PM",
+"author":"deconstruct60",
+"aid":"290553",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>cube</strong>\n<a href=\"showthread.php?p=19508395#post19508395\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">It would seem this would have to be an FRAND patent, as regular USB connectors are so annoying as to make this essential for all types of cables.</div>\n</td>\n</tr>\n</table>\n</div>   Not so much FRAND but more so Apple doing extensive wrap-around patents so that can go to basic concept holder and demand substantially lower licensing costs than whatever FRAND number that holder might have come up with. <br />\n<br />\n   Folks are still going to need to license the core concept patent here that isn't Apples. <br />\n<br />\n    It is just the now normal issue with patents these days between companies. Piled-higher-and-deeper ,  &quot;My stack is taller than your stack&quot; negotiations .   It only has tangent usefulness for users in mind.   The vast majority of stuff flowing through patent office these days is never going to make it market at all.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508395",
+
+"sent": [{"linePolarity":-0.261111111111,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"87", "sent":"Quote:Originally Posted bycubeIt would seem this would have to be an FRAND patent as regular USB connectors are so annoying as to make this essential for all types of cables.Not so much FRAND but more so Apple doing extensive wraparound patents so that can go to basic concept holder and demand substantially lower licensing costs than whatever FRAND number that holder might have come up with.Folks are still going to need to license the core concept patent here that isnt Apples.It is just the now normal issue with patents these days between companies.","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"88", "sent":"Piledhigheranddeeper   quotMy stack is taller than your stackquot negotiations .","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"89", "sent":"It only has tangent usefulness for users in mind.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"90", "sent":"The vast majority of stuff flowing through patent office these days is never going to make it market at all.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508396",
+"date":"Aug 21, 2014, 11:59 AM",
+"author":"NachoGrande",
+"aid":"420080",
+"htmltext":"\r\n            \r\n            just flexible enough to fail after 1 year of use.\r\n\n",
+
+"sent": [{"linePolarity":0.125,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"52", "sent":"just flexible enough to fail after 1 year of use.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508450",
+"date":"Aug 21, 2014, 12:10 PM",
+"author":"HobeSoundDarryl",
+"aid":"29249",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>NachoGrande</strong>\n<a href=\"showthread.php?p=19508396#post19508396\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">just flexible enough to fail after 1 year of use.</div>\n</td>\n</tr>\n</table>\n</div>$29.95 for a new (patented) USB 1 meter cable please.<br />\n<br />\nWhere is the special chip that will only authenticate a genuine Apple licensed cable rather than cheaper Chinese cable knockoffs, so that only the $29.95 cable will work with our Apple stuff?\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508396",
+
+"sent": [{"linePolarity":0.821428571429,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"55", "sent":"Quote:Originally Posted byNachoGrandejust flexible enough to fail after 1 year of use.29.95 for a new patented USB 1 meter cable please.Where is the special chip that will only authenticate a genuine Apple licensed cable rather than cheaper Chinese cable knockoffs so that only the 29.95 cable will work with our Apple stuff?","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508400",
+"date":"Aug 21, 2014, 12:00 PM",
+"author":"alexgowers",
+"aid":"703036",
+"htmltext":"\r\n            \r\n            If the flexible stalk is make of high quality steel which is treated properly it should  be as sturdy as any current plastic one way versions and get very good life.<br />\n<br />\nNow if only the cables didn't fray like mad! THEY NEEED BETTER PLASTIC SHIELDING APPLE PLEASE!\r\n\n",
+
+"sent": [{"linePolarity":0.975,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"53", "sent":"If the flexible stalk is make of high quality steel which is treated properly it should  be as sturdy as any current plastic one way versions and get very good life.Now if only the cables didnt fray like mad","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"54", "sent":"THEY NEEED BETTER PLASTIC SHIELDING APPLE PLEASE","sentimentwords":[{"word":"SHIELDING","polarity":2.0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508466",
+"date":"Aug 21, 2014, 12:14 PM",
+"author":"topdrawer",
+"aid":"747750",
+"htmltext":"\r\n            \r\n            omg. this solves one of my biggest pet peeves in technology. i detest usb plugs with symmetrical design that can only be inserted one way. who's the ******* who came up with that one?<br />\n<br />\r\nthank you apple.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"56", "sent":"omg.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"57", "sent":"this solves one of my biggest pet peeves in technology.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"58", "sent":"i detest usb plugs with symmetrical design that can only be inserted one way.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"59", "sent":"whos the ******* who came up with that one?thank you apple.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508888",
+"date":"Aug 21, 2014, 01:35 PM",
+"author":"69Mustang",
+"aid":"870396",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>topdrawer</strong>\n<a href=\"showthread.php?p=19508466#post19508466\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">omg. this solves one of my biggest pet peeves in technology. i detest usb plugs with symmetrical design that can only be inserted one way. who's the ******* who came up with that one?<br />\n<br />\r\nthank you apple.</div>\n</td>\n</tr>\n</table>\n</div>Then you are going to be even more happy.  You can get reversible USB cables right now. They've been on sale for quite some time.  Apparently not marketed very well though.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508466",
+
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"109", "sent":"Quote:Originally Posted bytopdraweromg.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"110", "sent":"this solves one of my biggest pet peeves in technology.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"111", "sent":"i detest usb plugs with symmetrical design that can only be inserted one way.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"112", "sent":"whos the ******* who came up with that one?thank you apple.Then you are going to be even more happy.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"113", "sent":"You can get reversible USB cables right now.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"114", "sent":"Theyve been on sale for quite some time.","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"115", "sent":"Apparently not marketed very well though.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509289",
+"date":"Aug 21, 2014, 02:43 PM",
+"author":"nagromme",
+"aid":"4837",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>69Mustang</strong>\n<a href=\"showthread.php?p=19508888#post19508888\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Then you are going to be even more happy.  You can get reversible USB cables right now. They've been on sale for quite some time.  Apparently not marketed very well though.</div>\n</td>\n</tr>\n</table>\n</div>They don't use the mechanism this article is about. Making them, in theory, more fragile. (Not sure if that has contributed to their lack of success in the market.)\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508888",
+
+"sent": [{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"136", "sent":"Quote:Originally Posted by69MustangThen you are going to be even more happy.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"137", "sent":"You can get reversible USB cables right now.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"138", "sent":"Theyve been on sale for quite some time.","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"139", "sent":"Apparently not marketed very well though.They dont use the mechanism this article is about.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"140", "sent":"Making them in theory more fragile.","sentimentwords":[]},{"linePolarity":-1.83333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"141", "sent":"Not sure if that has contributed to their lack of success in the market.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509226",
+"date":"Aug 21, 2014, 02:35 PM",
+"author":"Tiger8",
+"aid":"577464",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>topdrawer</strong>\n<a href=\"showthread.php?p=19508466#post19508466\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">omg. this solves one of my biggest pet peeves in technology. i detest usb plugs with symmetrical design that can only be inserted one way. who's the ******* who came up with that one?<br />\n<br />\r\nthank you apple.</div>\n</td>\n</tr>\n</table>\n</div>Whomever came up with that one is a visionary pioneer. USB is **THE** gamechanging connector that truly revolutionized the world. Before that, there were serial, parallel, and remember Apple's bulky SCSI 1 and 2 connectors? How about Apple's not-so-distant <b>firewire</b>? Or the current Thunderbolt?<br />\n<br />\r\nJust be thankful for a great technology and look forward to the next evolution of it.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508466",
+
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"125", "sent":"Quote:Originally Posted bytopdraweromg.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"126", "sent":"this solves one of my biggest pet peeves in technology.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"127", "sent":"i detest usb plugs with symmetrical design that can only be inserted one way.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"128", "sent":"whos the ******* who came up with that one?thank you apple.Whomever came up with that one is a visionary pioneer.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"129", "sent":"USB is **THE** gamechanging connector that truly revolutionized the world.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"130", "sent":"Before that there were serial parallel and remember Apples bulky SCSI 1 and 2 connectors?","sentimentwords":[{"word":"bulky","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"131", "sent":"How about Apples notsodistantfirewire?","sentimentwords":[]},{"linePolarity":1.75,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"132", "sent":"Or the current Thunderbolt?Just be thankful for a great technology and look forward to the next evolution of it.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509502",
+"date":"Aug 21, 2014, 03:24 PM",
+"author":"the_msa",
+"aid":"855453",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>topdrawer</strong>\n<a href=\"showthread.php?p=19508466#post19508466\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">omg. this solves one of my biggest pet peeves in technology. i detest usb plugs with symmetrical design that can only be inserted one way. who's the ******* who came up with that one?<br />\n<br />\r\nthank you apple.</div>\n</td>\n</tr>\n</table>\n</div>You must have a hard time living your life.<br />\n<br />\r\nAnyway, reversible usb sure is nice, but I know the orientation of usb ports on my devices. Takes like 1 day to remember them. After that I don't act like a baby trying to jam in a toy in its mouth. <br />\n<br />\r\nBonus LPT: on horizontal USB ports, the solid part of the port is always up, the solid part of the plug is always down. Wow, I just hacked your lifes!\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508466",
+
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"151", "sent":"Quote:Originally Posted bytopdraweromg.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"152", "sent":"this solves one of my biggest pet peeves in technology.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"153", "sent":"i detest usb plugs with symmetrical design that can only be inserted one way.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"154", "sent":"whos the ******* who came up with that one?thank you apple.You must have a hard time living your life.Anyway reversible usb sure is nice but I know the orientation of usb ports on my devices.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"155", "sent":"Takes like 1 day to remember them.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":7, "systemlabel":"solid part", "sentid":"156", "sent":"After that I dont act like a baby trying to jam in a toy in its mouth.Bonus LPT: on horizontal USB ports the solid part of the port is always up the solid part of the plug is always down.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"157", "sent":"Wow I just hacked your lifes","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509793",
+"date":"Aug 21, 2014, 04:29 PM",
+"author":"nagromme",
+"aid":"4837",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>the-msa</strong>\n<a href=\"showthread.php?p=19509502#post19509502\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">You must have a hard time living your life.<br />\n<br />\nAnyway, reversible usb sure is nice, but I know the orientation of usb ports on my devices. Takes like 1 day to remember them. After that I don't act like a baby trying to jam in a toy in its mouth. <br />\n<br />\nBonus LPT: on horizontal USB ports, the solid part of the port is always up, the solid part of the plug is always down. Wow, I just hacked your lifes!</div>\n</td>\n</tr>\n</table>\n</div>How does that help you know which way the cord is facing? And why should you have to look instead of doing it quickly by feel and habit?<br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19509532#post19509532\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Precisely <img src=\"http://cdn.macrumors.com/vb/images/smilies/smile.png\" border=\"0\" alt=\"\" title=\"Smilie\" class=\"inlineimg\" />How is it &quot;tricky to tell&quot;? It's EASY, if you're patient and have eyes </div>\n</td>\n</tr>\n</table>\n</div>Why should you need patience? Why should you need to look closely?<br />\n<br />\nWhy would &quot;easi<b>er</b>&quot; be worse than &quot;easy?&quot;<br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Tech198</strong>\n<a href=\"showthread.php?p=19509667#post19509667\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">...All i'm saying is Apple doing's this flexibly  on USB, which gives us, as the end user, an excuse to bend it, we wouldn't otherwise do, and when it comes we we all think &quot;Thats a great idea, how the hell would i have lived in my life without it.&quot;<br />\n<br />\nWell.. guess what, we did,,, yesterday..</div>\n</td>\n</tr>\n</table>\n</div>Re-read the article. This is nothing to do with bending the plugs or ports. The flexible portion is an implementation detail hidden within; nothing to do with users bending things.<br />\n<br />\nThis is not about making a more durable USB cable, but a more convenient one.<br />\n<br />\nI hope it sees the light, because it takes away a frequent--small but SO REPEATED--annoyance for me and thousands of others.<br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>leroypants</strong>\n<a href=\"showthread.php?p=19509638#post19509638\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">It has been around for a while, I actually have one. Apple is just stealing an idea from a smaller company who won't be able to put a fight against Apple.</div>\n</td>\n</tr>\n</table>\n</div>This whole article is about an Apple invention that newly solves a problem with those smaller company products. Yes, they reverse, but not be the same mechanism. By something less innovative and, in theory, too fragile. (We'll see in practice.)\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509502",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"178", "sent":"Quote:Originally Posted bythemsaYou must have a hard time living your life.Anyway reversible usb sure is nice but I know the orientation of usb ports on my devices.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"179", "sent":"Takes like 1 day to remember them.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":7, "systemlabel":"solid part", "sentid":"180", "sent":"After that I dont act like a baby trying to jam in a toy in its mouth.Bonus LPT: on horizontal USB ports the solid part of the port is always up the solid part of the plug is always down.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":7, "systemlabel":"solid part", "sentid":"181", "sent":"Wow I just hacked your lifesHow does that help you know which way the cord is facing?","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"182", "sent":"And why should you have to look instead of doing it quickly by feel and habit?Quote:Originally Posted byMoto GPreciselyHow is it quottricky to tellquot?","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"183", "sent":"Its EASY if youre patient and have eyesWhy should you need patience?","sentimentwords":[]},{"linePolarity":0.166666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"184", "sent":"Why should you need to look closely?Why would quoteasierquot be worse than quoteasy?quotQuote:Originally Posted byTech198...All im saying is Apple doings this flexibly  on USB which gives us as the end user an excuse to bend it we wouldnt otherwise do and when it comes we we all think quotThats a great idea how the hell would i have lived in my life without it.quotWell.. guess what we did yesterday..Reread the article.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"185", "sent":"This is nothing to do with bending the plugs or ports.","sentimentwords":[]},{"linePolarity":0.625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"186", "sent":"The flexible portion is an implementation detail hidden within nothing to do with users bending things.This is not about making a more durable USB cable but a more convenient one.I hope it sees the light because it takes away a frequentsmall but SO REPEATEDannoyance for me and thousands of others.Quote:Originally Posted byleroypantsIt has been around for a while I actually have one.","sentimentwords":[]},{"linePolarity":-0.328125,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"187", "sent":"Apple is just stealing an idea from a smaller company who wont be able to put a fight against Apple.This whole article is about an Apple invention that newly solves a problem with those smaller company products.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"188", "sent":"Yes they reverse but not be the same mechanism.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"189", "sent":"By something less innovative and in theory too fragile.","sentimentwords":[{"word":"less","polarity":-3.0},{"word":"fragile","polarity":-1.5},{"word":"too","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"190", "sent":"Well see in practice.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19514259",
+"date":"Aug 22, 2014, 04:23 PM",
+"author":"MacLC",
+"aid":"853762",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>topdrawer</strong>\n</div>\n<div style=\"font-style:italic\">omg. this solves one of my biggest pet peeves in technology. i detest usb plugs with symmetrical design that can only be inserted one way. who's the ******* who came up with that one?<br />\n<br />\r\nthank you apple.</div>\n</td>\n</tr>\n</table>\n</div><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>the-msa</strong>\n<a href=\"showthread.php?p=19509502#post19509502\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">You must have a hard time living your life.<br />\n<br />\r\nAnyway, reversible usb sure is nice, but I know the orientation of usb ports on my devices. Takes like 1 day to remember them. After that I don't act like a baby trying to jam in a toy in its mouth. <br />\n<br />\r\nBonus LPT: on horizontal USB ports, the solid part of the port is always up, the solid part of the plug is always down. Wow, I just hacked your lifes!</div>\n</td>\n</tr>\n</table>\n</div>Actually if USB plug orientation were the hardest part of your life, the rest of your life would be pretty easy, no?  Gotcha.<br />\n<br />\r\nIf you actually use multiple devices you will see the port orientation changes.<br />\r\nI have two devices at work where the solid part of the port is down. That misses the point as the part people have trouble with is not the port but the cable itself.  That is what Apple is addressing here.<br />\n<br />\r\nAnyway as you say, no need to insult people especially when they have no beef with you. topdrawer had a good point there.  You would have seen that had you not jumped to pile on insults.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509502",
+
+"sent": [{"linePolarity":0.25,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"272", "sent":"Quote:Originally Posted bytopdraweromg.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"273", "sent":"this solves one of my biggest pet peeves in technology.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"biggest pet peeves", "sentid":"274", "sent":"i detest usb plugs with symmetrical design that can only be inserted one way.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"275", "sent":"whos the ******* who came up with that one?thank you apple.Quote:Originally Posted bythemsaYou must have a hard time living your life.Anyway reversible usb sure is nice but I know the orientation of usb ports on my devices.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":7, "systemlabel":"solid part", "sentid":"276", "sent":"Takes like 1 day to remember them.","sentimentwords":[]},{"linePolarity":-0.333333333333,"systemtopicid":7, "systemlabel":"solid part", "sentid":"277", "sent":"After that I dont act like a baby trying to jam in a toy in its mouth.Bonus LPT: on horizontal USB ports the solid part of the port is always up the solid part of the plug is always down.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"solid part", "sentid":"278", "sent":"Wow I just hacked your lifesActually if USB plug orientation were the hardest part of your life the rest of your life would be pretty easy no?","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":7, "systemlabel":"solid part", "sentid":"279", "sent":"Gotcha.If you actually use multiple devices you will see the port orientation changes.I have two devices at work where the solid part of the port is down.","sentimentwords":[{"word":"trouble","polarity":-3.0},{"word":"misses","polarity":-1.5}]},{"linePolarity":-0.5,"systemtopicid":7, "systemlabel":"solid part", "sentid":"280", "sent":"That misses the point as the part people have trouble with is not the port but the cable itself.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"281", "sent":"That is what Apple is addressing here.Anyway as you say no need to insult people especially when they have no beef with you.","sentimentwords":[{"word":"good","polarity":3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"282", "sent":"topdrawer had a good point there.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"283", "sent":"You would have seen that had you not jumped to pile on insults.","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+"date":"Aug 21, 2014, 12:22 PM",
+"author":"Moto_G",
+"aid":"900163",
+"htmltext":"\r\n            \r\n            I have MUCH cheaper, better solution: People just learn to be patient and careful, and not jam things in too hard when there's obvious resistance to them doing so. Do we have reversible IEC plugs (mains plug for PC/Mac)? Do we have reversible shoes? Yes, this is a good idea, but designing AROUND patience and common sense? How about people just learn the hard way and suck it up, teaching them a valuable life lesson - BE CAREFUL WITH YOUR EQUIPMENT.\r\n\n",
+
+"sent": [{"linePolarity":-0.0666666666667,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"62", "sent":"I have MUCH cheaper better solution: People just learn to be patient and careful and not jam things in too hard when theres obvious resistance to them doing so.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"63", "sent":"Do we have reversible IEC plugs mains plug for PCMac?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"64", "sent":"Do we have reversible shoes?","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"65", "sent":"Yes this is a good idea but designing AROUND patience and common sense?","sentimentwords":[{"word":"patience","polarity":2.0},{"word":"sense","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"66", "sent":"How about people just learn the hard way and suck it up teaching them a valuable life lesson  BE CAREFUL WITH YOUR EQUIPMENT.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508863",
+"date":"Aug 21, 2014, 01:30 PM",
+"author":"nagromme",
+"aid":"4837",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508511#post19508511\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I have MUCH cheaper, better solution: People just learn to be patient and careful, and not jam things in too hard when there's obvious resistance to them doing so. Do we have reversible IEC plugs (mains plug for PC/Mac)? Do we have reversible shoes? Yes, this is a good idea, but designing AROUND patience and common sense? How about people just learn the hard way and suck it up, teaching them a valuable life lesson - BE CAREFUL WITH YOUR EQUIPMENT.</div>\n</td>\n</tr>\n</table>\n</div>Why am I reminded of the old pro-Windows argument that Windows is better BECAUSE it's less reliable and harder to use, thus making you a real man or some such thing? <img src=\"http://cdn.macrumors.com/vb/images/smilies/wink.png\" border=\"0\" alt=\"\" title=\"Wink\" class=\"inlineimg\" /> You also make it sound like making a product more durable in any way is teaching a bad &quot;lesson.&quot; Make all hardware out of balsa wood and teach people to handle stuff gently! Don't let the device work for you&#8212;YOU should work for the device <img src=\"http://cdn.macrumors.com/vb/images/smilies/tongue.png\" border=\"0\" alt=\"\" title=\"Stick Out Tongue\" class=\"inlineimg\" /> (I know you're kidding but some are serious so I'll point out: shoes and power plugs don't look AND feel the same in both directions. So they already have a solution for the problem USB has.)<br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>nebo1ss</strong>\n<a href=\"showthread.php?p=19508832#post19508832\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Wow i dont know how i ever managed to survive the non-reversible era - it was hell on earth every day. i feel like the world is now a safer place filled with butterflies and rainbows and tasty cakes.</div>\n</td>\n</tr>\n</table>\n</div>Agreed! I hate it when companies make small improvements. ONLY earth-shattering improvements should be allowed.<br />\n<br />\nNon-reversible USB only bothers me 1 to 2 times a day, maximum. I'd be much happier facing such a minor problem forever instead of solving it.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+
+"sent": [{"linePolarity":-0.0666666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"95", "sent":"Quote:Originally Posted byMoto GI have MUCH cheaper better solution: People just learn to be patient and careful and not jam things in too hard when theres obvious resistance to them doing so.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"96", "sent":"Do we have reversible IEC plugs mains plug for PCMac?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"97", "sent":"Do we have reversible shoes?","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"98", "sent":"Yes this is a good idea but designing AROUND patience and common sense?","sentimentwords":[{"word":"patience","polarity":2.0},{"word":"sense","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0.409090909091,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"99", "sent":"How about people just learn the hard way and suck it up teaching them a valuable life lesson  BE CAREFUL WITH YOUR EQUIPMENT.Why am I reminded of the old proWindows argument that Windows is better BECAUSE its less reliable and harder to use thus making you a real man or some such thing?You also make it sound like making a product more durable in any way is teaching a bad quotlesson.quot Make all hardware out of balsa wood and teach people to handle stuff gently","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"100", "sent":"Dont let the device work for you8212YOU should work for the deviceI know youre kidding but some are serious so Ill point out: shoes and power plugs dont look AND feel the same in both directions.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"101", "sent":"So they already have a solution for the problem USB has.","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"102", "sent":"Quote:Originally Posted bynebo1ssWow i dont know how i ever managed to survive the nonreversible era  it was hell on earth every day.","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":7, "systemlabel":"solid part", "sentid":"103", "sent":"i feel like the world is now a safer place filled with butterflies and rainbows and tasty cakes.Agreed","sentimentwords":[]},{"linePolarity":-2.65,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"104", "sent":"I hate it when companies make small improvements.","sentimentwords":[{"word":"small","polarity":0.7},{"word":"hate","polarity":-6.0}]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"105", "sent":"ONLY earthshattering improvements should be allowed.Nonreversible USB only bothers me 1 to 2 times a day maximum.","sentimentwords":[]},{"linePolarity":0.55,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"106", "sent":"Id be much happier facing such a minor problem forever instead of solving it.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508961",
+"date":"Aug 21, 2014, 01:50 PM",
+"author":"theluggage",
+"aid":"601609",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508511#post19508511\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Do we have reversible IEC plugs (mains plug for PC/Mac)?</div>\n</td>\n</tr>\n</table>\n</div>...what, those nice, chunky hexagonal plugs that make it very easy to tell, by sight or touch, which way up the plug and socket is? <br />\n<br />\r\nThis is a specific problem with the USB A connectors where it is tricky to tell visually and almost impossible to tell by touch which way up they should go.<br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TrentS</strong>\n<a href=\"showthread.php?p=19508535#post19508535\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Like I said before, they need to scrap this idea and go with a MagSafe 2 port design.  Or maybe even some sort of wireless charging.  This isn't the 90's anymore.</div>\n</td>\n</tr>\n</table>\n</div>The point of the USB connector is that it plugs into existing USB sockets. Like the ones in virtually every computer, most modern cars (or with a cigar-to-USB adapter), an increasing number of hotel rooms, some 4-way adapter strips, generic USB power supplies that you've probably already got half-a-dozen of etc. All available by simply carrying a USB cable. Even with multiple devices, you can probably get away without carrying a power supply, you certainly don't need to carry more than one.<br />\n<br />\r\nWireless is great but you have to carry the wireless charger with you, or at least the induction plate part (and what does that plug into the power with... tadah! USB!)\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+
+"sent": [{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"118", "sent":"Quote:Originally Posted byMoto GDo we have reversible IEC plugs mains plug for PCMac?...what those nice chunky hexagonal plugs that make it very easy to tell by sight or touch which way up the plug and socket is?This is a specific problem with the USB A connectors where it is tricky to tell visually and almost impossible to tell by touch which way up they should go.Quote:Originally Posted byTrentSLike I said before they need to scrap this idea and go with a MagSafe 2 port design.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"119", "sent":"Or maybe even some sort of wireless charging.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"120", "sent":"This isnt the 90s anymore.The point of the USB connector is that it plugs into existing USB sockets.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"121", "sent":"Like the ones in virtually every computer most modern cars or with a cigartoUSB adapter an increasing number of hotel rooms some 4way adapter strips generic USB power supplies that youve probably already got halfadozen of etc.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"122", "sent":"All available by simply carrying a USB cable.","sentimentwords":[{"word":"available","polarity":3.0},{"word":"simply","polarity":1.0}]},{"linePolarity":4.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"123", "sent":"Even with multiple devices you can probably get away without carrying a power supply you certainly dont need to carry more than one.Wireless is great but you have to carry the wireless charger with you or at least the induction plate part and what does that plug into the power with... tadah","sentimentwords":[{"word":"great","polarity":4.0}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"124", "sent":"USB","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509472",
+"date":"Aug 21, 2014, 03:17 PM",
+"author":"Gasu_E_",
+"aid":"31251",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508511#post19508511\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I have MUCH cheaper, better solution: People just learn to be patient and careful, and not jam things in too hard when there's obvious resistance to them doing so. Do we have reversible IEC plugs (mains plug for PC/Mac)? Do we have reversible shoes? Yes, this is a good idea, but designing AROUND patience and common sense? How about people just learn the hard way and suck it up, teaching them a valuable life lesson - BE CAREFUL WITH YOUR EQUIPMENT.</div>\n</td>\n</tr>\n</table>\n</div>Good one.  Don't redesign the technology;  redesign the people.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+
+"sent": [{"linePolarity":-0.0666666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"144", "sent":"Quote:Originally Posted byMoto GI have MUCH cheaper better solution: People just learn to be patient and careful and not jam things in too hard when theres obvious resistance to them doing so.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"145", "sent":"Do we have reversible IEC plugs mains plug for PCMac?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"146", "sent":"Do we have reversible shoes?","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"147", "sent":"Yes this is a good idea but designing AROUND patience and common sense?","sentimentwords":[{"word":"patience","polarity":2.0},{"word":"sense","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"148", "sent":"How about people just learn the hard way and suck it up teaching them a valuable life lesson  BE CAREFUL WITH YOUR EQUIPMENT.Good one.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"149", "sent":"Dont redesign the technology  redesign the people.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509961",
+"date":"Aug 21, 2014, 05:10 PM",
+"author":"mw360",
+"aid":"481080",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508511#post19508511\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I have MUCH cheaper, better solution: People just learn to be patient and careful, and not jam things in too hard when there's obvious resistance to them doing so. Do we have reversible IEC plugs (mains plug for PC/Mac)? Do we have reversible shoes? Yes, this is a good idea, but designing AROUND patience and common sense? How about people just learn the hard way and suck it up, teaching them a valuable life lesson - BE CAREFUL WITH YOUR EQUIPMENT.</div>\n</td>\n</tr>\n</table>\n</div>There's nothing to stop you people from enacting your USB-examination rituals and inserting your plug the right way. <br />\n<br />\nSure you'll get a whole lot less smug pleasure out of it, knowing we're recklessly shoving it in the right way or the Devil's way, but that's progress for you. Old skills just lose their relevance.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+
+"sent": [{"linePolarity":-0.0666666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"193", "sent":"Quote:Originally Posted byMoto GI have MUCH cheaper better solution: People just learn to be patient and careful and not jam things in too hard when theres obvious resistance to them doing so.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"194", "sent":"Do we have reversible IEC plugs mains plug for PCMac?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"195", "sent":"Do we have reversible shoes?","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"196", "sent":"Yes this is a good idea but designing AROUND patience and common sense?","sentimentwords":[{"word":"patience","polarity":2.0},{"word":"sense","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0.727272727273,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"197", "sent":"How about people just learn the hard way and suck it up teaching them a valuable life lesson  BE CAREFUL WITH YOUR EQUIPMENT.Theres nothing to stop you people from enacting your USBexamination rituals and inserting your plug the right way.Sure youll get a whole lot less smug pleasure out of it knowing were recklessly shoving it in the right way or the Devils way but thats progress for you.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"198", "sent":"Old skills just lose their relevance.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510904",
+"date":"Aug 21, 2014, 09:33 PM",
+"author":"Glassed_Silver",
+"aid":"100877",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508511#post19508511\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I have MUCH cheaper, better solution: People just learn to be patient and careful, and not jam things in too hard when there's obvious resistance to them doing so. Do we have reversible IEC plugs (mains plug for PC/Mac)? Do we have reversible shoes? Yes, this is a good idea, but designing AROUND patience and common sense? How about people just learn the hard way and suck it up, teaching them a valuable life lesson - BE CAREFUL WITH YOUR EQUIPMENT.</div>\n</td>\n</tr>\n</table>\n</div>Are you an Apple user and if so, what were your reasons for becoming one?<br />\n<br />\r\nI don't know about you, but for me and many others it was that even though we may know the hard way, we want the simple (and more beautiful in most ways) way.<br />\n<br />\n<i>Glassed Silver:mac</i>\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508511",
+
+"sent": [{"linePolarity":-0.0666666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"211", "sent":"Quote:Originally Posted byMoto GI have MUCH cheaper better solution: People just learn to be patient and careful and not jam things in too hard when theres obvious resistance to them doing so.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"212", "sent":"Do we have reversible IEC plugs mains plug for PCMac?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"213", "sent":"Do we have reversible shoes?","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"pro-Windows argument", "sentid":"214", "sent":"Yes this is a good idea but designing AROUND patience and common sense?","sentimentwords":[{"word":"patience","polarity":2.0},{"word":"sense","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0.53125,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"215", "sent":"How about people just learn the hard way and suck it up teaching them a valuable life lesson  BE CAREFUL WITH YOUR EQUIPMENT.Are you an Apple user and if so what were your reasons for becoming one?I dont know about you but for me and many others it was that even though we may know the hard way we want the simple and more beautiful in most ways way.Glassed Silver:mac","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508527",
+"date":"Aug 21, 2014, 12:27 PM",
+"author":"iPhisch",
+"aid":"448474",
+"htmltext":"\r\n            \r\n            If they make the &quot;stalk&quot; section out of Nitinol it would last longer than your phone does.  Superelastic shape memory metal FTW!\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"67", "sent":"If they make the quotstalkquot section out of Nitinol it would last longer than your phone does.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"68", "sent":"Superelastic shape memory metal FTW","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508535",
+"date":"Aug 21, 2014, 12:28 PM",
+"author":"TrentS",
+"aid":"619440",
+"htmltext":"\r\n            \r\n            Like I said before, they need to scrap this idea and go with a MagSafe 2 port design.  Or maybe even some sort of wireless charging.  This isn't the 90's anymore.\r\n\n",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"69", "sent":"Like I said before they need to scrap this idea and go with a MagSafe 2 port design.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"70", "sent":"Or maybe even some sort of wireless charging.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"71", "sent":"This isnt the 90s anymore.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508575",
+"date":"Aug 21, 2014, 12:36 PM",
+"author":"engg2000",
+"aid":"375591",
+"htmltext":"\r\n            \r\n            Amazing how people jump on the bandwagon against product improvement...<br />\n<br />\r\nMany of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.  Do you even know what an elastomer is?<br />\r\nBoeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use? <br />\n<br />\r\nLots of smart guys commenting in this forum.\r\n\n",
+
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"72", "sent":"Amazing how people jump on the bandwagon against product improvement...Many of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.","sentimentwords":[]},{"linePolarity":1.3,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"73", "sent":"Do you even know what an elastomer is?Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?Lots of smart guys commenting in this forum.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508597",
+"date":"Aug 21, 2014, 12:43 PM",
+"author":"Moto_G",
+"aid":"900163",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>engg2000</strong>\n<a href=\"showthread.php?p=19508575#post19508575\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Amazing how people jump on the bandwagon against product improvement...<br />\n<br />\r\nMany of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.  Do you even know what an elastomer is?<br />\r\nBoeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use? <br />\n<br />\r\nLots of smart guys commenting in this forum.</div>\n</td>\n</tr>\n</table>\n</div>Elastomer fatique takes LOTS AND LOTS AND LOTS AND LOTS AND LOTS AND LOTS of bending to even START to occur. Yup.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508575",
+
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"74", "sent":"Quote:Originally Posted byengg2000Amazing how people jump on the bandwagon against product improvement...Many of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.","sentimentwords":[]},{"linePolarity":1.2,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"75", "sent":"Do you even know what an elastomer is?Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?Lots of smart guys commenting in this forum.Elastomer fatique takes LOTS AND LOTS AND LOTS AND LOTS AND LOTS AND LOTS of bending to even START to occur.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"76", "sent":"Yup.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508745",
+"date":"Aug 21, 2014, 01:12 PM",
+"author":"Menel",
+"aid":"603845",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508597#post19508597\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Elastomer fatique takes LOTS AND LOTS AND LOTS AND LOTS AND LOTS AND LOTS of bending to even START to occur. Yup.</div>\n</td>\n</tr>\n</table>\n</div>Even then, the flex back and forth is a minimal difference. It's maybe 1 or 2 degrees of motion.<br />\n<br />\nAll they really need is some spring steel. Hell, even aluminum might survive that minor of a flex 100's of 1000's of times.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508597",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"83", "sent":"Quote:Originally Posted byMoto GElastomer fatique takes LOTS AND LOTS AND LOTS AND LOTS AND LOTS AND LOTS of bending to even START to occur.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"84", "sent":"Yup.Even then the flex back and forth is a minimal difference.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"85", "sent":"Its maybe 1 or 2 degrees of motion.All they really need is some spring steel.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"86", "sent":"Hell even aluminum might survive that minor of a flex 100s of 1000s of times.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509532",
+"date":"Aug 21, 2014, 03:37 PM",
+"author":"Moto_G",
+"aid":"900163",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Menel</strong>\n<a href=\"showthread.php?p=19508745#post19508745\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Even then, the flex back and forth is a minimal difference. It's maybe 1 or 2 degrees of motion.<br />\n<br />\nAll they really need is some spring steel. Hell, even aluminum might survive that minor of a flex 100's of 1000's of times.</div>\n</td>\n</tr>\n</table>\n</div>Precisely <img src=\"http://cdn.macrumors.com/vb/images/smilies/smile.png\" border=\"0\" alt=\"\" title=\"Smilie\" class=\"inlineimg\" /><font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>theluggage</strong>\n<a href=\"showthread.php?p=19508961#post19508961\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">...what, those nice, chunky hexagonal plugs that make it very easy to tell, by sight or touch, which way up the plug and socket is? <br />\n<br />\nThis is a specific problem with the USB A connectors where it is tricky to tell visually and almost impossible to tell by touch which way up they should go.<br />\n<br />\n<br />\n<br />\nThe point of the USB connector is that it plugs into existing USB sockets. Like the ones in virtually every computer, most modern cars (or with a cigar-to-USB adapter), an increasing number of hotel rooms, some 4-way adapter strips, generic USB power supplies that you've probably already got half-a-dozen of etc. All available by simply carrying a USB cable. Even with multiple devices, you can probably get away without carrying a power supply, you certainly don't need to carry more than one.<br />\n<br />\nWireless is great but you have to carry the wireless charger with you, or at least the induction plate part (and what does that plug into the power with... tadah! USB!)</div>\n</td>\n</tr>\n</table>\n</div>How is it &quot;tricky to tell&quot;? It's EASY, if you're patient and have eyes :/<font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>deconstruct60</strong>\n<a href=\"showthread.php?p=19508736#post19508736\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">As an EMI shield or conducting high signal/noise ratio  serial electrical signals?</div>\n</td>\n</tr>\n</table>\n</div><a rel=\"nofollow\" href=\"http://tinyurl.com/condelast\" target=\"_blank\">http://tinyurl.com/condelast</a>\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508745",
+
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"158", "sent":"Quote:Originally Posted byMenelEven then the flex back and forth is a minimal difference.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"159", "sent":"Its maybe 1 or 2 degrees of motion.All they really need is some spring steel.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"160", "sent":"Hell even aluminum might survive that minor of a flex 100s of 1000s of times.PreciselyQuote:Originally Posted bytheluggage...what those nice chunky hexagonal plugs that make it very easy to tell by sight or touch which way up the plug and socket is?This is a specific problem with the USB A connectors where it is tricky to tell visually and almost impossible to tell by touch which way up they should go.The point of the USB connector is that it plugs into existing USB sockets.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"161", "sent":"Like the ones in virtually every computer most modern cars or with a cigartoUSB adapter an increasing number of hotel rooms some 4way adapter strips generic USB power supplies that youve probably already got halfadozen of etc.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"162", "sent":"All available by simply carrying a USB cable.","sentimentwords":[{"word":"available","polarity":3.0},{"word":"simply","polarity":1.0}]},{"linePolarity":4.0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"163", "sent":"Even with multiple devices you can probably get away without carrying a power supply you certainly dont need to carry more than one.Wireless is great but you have to carry the wireless charger with you or at least the induction plate part and what does that plug into the power with... tadah","sentimentwords":[{"word":"great","polarity":4.0}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"4-way adapter strips", "sentid":"164", "sent":"USB","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"165", "sent":"How is it quottricky to tellquot?","sentimentwords":[]},{"linePolarity":0.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"166", "sent":"Its EASY if youre patient and have eyes :Quote:Originally Posted bydeconstruct60As an EMI shield or conducting high signalnoise ratio  serial electrical signals?http:tinyurl.comcondelast","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508646",
+"date":"Aug 21, 2014, 12:52 PM",
+"author":"deconstruct60",
+"aid":"290553",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>engg2000</strong>\n<a href=\"showthread.php?p=19508575#post19508575\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Amazing how people jump on the bandwagon against product improvement...<br />\n<br />\nMany of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.  Do you even know what an elastomer is?</div>\n</td>\n</tr>\n</table>\n</div>   Elastomers conduct electricity? <br />\n<br />\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\r\n\t\t\t\r\n\t\t\t\tBoeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use?\r\n\t\t\t\r\n\t\t</td>\n</tr>\n</table>\n</div>  In how many of these Boeing aircraft do the electrical wire harnesses flop around a billion times over the lifecycle of an airplane.<br />\n<br />\n<br />\n     This isn't necessarily fragile but  just as resistant to failure as the normal USB socket design?  Not likely.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508575",
+
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"78", "sent":"Quote:Originally Posted byengg2000Amazing how people jump on the bandwagon against product improvement...Many of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.","sentimentwords":[]},{"linePolarity":-0.6875,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"79", "sent":"Do you even know what an elastomer is?Elastomers conduct electricity?Quote:Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?In how many of these Boeing aircraft do the electrical wire harnesses flop around a billion times over the lifecycle of an airplane.This isnt necessarily fragile but  just as resistant to failure as the normal USB socket design?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"80", "sent":"Not likely.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508664",
+"date":"Aug 21, 2014, 12:57 PM",
+"author":"Moto_G",
+"aid":"900163",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>deconstruct60</strong>\n<a href=\"showthread.php?p=19508646#post19508646\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Elastomers conduct electricity?</div>\n</td>\n</tr>\n</table>\n</div>Conductive ones do, yes, as used in LCD watches, calculators etc:<br />\n<br />\n<img src=\"http://www.fujipoly.com/usa/assets/images/products/zebra/silver_connector_medical.png\" border=\"0\" alt=\"\" /><font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font>Macrumors.com - <i>&quot;Everyone's an expert&quot;</i><br />\n<br />\n<img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" />\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508646",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"81", "sent":"Quote:Originally Posted bydeconstruct60Elastomers conduct electricity?Conductive ones do yes as used in LCD watches calculators etc:Macrumors.com quotEveryones an expertquot","sentimentwords":[{"word":"expert","polarity":2.0}]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508736",
+"date":"Aug 21, 2014, 01:09 PM",
+"author":"deconstruct60",
+"aid":"290553",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19508664#post19508664\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Conductive ones do, yes, as used in LCD watches, calculators etc:<br /></div>\n</td>\n</tr>\n</table>\n</div>  As an EMI shield or conducting high signal/noise ratio  serial electrical signals?\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508664",
+
+"sent": [{"linePolarity":0.166666666667,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"82", "sent":"Quote:Originally Posted byMoto GConductive ones do yes as used in LCD watches calculators etc:As an EMI shield or conducting high signalnoise ratio  serial electrical signals?","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508868",
+"date":"Aug 21, 2014, 01:31 PM",
+"author":"TsunamiTheClown",
+"aid":"569234",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>engg2000</strong>\n<a href=\"showthread.php?p=19508575#post19508575\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Amazing how people jump on the bandwagon against product improvement...<br />\n<br />\nMany of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.  Do you even know what an elastomer is?<br />\nBoeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use? <br />\n<br />\nLots of smart guys commenting in this forum.</div>\n</td>\n</tr>\n</table>\n</div>As a technician I can assure you engineers never make design mistakes.<br />\n<br />\n/s\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508575",
+
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"107", "sent":"Quote:Originally Posted byengg2000Amazing how people jump on the bandwagon against product improvement...Many of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.","sentimentwords":[]},{"linePolarity":1.2,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"108", "sent":"Do you even know what an elastomer is?Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?Lots of smart guys commenting in this forum.As a technician I can assure you engineers never make design mistakes.s","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509789",
+"date":"Aug 21, 2014, 04:28 PM",
+"author":"Amacfa",
+"aid":"317730",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TsunamiTheClown</strong>\n<a href=\"showthread.php?p=19508868#post19508868\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">As a technician I can assure you engineers never make design mistakes.<br />\n<br />\n/s</div>\n</td>\n</tr>\n</table>\n</div>As a user, I can assure you Apple has a decent track record of making things work. Not 100%, but up there. It's more likely they'll thorugouhly test it out, and get it right. I'm more worried about them improving the durability of lightning end of the cable.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508868",
+
+"sent": [{"linePolarity":0.833333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"174", "sent":"Quote:Originally Posted byTsunamiTheClownAs a technician I can assure you engineers never make design mistakes.sAs a user I can assure you Apple has a decent track record of making things work.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"175", "sent":"Not 100 but up there.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"176", "sent":"Its more likely theyll thorugouhly test it out and get it right.","sentimentwords":[]},{"linePolarity":0.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"177", "sent":"Im more worried about them improving the durability of lightning end of the cable.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511581",
+"date":"Aug 22, 2014, 03:55 AM",
+"author":"jovada",
+"aid":"64779",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>engg2000</strong>\n<a href=\"showthread.php?p=19508575#post19508575\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use?</div>\n</td>\n</tr>\n</table>\n</div>This also means that you believe Apple will use the same airplane-quality material.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508575",
+
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"237", "sent":"Quote:Originally Posted byengg2000Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?This also means that you believe Apple will use the same airplanequality material.","sentimentwords":[{"word":"too","polarity":-4.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508615",
+"date":"Aug 21, 2014, 12:47 PM",
+"author":"VeryVito",
+"aid":"159238",
+"htmltext":"\r\n            \r\n            If there's one thing Apple is known for, it's the longevity and reliability of its cables. <img src=\"http://cdn.macrumors.com/vb/images/smilies/redface.png\" border=\"0\" alt=\"\" title=\"Embarrassment\" class=\"inlineimg\" />\n\n",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"77", "sent":"If theres one thing Apple is known for its the longevity and reliability of its cables.","sentimentwords":[{"word":"reliability","polarity":2.0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19508832",
+"date":"Aug 21, 2014, 01:25 PM",
+"author":"nebo1ss",
+"aid":"439783",
+"htmltext":"\r\n            \r\n            Wow i dont know how i ever managed to survive the non-reversible era - it was hell on earth every day. i feel like the world is now a safer place filled with butterflies and rainbows and tasty cakes.\r\n\n",
+
+"sent": [{"linePolarity":-1.75,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"93", "sent":"Wow i dont know how i ever managed to survive the nonreversible era  it was hell on earth every day.","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"94", "sent":"i feel like the world is now a safer place filled with butterflies and rainbows and tasty cakes.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509252",
+"date":"Aug 21, 2014, 02:39 PM",
+"author":"Tech198",
+"aid":"555085",
+"htmltext":"\r\n            \r\n            Everyone want's reversible tongues.<br />\n<br />\nIs this so customers can bend them, and not break ?<br />\n<br />\nJust another thing to say &quot;Now, we can freely bend this because technology allows us, we couldn't do before&quot;<br />\n<br />\nMaybe people should just be more careful, then we wouldn't need these technologies,,<br />\n<br />\nAlthough cool. I could also nae Sapphire here too..<br />\n<br />\nLooks like the marketing hype from Apple is working. I would never get a flexible usb cable..... why ?<br />\n<br />\nThe reversible thing may be all well and good, and while i have tried to just &quot;shove it in there&quot;,  don't people look at ports anymore ?<br />\n<br />\n<br />\nThat basically what sums it all up here.\r\n\n",
+
+"sent": [{"linePolarity":1.4,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"133", "sent":"Everyone wants reversible tongues.Is this so customers can bend them and not break ?Just another thing to say quotNow we can freely bend this because technology allows us we couldnt do beforequotMaybe people should just be more careful then we wouldnt need these technologiesAlthough cool.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"134", "sent":"I could also nae Sapphire here too..Looks like the marketing hype from Apple is working.","sentimentwords":[]},{"linePolarity":0.625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"135", "sent":"I would never get a flexible usb cable..... why ?The reversible thing may be all well and good and while i have tried to just quotshove it in therequot  dont people look at ports anymore ?That basically what sums it all up here.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509308",
+"date":"Aug 21, 2014, 02:47 PM",
+"author":"Hexfied",
+"aid":"908727",
+"htmltext":"\r\n            \r\n            Have no fear &quot;samesung&quot; will copy this near.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"142", "sent":"Have no fear quotsamesungquot will copy this near.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509340",
+"date":"Aug 21, 2014, 02:51 PM",
+"author":"Tech198",
+"aid":"555085",
+"htmltext":"\r\n            \r\n            lets get &quot;flexible, flexible&quot; Come on and get &quot;flexible, flexible&quot;, Everybody's getting &quot;flexible&quot;\r\n\n",
+
+"sent": [{"linePolarity":1.37,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"143", "sent":"lets get quotflexible flexiblequot Come on and get quotflexible flexiblequot Everybodys getting quotflexiblequot","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509489",
+"date":"Aug 21, 2014, 03:22 PM",
+"author":"MacNut",
+"aid":"3249",
+"htmltext":"\r\n            \r\n            So Apple will allow this to be an open USB standard right?\r\n\n",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"150", "sent":"So Apple will allow this to be an open USB standard right?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509718",
+"date":"Aug 21, 2014, 04:11 PM",
+"author":"leroypants",
+"aid":"466101",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>MacNut</strong>\n<a href=\"showthread.php?p=19509489#post19509489\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">So Apple will allow this to be an open USB standard right?</div>\n</td>\n</tr>\n</table>\n</div>Companies already make reversable USB cables so I don't think apple will have a say.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509489",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"173", "sent":"Quote:Originally Posted byMacNutSo Apple will allow this to be an open USB standard right?Companies already make reversable USB cables so I dont think apple will have a say.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509667",
+"date":"Aug 21, 2014, 04:00 PM",
+"author":"Tech198",
+"aid":"555085",
+"htmltext":"\r\n            \r\n            This  tells you that Apple products cost a lot and people just throw them round like a brick..<br />\n<br />\nHow about we all crash our cars at the same time, then go back to the car dealer and demand a new one ??<br />\n<br />\nThat's basically what Apple is saying. In short, customers need the care of Apple to look after them...<br />\n<br />\nI'm not saying that's a bad thing, but how many other manufactures are doing this ?<br />\n<br />\nNone. And cables will last just as long if people treat them right.<br />\n<br />\nAll i'm saying is Apple doing's this flexibly  on USB, which gives us, as the end user, an excuse to bend it, we wouldn't otherwise do, and when it comes we we all think &quot;Thats a great idea, how the hell would i have lived in my life without it.&quot;<br />\n<br />\nWell.. guess what, we did,,, yesterday..\r\n\n",
+
+"sent": [{"linePolarity":0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"169", "sent":"This  tells you that Apple products cost a lot and people just throw them round like a brick..How about we all crash our cars at the same time then go back to the car dealer and demand a new one ?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"170", "sent":"?Thats basically what Apple is saying.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"171", "sent":"In short customers need the care of Apple to look after them...Im not saying thats a bad thing but how many other manufactures are doing this ?None.","sentimentwords":[]},{"linePolarity":0.214285714286,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"172", "sent":"And cables will last just as long if people treat them right.All im saying is Apple doings this flexibly  on USB which gives us as the end user an excuse to bend it we wouldnt otherwise do and when it comes we we all think quotThats a great idea how the hell would i have lived in my life without it.quotWell.. guess what we did yesterday..","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19509937",
+"date":"Aug 21, 2014, 05:03 PM",
+"author":"the_msa",
+"aid":"855453",
+"htmltext":"\r\n            \r\n            Personally I don't see how the current usb cables are inconvenient. Sure reversible ones will definitely be more convenient, but to me it's like saying &quot;I don't like eating bananas because it's rather inconvenient to peel them&quot;\r\n\n",
+
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"191", "sent":"Personally I dont see how the current usb cables are inconvenient.","sentimentwords":[{"word":"inconvenient","polarity":-4.5}]},{"linePolarity":-1.3875,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"192", "sent":"Sure reversible ones will definitely be more convenient but to me its like saying quotI dont like eating bananas because its rather inconvenient to peel themquot","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510138",
+"date":"Aug 21, 2014, 05:52 PM",
+"author":"shortcrust",
+"aid":"214048",
+"htmltext":"\r\n            \r\n            Bah, load of unnecessary nonsense. And this slice bread stuff will never catch on either.\r\n\n",
+
+"sent": [{"linePolarity":-3.0,"systemtopicid":8, "systemlabel":"it movable joint", "sentid":"199", "sent":"Bah load of unnecessary nonsense.","sentimentwords":[{"word":"nonsense","polarity":-4.5},{"word":"unnecessary","polarity":-1.5}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"200", "sent":"And this slice bread stuff will never catch on either.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510290",
+"date":"Aug 21, 2014, 06:30 PM",
+"author":"dypeterc",
+"aid":"675277",
+"htmltext":"\r\n            \r\n            Perfect place for the use of Liquidmetal\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"203", "sent":"Perfect place for the use of Liquidmetal","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510346",
+"date":"Aug 21, 2014, 06:45 PM",
+"author":"B4U",
+"aid":"751861",
+"htmltext":"\r\n            \r\n            Why not just make a magsafe-like connection to charge the battery on the iDevices?<br />\n<br />\r\nMy Xperia Z2 has that function and I have no need to utilize the micro USB.<br />\r\nBut again, we are talking about the other end of the cable...<br />\r\nBut we would need to work from that direction maybe?\r\n\n",
+
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"204", "sent":"Why not just make a magsafelike connection to charge the battery on the iDevices?My Xperia Z2 has that function and I have no need to utilize the micro USB.But again we are talking about the other end of the cable...But we would need to work from that direction maybe?","sentimentwords":[{"word":"no","polarity":2.0},{"word":"not","polarity":0}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510540",
+"date":"Aug 21, 2014, 07:32 PM",
+"author":"needfx",
+"aid":"478469",
+"htmltext":"\r\n            \r\n            this answers all questions\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"tongue showing durable", "sentid":"205", "sent":"this answers all questions","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510566",
+"date":"Aug 21, 2014, 07:38 PM",
+"author":"Cmdrx3",
+"aid":"805365",
+"htmltext":"\r\n            \r\n            Am I the only one that thinks this is a solution looking for a problem. Are people that lazy and so easily wound up that they need someone to design such a technical solution for something that is a minor irritation at best.\r\n\n",
+
+"sent": [{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"206", "sent":"Am I the only one that thinks this is a solution looking for a problem.","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"207", "sent":"Are people that lazy and so easily wound up that they need someone to design such a technical solution for something that is a minor irritation at best.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510616",
+"date":"Aug 21, 2014, 07:49 PM",
+"author":"chabig",
+"aid":"11968",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Cmdrx3</strong>\n<a href=\"showthread.php?p=19510566#post19510566\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Am I the only one that thinks this is a solution looking for a problem. Are people that lazy and so easily wound up that they need someone to design such a technical solution for something that is a minor irritation at best.</div>\n</td>\n</tr>\n</table>\n</div>Where I work, we have big desktops underneath our desks, and trying to feel for the orientation of a USB port is a major irritation. A solution like this would be welcomed.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510566",
+
+"sent": [{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"208", "sent":"Quote:Originally Posted byCmdrx3Am I the only one that thinks this is a solution looking for a problem.","sentimentwords":[]},{"linePolarity":0.503571428571,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"209", "sent":"Are people that lazy and so easily wound up that they need someone to design such a technical solution for something that is a minor irritation at best.Where I work we have big desktops underneath our desks and trying to feel for the orientation of a USB port is a major irritation.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"210", "sent":"A solution like this would be welcomed.","sentimentwords":[{"word":"solution","polarity":2.0},{"word":"welcomed","polarity":0}]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510967",
+"date":"Aug 21, 2014, 10:00 PM",
+"author":"usersince86",
+"aid":"12533",
+"htmltext":"\r\n            \r\n            Maybe second world, too, if you even use those terms...\r\n\n",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"216", "sent":"Maybe second world too if you even use those terms...","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19511122",
+"date":"Aug 21, 2014, 11:18 PM",
+"author":"lordofthereef",
+"aid":"645660",
+"htmltext":"\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>usersince86</strong>\n<a href=\"showthread.php?p=19510967#post19510967\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Maybe second world, too, if you even use those terms...</div>\n</td>\n</tr>\n</table>\n</div>So is literally every imrpovement that has ever been made to a smartphone, in most cases. Right?<font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>engg2000</strong>\n<a href=\"showthread.php?p=19508575#post19508575\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Amazing how people jump on the bandwagon against product improvement...<br />\n<br />\nMany of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.  Do you even know what an elastomer is?<br />\nBoeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple can't make a reversible USB cable that won't be susceptible to snapping after repeated use? <br />\n<br />\nLots of smart guys commenting in this forum.</div>\n</td>\n</tr>\n</table>\n</div>I have no real idea what they can and can't dp. I will say that, in my experience, Apple's cables are some of the first to fall apart (aside from the knockoffs you buy ten for a dollar on ebay... some of those are falling apart out of the bag). It's a pretty frequent complaint (to which a pretty frequent response is that the user must be abusing his cables). <br />\n<br />\nI still maintain that my most durable 30-pin was made by belkin. I had that from when I had my iphone 3G to when I got my 5 and had to go with lightning. My current (Apple) lightning cable in my care as fraying at both ends. Aside from being more grey than white <img src=\"http://cdn.macrumors.com/vb/images/smilies/tongue.png\" border=\"0\" alt=\"\" title=\"Stick Out Tongue\" class=\"inlineimg\" />, my trust 30-pin showed no real signs of wear. Tghe one in the living room is also fraying at the lightning cable end. That's a bummer because it's one of Apple's longer ones. <img src=\"http://cdn.macrumors.com/vb/images/smilies/frown.png\" border=\"0\" alt=\"\" title=\"Frown\" class=\"inlineimg\" /><font color=\"#808080\"><br />\n<br />\n----------<br />\n<br />\n</font><div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Moto G</strong>\n<a href=\"showthread.php?p=19509532#post19509532\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\"><br />\nHow is it &quot;tricky to tell&quot;? It's EASY, if you're patient and have eyes :/</div>\n</td>\n</tr>\n</table>\n</div>There are those who have a tough time seeing things this small... my mother is one of them. Watching her fiddle with cables is quite comical. Her favorite thing about her new iPhone is that she can plug the &quot;iphone end&quot; in easily.<br />\n<br />\nAlso, and this may come as a shock, the nont tech inclined don't even know what a USB is. They are happy they have aphone that works that they can use to forward their mass emails with powerpoint picture albums to all 351 of their best buddies. What I am saying is, yes, an easier plug will most definitely be beneficial for granny, or mom, or just anyone who doesn't give a rip about technology and just wants things to work easily. That latter bit is something Apple has prided themselves on for a long while now.\r\n\n",
+"parent":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510967",
+
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"218", "sent":"Quote:Originally Posted byusersince86Maybe second world too if you even use those terms...So is literally every imrpovement that has ever been made to a smartphone in most cases.","sentimentwords":[]},{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"219", "sent":"Right?Quote:Originally Posted byengg2000Amazing how people jump on the bandwagon against product improvement...Many of you concur the piece that Apple is making from an elastomer is going to eventually snap because of repeated use.","sentimentwords":[]},{"linePolarity":-0.633333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"220", "sent":"Do you even know what an elastomer is?Boeing makes an airplane wing that flexes billions of times over the lifecycle of an airplane but Apple cant make a reversible USB cable that wont be susceptible to snapping after repeated use?Lots of smart guys commenting in this forum.I have no real idea what they can and cant dp.","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"221", "sent":"I will say that in my experience Apples cables are some of the first to fall apart aside from the knockoffs you buy ten for a dollar on ebay... some of those are falling apart out of the bag.","sentimentwords":[{"word":"fall","polarity":-3.0},{"word":"falling","polarity":-1.5}]},{"linePolarity":-0.4125,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"222", "sent":"Its a pretty frequent complaint to which a pretty frequent response is that the user must be abusing his cables.I still maintain that my most durable 30pin was made by belkin.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"223", "sent":"I had that from when I had my iphone 3G to when I got my 5 and had to go with lightning.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"224", "sent":"My current Apple lightning cable in my care as fraying at both ends.","sentimentwords":[]},{"linePolarity":-0.833333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"225", "sent":"Aside from being more grey than white my trust 30pin showed no real signs of wear.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"226", "sent":"Tghe one in the living room is also fraying at the lightning cable end.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"227", "sent":"Thats a bummer because its one of Apples longer ones.Quote:Originally Posted byMoto GHow is it quottricky to tellquot?","sentimentwords":[]},{"linePolarity":1.1,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"228", "sent":"Its EASY if youre patient and have eyes :There are those who have a tough time seeing things this small... my mother is one of them.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"229", "sent":"Watching her fiddle with cables is quite comical.","sentimentwords":[]},{"linePolarity":3.33333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"230", "sent":"Her favorite thing about her new iPhone is that she can plug the quotiphone endquot in easily.Also and this may come as a shock the nont tech inclined dont even know what a USB is.","sentimentwords":[{"word":"buddies","polarity":1.0},{"word":"happy","polarity":4.0},{"word":"best","polarity":5.0}]},{"linePolarity":1.3,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"231", "sent":"They are happy they have aphone that works that they can use to forward their mass emails with powerpoint picture albums to all 351 of their best buddies.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"232", "sent":"What I am saying is yes an easier plug will most definitely be beneficial for granny or mom or just anyone who doesnt give a rip about technology and just wants things to work easily.","sentimentwords":[]},{"linePolarity":-2.75,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"233", "sent":"That latter bit is something Apple has prided themselves on for a long while now.","sentimentwords":[{"word":"too","polarity":-4.5},{"word":"too","polarity":-2.25},{"word":"long","polarity":-1.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19510992",
+"date":"Aug 21, 2014, 10:08 PM",
+"author":"MattInOz",
+"aid":"65590",
+"htmltext":"\r\n            \r\n            This would have been a much better design for USB3 have the reverse side of the tongue connect to pins in the top of the connector for the extra pins. <br />\n<br />\r\nInstead of the current design that just feels like the plug isn't fully/properly inserted.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"217", "sent":"This would have been a much better design for USB3 have the reverse side of the tongue connect to pins in the top of the connector for the extra pins.Instead of the current design that just feels like the plug isnt fullyproperly inserted.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19513446",
+"date":"Aug 22, 2014, 01:11 PM",
+"author":"chabig",
+"aid":"11968",
+"htmltext":"\r\n            \r\n            I agree Skinned. The pins shouldn't have to change.\r\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"265", "sent":"I agree Skinned.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"266", "sent":"The pins shouldnt have to change.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19515223",
+"date":"Aug 22, 2014, 09:45 PM",
+"author":"hyhybt",
+"aid":"847796",
+"htmltext":"\r\n            \r\n            What I want, and what should have been THE standard USB from the beginning, is a cable that's reversible *end to end.* Though eliminating having to tell right side up is an improvement.\r\n\n",
+
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"288", "sent":"What I want and what should have been THE standard USB from the beginning is a cable thats reversible *end to end.","sentimentwords":[]},{"linePolarity":-2.83333333333,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"289", "sent":"* Though eliminating having to tell right side up is an improvement.","sentimentwords":[{"word":"magnetic","polarity":2.0},{"word":"ignorant","polarity":-9.0},{"word":"hard","polarity":-1.5}]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19517671",
+"date":"Aug 23, 2014, 05:57 PM",
+"author":"iKriz",
+"aid":"71716",
+"htmltext":"\r\n            \r\n            Really how hard is it to insert a USB cable into a computer.<br />\n<br />\r\nThe magnetic charging cable ok.. now that is useful.. but a usb cable thats ignorant of it's orientation.. while we're at it why not change hdmi, displayport SCART and VGA...\r\n\n",
+
+"sent": [{"linePolarity":0.5625,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"290", "sent":"Really how hard is it to insert a USB cable into a computer.The magnetic charging cable ok.. now that is useful.. but a usb cable thats ignorant of its orientation.. while were at it why not change hdmi displayport SCART and VGA...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_6.19518661",
+"date":"Aug 24, 2014, 02:11 AM",
+"author":"henzpwnapple",
+"aid":"280892",
+"htmltext":"\r\n            \r\n            flexible joint.. <img src=\"http://cdn.macrumors.com/vb/images/smilies/eek.png\" border=\"0\" alt=\"\" title=\"EEK!\" class=\"inlineimg\" /><br />\n<br />\r\nSo it is easier to break now? <img src=\"http://cdn.macrumors.com/vb/images/smilies/frown.png\" border=\"0\" alt=\"\" title=\"Frown\" class=\"inlineimg\" /><br />\n<br />\r\n&quot;Yes it is easier to get it in, but it is not meant for your to do frequent in-and-out jobs.&quot; <img src=\"http://cdn.macrumors.com/vb/images/smilies/tongue.png\" border=\"0\" alt=\"\" title=\"Stick Out Tongue\" class=\"inlineimg\" />\n\n",
+
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"high-definition audio playback", "sentid":"291", "sent":"flexible joint..So it is easier to break now?quotYes it is easier to get it in but it is not meant for your to do frequent inandout jobs.quot","sentimentwords":[]}]
+}
+]
+}

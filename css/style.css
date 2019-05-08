@@ -1,0 +1,322 @@
+TopicHierarchyLabel.node rect {
+  fill: #F1595F;
+  cursor: pointer;
+  stroke: #000;
+  stroke-width:.15px;
+  
+}
+ 
+.nodeTopicTree {
+  cursor: pointer; 
+}
+
+.nodeTopicTree rect {	
+  cursor: pointer;
+  stroke-width:2px;
+}
+
+.nodeTopicTree a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.circle {
+  cursor: pointer;
+}
+.circle rect {
+  fill: #F1595F;
+  cursor: pointer;
+  stroke: #000; 
+  stroke-width:2px;
+}
+
+.templink {
+    fill: none;
+    stroke: red;
+    stroke-width: 3px;
+  }
+ 
+.authorrect {
+  fill: #F1595F;   
+  cursor: pointer;
+  stroke: #000; 
+  stroke-width:.15px;
+}
+
+.node text {
+  font:  bold 13px HelveticaNeueLight, Verdana, Helvetica, sans-serif;
+  cursor: pointer;  
+}
+
+.title {
+  font: bold 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.title2 {
+  font: 13px Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight: normal; 
+}
+
+path.link {
+  fill: none;
+  stroke:#00479D;
+  stroke-width: 1.5px;
+  opacity: 0.2;
+}
+
+.linktopics {
+        fill: none;
+        /*stroke: #d5e6ec; */
+		stroke:#00479D;
+        stroke-width: 1.5px;
+    }
+.linktopicsnew {
+        fill: none;
+        /*stroke: #d5e6ec; */
+		stroke:#00479D;
+        stroke-width: 1.5px;
+    }
+.linkauthors {
+        fill: none;
+        stroke: #9970AB;
+        stroke-width: 1.5px;
+    }
+body {
+ 
+/*	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;*/
+	font-family: "HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Arial", sans-serif;
+	font-weight: 200; font-stretch: normal;	 
+	padding: 10px; 
+}
+	h2, h3 { margin: 0 0 20px; text-shadow: 2px 2px #fff; }
+	h2 { font-size: 28px; }
+	h3 { font-size: 22px; }
+	pre { background: #fff; width: 460px; padding: 10px 20px; border-left: 5px solid #ccc; margin: 0 0 20px; }
+	p { font-size: 18px; line-height: 24px; margin: 0 0 30px; }
+	input { margin: 0; padding: 0; }
+	
+	
+	#content {  border:  2px solid #eee;  margin: 0px; width: 480px; height: 900px;  
+				vertical-align: top;   background: #eee;      overflow:scroll;    }
+	#content ul, ol { padding-left: 0px; line-height: 18px; } /*set indentation of comments*/
+
+
+	#dialog {  border:  2px solid #eee;  margin: 0px;   
+				vertical-align: top;   background: #eee;      overflow:scroll;    }
+	#dialog ul, ol { padding-left: 0px; line-height: 18px; } /*set indentation of comments*/
+	#dialog li {  padding: 5px 0 0; }
+
+	#single_conversation {display: none;}
+	#chart {display: none;     border: 1px solid lightgrey;}
+	
+	#overview {  width:1350px; height: 950px;  vertical-align: top; 				
+				 cursor: pointer;}	
+    div.myautoscroll {
+            overflow: hidden;
+
+    }
+    div.myautoscroll:hover {
+            overflow: auto;
+    }
+    div.myautoscroll p {
+            padding-right: 16px;
+    }
+    div.myautoscroll:hover p {
+            padding-right: 0px;
+    }
+
+	#conversations { padding: 0; margin: 0; }
+	 
+	#conversations li {  padding: 10px 3px 0; border:0px;}
+	#conversations ul { list-style-type: none;border:0px;} 
+
+	.conversationitem{
+		padding: 0px;
+		background: #fff; 
+		display: block; overflow: hidden; 
+		border-top:1px solid #E1E8ED;
+		border-left:1px solid #E1E8ED;
+		border-right:1px solid #E1E8ED;
+		border-bottom:1px solid #E1E8ED;		
+		border-radius: 6px;
+	}
+    div.conversationitem:hover {
+       // background: #EEEEEE;
+	   background: rgb(228,236,241);
+    }
+	
+	#div_title{font:  bold 14px HelveticaNeueLight, Verdana, Helvetica, sans-serif; padding-left: 15px;color: #fff; background: steelblue;width: 480px;}
+	#TopicHierarchyLabel{border: 2px solid; border-radius: 6px; color: #fff; font:  bold 14px HelveticaNeueLight, Verdana, Helvetica, sans-serif; padding-left: 15px; background: steelblue; width: 350px;height: 25px;}
+        #UndoLabel{width: 40px;height: 25px;}        
+        #SummaryLabel ul {
+        list-style-type: none;
+        margin: 0;   
+        padding: 0;            
+             display: inline-block;
+             float:left;
+          margin-right: 10px;
+        }           
+        #TopicHierarchyLabel ul {
+        list-style-type: none;
+        margin: 0;   
+        padding: 0;            
+             display: inline-block;
+             float:left;
+          margin-right: 10px;
+        }        
+        #UndoLabel ul {
+        list-style-type: none;
+        margin: 0;   
+        padding: 0;            
+             display: inline-block;
+             float:left;
+          margin-right: 10px;
+        }             
+	#thread_label{border: 2px solid; border-radius: 6px; color: #fff; font:  bold 14px HelveticaNeueLight, Verdana, Helvetica, sans-serif; padding-left: 15px; background: steelblue; width: 900px;height: 25px;}	
+        
+	#overview_header{border: 2px solid; border-radius: 6px; color: #fff; font:  bold 14px HelveticaNeueLight, Verdana, Helvetica, sans-serif; padding-left: 15px; background: steelblue; width: 1365x;height: 25px;}
+	#div_conversationlist{padding-left: 15px;color: #fff;  background-image: URL(icons/back.png);}	
+	
+	table {
+	margin: 0px;
+    border-collapse: collapse;
+    padding: 0px;
+	width: 100%;
+   }
+	.biglist { font-size: 110%; font-weight: bold; background: #fff; padding: 10px 40px; margin: 0; }
+	
+	.jcollapsible { font-size: 125%; font-weight: bold; }
+	
+	#example, #example2, #example3 { width: 120px; float: left; margin-right: 40px; }
+	#example2, #example2 ul { list-style-type: none; }
+ 
+	#example3, #example3 ul { list-style: none; }
+	
+	#comments { padding: 0; margin: 0; }
+	 
+	#comments li {  padding: 5px 0 0; }
+	#comments ul { list-style-type: none;}
+	.comment { background: #fff; padding: 5px; 
+			display: block; overflow: hidden; 
+			border-top:2px solid white;
+			border-bottom:2px solid white;    			
+			}
+ 
+	.comment-author { float: left; width: 60px; font-size: 10px; text-align: center; margin: 0 10px 10px 0; }
+	.comment-body, .comment-body p { font-size: 15px; line-height: 18px; margin: 0; }	
+	.link-title{  color:#339966; }
+	.glyph {vertical-align: top; overflow: hidden; }
+
+	.conversationglyph{width: 150px}
+
+a.title{	
+	font-size: 18px;
+	font-weight: normal;
+	 color: rgb(26, 13, 171);
+	display: block;
+	text-decoration: none;
+	font: Verdana,Arial,Helvetica,Geneva,sans-serif;	
+}
+a.title:visited {
+    	background-color: #00FF00;
+}	
+
+.column_glyph{width: 200px}	
+   
+   
+  /*
+  search bar
+  */
+
+	#tfnewsearch{
+		float:right;
+		padding:25px;
+	}
+	.tftextinput3{
+		margin-bottom: 3px;
+		padding: 3px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:13px;
+		color:#666;
+		border:1px solid #0076a3;
+		border-top-left-radius: 5px 5px;
+		border-bottom-left-radius: 5px 5px;
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;		
+	}
+	.tfclear{
+		clear:both;
+	}
+	.highlight{ background-color:yellow; }
+
+	.line {
+
+	  stroke-width: 1.5px;
+	}	
+	
+    #monthly-volume-chart g.y {
+            display: none;
+	}
+	
+	#resetbutton
+        {
+            background: url(icons/refresh.png) ;
+            cursor:pointer;
+            border: none;
+    }
+
+	.dropdownitem{
+			padding: 2px;
+			border:1px solid #0076a3;
+			cursor:pointer;
+	}
+	.dropdownitem.label{
+		cursor:pointer;
+	}
+	
+#floatingRectangle {
+    z-index: 1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+    
+    height: 100px;
+ 
+ 
+}	
+
+#tablex
+{
+    table-layout: fixed;
+    width: 400px;
+
+}
+#conversation_count
+{
+	font-size: 18px;
+	font-weight: bold;
+	 color: grey;
+	display: block;
+	text-decoration: none;
+	font: Verdana,Arial,Helvetica,Geneva,sans-serif;	
+}
+#sortlist{
+padding: 1	0px 0px;				  
+}
+#sortlist ul
+{
+				  width: 100%;
+				  float: left;
+				  margin: 0 0 0em 0;
+
+				  list-style: none;
+}
+#sortlist li {
+				  float: left; 
+				  padding: 0px 13px;				  
+}
+#sortlist li:hover {
+			border-bottom: 3px solid #DD4B39;			  
+}
+#sortlist li:active {
+			border-bottom: 3px solid #DD4B39;			  
+}

@@ -1,0 +1,5302 @@
+{
+  "topicID": "00_0",
+  "labels": [
+    {
+      "phrase": "iPhone 6 bend",
+      "prob": 0.0322411592883
+    }
+  ],
+  "children": [
+  
+    {
+      "topicID": "0",
+      "labels": [
+        {
+          "phrase": "iPhone 6 bend",
+          "prob": 0.0543433942021
+        },
+        {
+          "phrase": " Health Kit",
+          "prob": 0.0543433942021
+        },
+        {
+          "phrase": " pocket",
+          "prob": 0.0436046183531
+        },
+        {
+          "phrase": " wrong big pockets",
+          "prob": 0.0436046183531
+        },
+        {
+          "phrase": " iPhone",
+          "prob": 0.031250005541
+        },
+        {
+          "phrase": " -P iPhone",
+          "prob": 0.031250005541
+        },
+        {
+          "phrase": " happy Quote",
+          "prob": 0.031250005541
+        },
+        {
+          "phrase": " small number",
+          "prob": 0.031250005541
+        },
+        {
+          "phrase": " owners",
+          "prob": 0.031250005541
+        },
+        {
+          "phrase": " bent phones",
+          "prob": 0.031250005541
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_1:1",
+          "strength": 1244,
+          "labels": [
+
+            {
+              "phrase": " bending vulnerability",
+              "prob": 0.0776324442923
+            },
+            {
+              "phrase": "Apple customer support line",
+              "prob": 0.0867412716751
+            },			
+            {
+              "phrase": " bend it phone in",
+              "prob": 0.0688541291056
+            },
+            {
+              "phrase": " Isolated incidents",
+              "prob": 0.0450112680462
+            },
+            {
+              "phrase": " Ride",
+              "prob": 0.0322580747166
+            },
+            {
+              "phrase": " iOS",
+              "prob": 0.0322580747166
+            },
+            {
+              "phrase": " customers",
+              "prob": 0.0322580747166
+            },
+            {
+              "phrase": " doubts",
+              "prob": 0.0322580747166
+            },
+            {
+              "phrase": " MR",
+              "prob": 0.0322580747166
+            }
+          ],
+          "topicsentiments": [
+            222,
+            352,
+            338,
+            418,
+            114
+          ]
+        },
+
+{
+          "topicID": "iphone_20:8",
+          "strength": 16,
+          "labels": [
+            {
+              "phrase": "exact pockets",
+              "prob": 0.0668514234481
+            },
+            {
+              "phrase": " loose pockets",
+              "prob": 0.0668514234481
+            },
+            {
+              "phrase": " man purse",
+              "prob": 0.0644118713116
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0522088646584
+            },
+            {
+              "phrase": " Multiple phones",
+              "prob": 0.0522088646584
+            },
+            {
+              "phrase": " pants",
+              "prob": 0.0370370578104
+            },
+            {
+              "phrase": " Have",
+              "prob": 0.0370370578104
+            },
+            {
+              "phrase": " bent morning",
+              "prob": 0.0370370578104
+            }
+          ],
+          "topicsentiments": [
+            0,
+            10,
+            29,
+            1,
+            1
+          ]
+        },		
+        {
+          "topicID": "iphone_21:1",
+          "strength": 1190,
+          "labels": [
+            {
+              "phrase": "baggier pants",
+              "prob": 0.0543433942021
+            },
+            {
+              "phrase": " Health Kit",
+              "prob": 0.0543433942021
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0436046183531
+            },
+            {
+              "phrase": " wrong big pockets",
+              "prob": 0.0436046183531
+            },
+            {
+              "phrase": " iPhone",
+              "prob": 0.031250005541
+            },
+            {
+              "phrase": " -P iPhone",
+              "prob": 0.031250005541
+            },
+            {
+              "phrase": " happy Quote",
+              "prob": 0.031250005541
+            },
+            {
+              "phrase": " small number",
+              "prob": 0.031250005541
+            },
+            {
+              "phrase": " owners",
+              "prob": 0.031250005541
+            },
+            {
+              "phrase": " bent phones",
+              "prob": 0.031250005541
+            }
+          ],
+          "topicsentiments": [
+            157,
+            551,
+            167,
+            290,
+            197
+          ]
+        },
+   
+ 
+        {
+          "topicID": "iphone_21:4",
+          "strength": 27,
+          "labels": [
+            {
+              "phrase": "this issue",
+              "prob": 0.127707200141
+            },
+            {
+              "phrase": " this carries",
+              "prob": 0.0896191127184
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0769230832158
+            },
+            {
+              "phrase": " byclukasThis",
+              "prob": 0.0769230832158
+            }
+          ],
+          "topicsentiments": [
+            9,
+            6,
+            26,
+            12,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_21:5",
+          "strength": 6,
+          "labels": [
+            {
+              "phrase": "Snickers bar melts",
+              "prob": 0.230406711546
+            },
+            {
+              "phrase": " Stop",
+              "prob": 0.0769230876812
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0769230876812
+            }
+          ],
+          "topicsentiments": [
+            2,
+            1,
+            7,
+            2,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_21:6",
+          "strength": 13,
+          "labels": [
+            {
+              "phrase": "bent",
+              "prob": 0.0830263497117
+            },
+            {
+              "phrase": " phone bent",
+              "prob": 0.0830263497117
+            },
+            {
+              "phrase": " back plate bent",
+              "prob": 0.0830263497117
+            },
+            {
+              "phrase": " liquid nitrogen bath",
+              "prob": 0.0635762161415
+            },
+            {
+              "phrase": " reality distortion field",
+              "prob": 0.0601340137661
+            },
+            {
+              "phrase": " simple soft bump",
+              "prob": 0.0601340137661
+            },
+            {
+              "phrase": " stress tests",
+              "prob": 0.0457659333025
+            },
+            {
+              "phrase": " baggy set",
+              "prob": 0.0457659333025
+            },
+            {
+              "phrase": " Here",
+              "prob": 0.0263157997323
+            },
+            {
+              "phrase": " stories",
+              "prob": 0.0263157997323
+            },
+            {
+              "phrase": " jeans",
+              "prob": 0.0263157997323
+            },
+            {
+              "phrase": " forums",
+              "prob": 0.0263157997323
+            }
+          ],
+          "topicsentiments": [
+            1,
+            5,
+            13,
+            7,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_21:7",
+          "strength": 57,
+          "labels": [
+            {
+              "phrase": "left FRONT pocket",
+              "prob": 0.0392752933643
+            },
+            {
+              "phrase": " sitting pocket",
+              "prob": 0.0392752933643
+            },
+            {
+              "phrase": " roomier pocket",
+              "prob": 0.0392752933643
+            },
+            {
+              "phrase": " potential bending",
+              "prob": 0.0321845524544
+            },
+            {
+              "phrase": " sitting bending greater potential longer iPhone",
+              "prob": 0.0321845524544
+            },
+            {
+              "phrase": " damage DevinPitcherTo prevent bending",
+              "prob": 0.0296765261921
+            },
+            {
+              "phrase": " pressure points",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " drive yes",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " unique iPhone",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " sitting coffee table",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " left iPhone",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " rigid case",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " serious problem",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " Inone instance",
+              "prob": 0.0225857852822
+            },
+            {
+              "phrase": " Unlike smaller phones",
+              "prob": 0.0201512834082
+            },
+            {
+              "phrase": " bent phones",
+              "prob": 0.0201512834082
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0201512834082
+            },
+            {
+              "phrase": " small number",
+              "prob": 0.018121419879
+            },
+            {
+              "phrase": " handset",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " aluminum",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " roundup",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " device",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " unavoidable customers",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " window",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " way",
+              "prob": 0.0129870181099
+            },
+            {
+              "phrase": " couch relax",
+              "prob": 0.0129870181099
+            }
+          ],
+          "topicsentiments": [
+            10,
+            15,
+            22,
+            16,
+            3
+          ]
+        },
+        {
+          "topicID": "iphone_21:8",
+          "strength": 86,
+          "labels": [
+            {
+              "phrase": "official BendGate portal",
+              "prob": 0.0816172997974
+            },
+            {
+              "phrase": " real man",
+              "prob": 0.0621114371849
+            },
+            {
+              "phrase": " thinner iPhone",
+              "prob": 0.0621114371849
+            },
+            {
+              "phrase": " http",
+              "prob": 0.0357143002882
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0357143002882
+            },
+            {
+              "phrase": " pal Quote",
+              "prob": 0.0357143002882
+            },
+            {
+              "phrase": " components Quote",
+              "prob": 0.0357143002882
+            }
+          ],
+          "topicsentiments": [
+            16,
+            16,
+            45,
+            21,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "topicID": "1",
+      "labels": [
+        {
+          "phrase": "Thin metal",
+          "prob": 0.0833333471505
+        },
+        {
+          "phrase": " lap",
+          "prob": 0.0833333471505
+        },
+        {
+          "phrase": " Suck",
+          "prob": 0.0833333471505
+        }
+      ],
+      "children": [
+		{
+          "topicID": "iphone_1:2",
+          "strength": 97,
+          "labels": [
+            {
+              "phrase": " high-quality materials",
+              "prob": 0.0282809105201
+            },		  
+            {
+              "phrase": "steel/titanium inserts",
+              "prob": 0.03123213796
+            },
+            {
+              "phrase": " titanium inserts",
+              "prob": 0.03123213796
+            },
+            {
+              "phrase": " extra feature stainless steel",
+              "prob": 0.0295901055237
+            },
+
+            {
+              "phrase": " normal bend",
+              "prob": 0.0282429750667
+            },
+            {
+              "phrase": " bending",
+              "prob": 0.0282429750667
+            },
+            {
+              "phrase": " 3-point bending",
+              "prob": 0.0282429750667
+            },
+            {
+              "phrase": " Plus bending",
+              "prob": 0.0282429750667
+            },
+            {
+              "phrase": " Apple product",
+              "prob": 0.0282110170057
+            },
+            {
+              "phrase": " perform rigorous tests",
+              "prob": 0.0282110170057
+            },
+            {
+              "phrase": " entire development cycle",
+              "prob": 0.0282110170057
+            },
+            {
+              "phrase": " high stress locations",
+              "prob": 0.025966630959
+            },
+            {
+              "phrase": " strongest glass",
+              "prob": 0.0221073845348
+            },
+            {
+              "phrase": " real life",
+              "prob": 0.0214704365385
+            },
+            {
+              "phrase": " custom grade",
+              "prob": 0.0214704365385
+            },
+            {
+              "phrase": " strength",
+              "prob": 0.0214704365385
+            },
+            {
+              "phrase": " unibody enclosure",
+              "prob": 0.0214704365385
+            },
+            {
+              "phrase": " ongoing complaints",
+              "prob": 0.0214704365385
+            },
+            {
+              "phrase": " high quality standards",
+              "prob": 0.019156157095
+            },
+            {
+              "phrase": " bent iPhone",
+              "prob": 0.0190084327925
+            },
+            {
+              "phrase": " widespread iPhone",
+              "prob": 0.0190084327925
+            },
+            {
+              "phrase": " beautiful iPhone",
+              "prob": 0.0190084327925
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0156770579913
+            },
+            {
+              "phrase": " normal iPhones",
+              "prob": 0.0156770579913
+            },
+            {
+              "phrase": " bent iPhones",
+              "prob": 0.0156770579913
+            },
+            {
+              "phrase": " user pockets",
+              "prob": 0.0156770579913
+            },
+            {
+              "phrase": " Plus meet",
+              "prob": 0.0148743170371
+            },
+            {
+              "phrase": " total",
+              "prob": 0.0123456831134
+            },
+            {
+              "phrase": " severalMacRumorsforum",
+              "prob": 0.0123456831134
+            },
+            {
+              "phrase": " precision",
+              "prob": 0.0123456831134
+            }
+          ],
+          "topicsentiments": [
+            17,
+            20,
+            39,
+            21,
+            10
+          ]
+        },	  
+{
+          "topicID": "iphone_21:2",
+          "strength": 25,
+          "labels": [
+            {
+              "phrase": "house hold appliances",
+              "prob": 0.0993602019514
+            },
+            {
+              "phrase": " bymaflynnThinner phone",
+              "prob": 0.0786749948569
+            },
+            {
+              "phrase": " sage advice",
+              "prob": 0.0756139336693
+            },
+            {
+              "phrase": " surprised noAgreed",
+              "prob": 0.0606673746913
+            },
+            {
+              "phrase": " surprised noThis",
+              "prob": 0.0606673746913
+            },
+            {
+              "phrase": " aluminum",
+              "prob": 0.0434782856441
+            },
+            {
+              "phrase": " Disappointed",
+              "prob": 0.0434782856441
+            },
+            {
+              "phrase": " malleable Disappointed",
+              "prob": 0.0434782856441
+            }
+          ],
+          "topicsentiments": [
+            1,
+            6,
+            23,
+            10,
+            1
+          ]
+        },		
+        {
+		
+          "topicID": "iphone_20:1",
+          "strength": 5,
+          "labels": [
+            {
+              "phrase": "learn",
+              "prob": 0.0833333471505
+            },
+            {
+              "phrase": " lap",
+              "prob": 0.0833333471505
+            },
+            {
+              "phrase": " Suck",
+              "prob": 0.0833333471505
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            18,
+            0,
+            0
+          ]
+        },
+        
+        
+        {
+          "topicID": "iphone_20:5",
+          "strength": 37,
+          "labels": [
+            {
+              "phrase": "this public revelation force",
+              "prob": 0.0611067452906
+            },
+            {
+              "phrase": " dark big hoopla",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " particular position",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " long period",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " unreasonable demands",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " flaw",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " time and/or",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " this design flaw",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " curious Apple responds",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " magical solution",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " bycoolfactorMetal bends",
+              "prob": 0.0395255977891
+            },
+            {
+              "phrase": " bent",
+              "prob": 0.0227272793211
+            },
+            {
+              "phrase": " flex",
+              "prob": 0.0227272793211
+            }
+          ],
+          "topicsentiments": [
+            12,
+            11,
+            22,
+            14,
+            10
+          ]
+        }
+        
+            
+      ]
+    },
+    {
+      "topicID": "2",
+      "labels": [
+        {
+          "phrase": "Apple customer support line",
+          "prob": 0.0867412716751
+        },
+        {
+          "phrase": " bending vulnerability",
+          "prob": 0.0776324442923
+        },
+        {
+          "phrase": " bend it phone in",
+          "prob": 0.0688541291056
+        },
+        {
+          "phrase": " Isolated incidents",
+          "prob": 0.0450112680462
+        },
+        {
+          "phrase": " Ride",
+          "prob": 0.0322580747166
+        },
+        {
+          "phrase": " iOS",
+          "prob": 0.0322580747166
+        },
+        {
+          "phrase": " customers",
+          "prob": 0.0322580747166
+        },
+        {
+          "phrase": " doubts",
+          "prob": 0.0322580747166
+        },
+        {
+          "phrase": " MR",
+          "prob": 0.0322580747166
+        }
+      ],
+      "children": [
+{
+          "topicID": "iphone_2:1",
+          "strength": 1520,
+          "labels": [
+            {
+              "phrase": "Apple family",
+              "prob": 0.0750902131398
+            },
+            {
+              "phrase": " REAL family",
+              "prob": 0.0750902131398
+            },
+            {
+              "phrase": " them them weak phone",
+              "prob": 0.0526966239584
+            },
+            {
+              "phrase": " fake attorneys",
+              "prob": 0.0526966239584
+            },
+            {
+              "phrase": " skinny jeans",
+              "prob": 0.0526966239584
+            },
+            {
+              "phrase": " sure them devices",
+              "prob": 0.0303030347771
+            },
+            {
+              "phrase": " them durability Quote",
+              "prob": 0.0303030347771
+            },
+            {
+              "phrase": " brilliant them Surprised",
+              "prob": 0.0303030347771
+            },
+            {
+              "phrase": " HTC",
+              "prob": 0.0303030347771
+            },
+            {
+              "phrase": " Waiting",
+              "prob": 0.0303030347771
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0303030347771
+            }
+          ],
+          "topicsentiments": [
+            246,
+            397,
+            628,
+            413,
+            186
+          ]
+        },
+        
+        
+        {
+          "topicID": "iphone_1:4",
+          "strength": 10,
+          "labels": [
+            {
+              "phrase": "biggest issue",
+              "prob": 0.0471233940635
+            },
+            {
+              "phrase": " live rural area",
+              "prob": 0.0471233940635
+            },
+            {
+              "phrase": " Samsung campaign",
+              "prob": 0.0471233940635
+            },
+            {
+              "phrase": " Yesterdays specs",
+              "prob": 0.0457578048815
+            },
+            {
+              "phrase": " Apple",
+              "prob": 0.0263157969558
+            },
+            {
+              "phrase": " media",
+              "prob": 0.0263157969558
+            },
+            {
+              "phrase": " Damage",
+              "prob": 0.0263157969558
+            },
+            {
+              "phrase": " sales",
+              "prob": 0.0263157969558
+            },
+            {
+              "phrase": " reduction",
+              "prob": 0.0263157969558
+            },
+            {
+              "phrase": " margin",
+              "prob": 0.0263157969558
+            }
+          ],
+          "topicsentiments": [
+            14,
+            11,
+            4,
+            3,
+            5
+          ]
+        },
+        {
+          "topicID": "iphone_1:5",
+          "strength": 31,
+          "labels": [
+            {
+              "phrase": "people",
+              "prob": 0.127904674048
+            },
+            {
+              "phrase": " internet stories",
+              "prob": 0.127904674048
+            },
+            {
+              "phrase": " Apple",
+              "prob": 0.0714285920521
+            },
+            {
+              "phrase": " Samsung",
+              "prob": 0.0714285920521
+            }
+          ],
+          "topicsentiments": [
+            2,
+            12,
+            29,
+            9,
+            3
+          ]
+        },
+        
+        {
+          "topicID": "iphone_1:7",
+          "strength": 334,
+          "labels": [
+            {
+              "phrase": "media craze",
+              "prob": 0.07904493767
+            },
+            {
+              "phrase": " How come",
+              "prob": 0.07904493767
+            },
+            {
+              "phrase": " customers",
+              "prob": 0.0454545534397
+            },
+            {
+              "phrase": " images",
+              "prob": 0.0454545534397
+            },
+            {
+              "phrase": " wildfire",
+              "prob": 0.0454545534397
+            },
+            {
+              "phrase": " Samsung-funded Quote",
+              "prob": 0.0454545534397
+            },
+            {
+              "phrase": " Welcome",
+              "prob": 0.0454545534397
+            }
+          ],
+          "topicsentiments": [
+            81,
+            191,
+            51,
+            62,
+            30
+          ]
+        },
+        
+    {
+      "topicID": "iphone_1:9",
+      "strength": 28,
+      "labels": [
+        {
+          "phrase": "samsung conspiracy",
+          "prob": 0.072609540644
+        }
+		],
+      "topicsentiments": [
+        6,
+        8,
+        13,
+        16,
+        1
+      ]
+    }		
+      ]
+    },
+{
+      "topicID": "4",
+      "labels": [
+        {
+          "phrase": "iPhone 5 models",
+          "prob": 0.144402072903
+        },
+        {
+          "phrase": " reviews",
+          "prob": 0.0400000084302
+        },
+        {
+          "phrase": " 5c mix",
+          "prob": 0.0400000084302
+        },
+        {
+          "phrase": " phones",
+          "prob": 0.0400000084302
+        },
+        {
+          "phrase": " models",
+          "prob": 0.0400000084302
+        },
+        {
+          "phrase": " pictures",
+          "prob": 0.0400000084302
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_11:1",
+          "strength": 311,
+          "labels": [
+            {
+              "phrase": "report wont happen",
+              "prob": 0.144402072903
+            },
+            {
+              "phrase": " reviews",
+              "prob": 0.0400000084302
+            },
+            {
+              "phrase": " 5c mix",
+              "prob": 0.0400000084302
+            },
+            {
+              "phrase": " phones",
+              "prob": 0.0400000084302
+            },
+            {
+              "phrase": " models",
+              "prob": 0.0400000084302
+            },
+            {
+              "phrase": " pictures",
+              "prob": 0.0400000084302
+            }
+          ],
+          "topicsentiments": [
+            20,
+            51,
+            132,
+            90,
+            48
+          ]
+        },
+        {
+          "topicID": "iphone_11:2",
+          "strength": 17,
+          "labels": [
+            {
+              "phrase": "iPhone 5 re-dressed",
+              "prob": 0.0750612492428
+            },
+            {
+              "phrase": " Lumia owners",
+              "prob": 0.0496891301042
+            },
+            {
+              "phrase": " Jony Ive",
+              "prob": 0.0496891301042
+            },
+            {
+              "phrase": " women",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " This",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " re-targeted audience",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " odd iPhone",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " substance",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " Chinese",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " triumph",
+              "prob": 0.0285714279646
+            },
+            {
+              "phrase": " essential capable iPhone 5",
+              "prob": 0.0285714279646
+            }
+          ],
+          "topicsentiments": [
+            2,
+            7,
+            3,
+            18,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_11:3",
+          "strength": 8,
+          "labels": [
+            {
+              "phrase": "Product Red iPod touch",
+              "prob": 0.0743720772193
+            },
+            {
+              "phrase": " anodized touch",
+              "prob": 0.0743720772193
+            },
+            {
+              "phrase": " ipad mini",
+              "prob": 0.0559592319917
+            },
+            {
+              "phrase": " Product Red iphone",
+              "prob": 0.0545389368564
+            },
+            {
+              "phrase": " thin light polycarbonate aluminum",
+              "prob": 0.0543433944874
+            },
+            {
+              "phrase": " indoor light",
+              "prob": 0.0543433944874
+            },
+            {
+              "phrase": " beautiful wish",
+              "prob": 0.0312500057215
+            },
+            {
+              "phrase": " able quantities",
+              "prob": 0.0312500057215
+            },
+            {
+              "phrase": " sure ipads",
+              "prob": 0.0312500057215
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            4,
+            7
+          ]
+        },
+        {
+          "topicID": "iphone_11:4",
+          "strength": 26,
+          "labels": [
+            {
+              "phrase": "isn’t refined-looking iPhone 5",
+              "prob": 0.0340227560894
+            },
+            {
+              "phrase": " polycarbonate shell threaten",
+              "prob": 0.025814001531
+            },
+            {
+              "phrase": " Samsung Galaxy S4",
+              "prob": 0.0253852834361
+            },
+            {
+              "phrase": " Apple notes",
+              "prob": 0.0253852834361
+            },
+            {
+              "phrase": " glossy manufacturing process",
+              "prob": 0.0237157683609
+            },
+            {
+              "phrase": " doesn’t It’s strange",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " Android crop",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " aesthetics point",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " doesn’t bend",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " TechCrunchTo date",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " Apple’s choice",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " wasn’t there’s steel frame",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " Retina display",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " ceramic similar material",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " metal reinforcement",
+              "prob": 0.0193230059817
+            },
+            {
+              "phrase": " isn’t tacky plastic phone",
+              "prob": 0.0174891332517
+            },
+            {
+              "phrase": " A6 processor",
+              "prob": 0.0155038766909
+            },
+            {
+              "phrase": " plastic casing",
+              "prob": 0.0143001237634
+            },
+            {
+              "phrase": " plastic phones",
+              "prob": 0.0143001237634
+            },
+            {
+              "phrase": " plastic device",
+              "prob": 0.0143001237634
+            },
+            {
+              "phrase": " view",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " hard answer",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " polycarbonate colors",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " results",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " doubles",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " solid iPhone",
+              "prob": 0.0111111143117
+            },
+            {
+              "phrase": " solid Joire",
+              "prob": 0.0111111143117
+            }
+          ],
+          "topicsentiments": [
+            1,
+            8,
+            7,
+            9,
+            3
+          ]
+        },
+        {
+          "topicID": "iphone_11:5",
+          "strength": 6,
+          "labels": [
+            {
+              "phrase": "price tag",
+              "prob": 0.096610485444
+            },
+            {
+              "phrase": " brand",
+              "prob": 0.055555569289
+            },
+            {
+              "phrase": " appearance",
+              "prob": 0.055555569289
+            },
+            {
+              "phrase": " Hook",
+              "prob": 0.055555569289
+            },
+            {
+              "phrase": " young brilliant Quote",
+              "prob": 0.055555569289
+            }
+          ],
+          "topicsentiments": [
+            0,
+            2,
+            2,
+            0,
+            3
+          ]
+        },
+        {
+          "topicID": "iphone_11:6",
+          "strength": 7,
+          "labels": [
+            {
+              "phrase": "poor review",
+              "prob": 0.0744024705534
+            },
+            {
+              "phrase": " No review",
+              "prob": 0.0744024705534
+            },
+            {
+              "phrase": " early preview",
+              "prob": 0.0526675151732
+            },
+            {
+              "phrase": " reflective build quality",
+              "prob": 0.0511467268991
+            },
+            {
+              "phrase": " British publication",
+              "prob": 0.0511467268991
+            },
+            {
+              "phrase": " criticism",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " fear",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " Remember",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " validity",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " circulation",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " byWBRacingAm",
+              "prob": 0.0294117715189
+            },
+            {
+              "phrase": " reviews",
+              "prob": 0.0294117715189
+            }
+          ],
+          "topicsentiments": [
+            0,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_11:7",
+          "strength": 3,
+          "labels": [
+            {
+              "phrase": "16-gigabyte model",
+              "prob": 0.100826709208
+            },
+            {
+              "phrase": " York TimesThe budget model",
+              "prob": 0.100826709208
+            },
+            {
+              "phrase": " review units",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " iPhone event",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " Apple’s colorful",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " two-year contract",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " general reaction",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " interesting excerpts",
+              "prob": 0.0511508536954
+            },
+            {
+              "phrase": " number",
+              "prob": 0.0294117744718
+            },
+            {
+              "phrase": " September",
+              "prob": 0.0294117744718
+            },
+            {
+              "phrase": " place",
+              "prob": 0.0294117744718
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_11:8",
+          "strength": 7,
+          "labels": [
+            {
+              "phrase": "shiny plastic",
+              "prob": 0.0817350706281
+            },
+            {
+              "phrase": " “plastic” isn’t",
+              "prob": 0.0817350706281
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0661365796317
+            },
+            {
+              "phrase": " last year’s phone",
+              "prob": 0.0661365796317
+            },
+            {
+              "phrase": " single piece",
+              "prob": 0.0470028527928
+            },
+            {
+              "phrase": " back edges",
+              "prob": 0.0470028527928
+            },
+            {
+              "phrase": " hot cakes",
+              "prob": 0.0470028527928
+            },
+            {
+              "phrase": " identical last year’s iPhone",
+              "prob": 0.0461607670045
+            },
+            {
+              "phrase": " LoopThere",
+              "prob": 0.0270270401656
+            },
+            {
+              "phrase": " touch terrific price",
+              "prob": 0.0270270401656
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            4,
+            2
+          ]
+        }
+      ]
+    },	
+    
+    
+    {
+      "topicID": "5",
+      "labels": [
+        {
+          "phrase": " User experience",
+          "prob": 0.0750902131398
+        },	  
+
+        {
+          "phrase": "weak phone",
+          "prob": 0.0526966239584
+        },
+        {
+          "phrase": " fake attorneys",
+          "prob": 0.0526966239584
+        },
+        {
+          "phrase": " skinny jeans",
+          "prob": 0.0526966239584
+        },
+        {
+          "phrase": " sure them devices",
+          "prob": 0.0303030347771
+        },
+        {
+          "phrase": " them durability Quote",
+          "prob": 0.0303030347771
+        },
+        {
+          "phrase": " brilliant them Surprised",
+          "prob": 0.0303030347771
+        },
+        {
+          "phrase": " HTC",
+          "prob": 0.0303030347771
+        },
+        {
+          "phrase": " Waiting",
+          "prob": 0.0303030347771
+        },
+        {
+          "phrase": " pocket",
+          "prob": 0.0303030347771
+        }
+      ],
+      "children": [
+{
+          "topicID": "iphone_20:2",
+          "strength": 1615,
+          "labels": [
+            {
+              "phrase": "Guy bends",
+              "prob": 0.0668841963185
+            },
+            {
+              "phrase": " Thin metal",
+              "prob": 0.0668841963185
+            },
+            {
+              "phrase": " news bears",
+              "prob": 0.0668841963185
+            },
+            {
+              "phrase": " iPhone",
+              "prob": 0.0384615566659
+            },
+            {
+              "phrase": " test",
+              "prob": 0.0384615566659
+            },
+            {
+              "phrase": " Science",
+              "prob": 0.0384615566659
+            },
+            {
+              "phrase": " sake",
+              "prob": 0.0384615566659
+            },
+            {
+              "phrase": " business",
+              "prob": 0.0384615566659
+            }
+          ],
+          "topicsentiments": [
+            234,
+            422,
+            706,
+            451,
+            188
+          ]
+        },     	  
+        
+        {
+          "topicID": "iphone_2:2",
+          "strength": 49,
+          "labels": [
+            {
+              "phrase": "big name companies",
+              "prob": 0.035027781201
+            },
+            {
+              "phrase": " handset companies",
+              "prob": 0.035027781201
+            },
+            {
+              "phrase": " BlackBerry CEO John Chen",
+              "prob": 0.0237886746835
+            },
+            {
+              "phrase": " douche bag index",
+              "prob": 0.0202237575
+            },
+            {
+              "phrase": " 2014These social marketing efforts",
+              "prob": 0.0198855157392
+            },
+            {
+              "phrase": " LG USA",
+              "prob": 0.0188891104252
+            },
+            {
+              "phrase": " HTC USA",
+              "prob": 0.0188891104252
+            },
+            {
+              "phrase": " controversy",
+              "prob": 0.0188891104252
+            },
+            {
+              "phrase": " HTC mocking Apple",
+              "prob": 0.0179762232171
+            },
+            {
+              "phrase": " Genius technicians",
+              "prob": 0.0179762232171
+            },
+            {
+              "phrase": " recent iPhone",
+              "prob": 0.0172030073466
+            },
+            {
+              "phrase": " office desk",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " high fashion landline",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " support representative",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " warranty coverage",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " insane amount",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " subsequent bend test",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " 2014Samsung Nokia Deutschland",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " candy maker",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " Android sponsorKitKatalso",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " public platforms",
+              "prob": 0.0153904463607
+            },
+            {
+              "phrase": " social media",
+              "prob": 0.0149340033067
+            },
+            {
+              "phrase": " phone doesn",
+              "prob": 0.0134915733329
+            },
+            {
+              "phrase": " mobile phone manufactures",
+              "prob": 0.0134915733329
+            },
+            {
+              "phrase": " unclear latitude Geniuses",
+              "prob": 0.0123482264503
+            },
+            {
+              "phrase": " issue",
+              "prob": 0.0123482264503
+            },
+            {
+              "phrase": " bending issue",
+              "prob": 0.0123482264503
+            },
+            {
+              "phrase": " bent iPhones",
+              "prob": 0.0106621233717
+            },
+            {
+              "phrase": " bent phones",
+              "prob": 0.0106621233717
+            },
+            {
+              "phrase": " guess",
+              "prob": 0.00884956238585
+            },
+            {
+              "phrase": " roundup",
+              "prob": 0.00884956238585
+            },
+            {
+              "phrase": " visual inspections",
+              "prob": 0.00884956238585
+            },
+            {
+              "phrase": " Web",
+              "prob": 0.00884956238585
+            },
+            {
+              "phrase": " susceptible toThe",
+              "prob": 0.00884956238585
+            }
+          ],
+          "topicsentiments": [
+            11,
+            14,
+            15,
+            12,
+            5
+          ]
+        },
+        
+        
+         
+        {
+          "topicID": "iphone_2:8",
+          "strength": 36,
+          "labels": [
+            {
+              "phrase": "hard time",
+              "prob": 0.113090585844
+            },
+            {
+              "phrase": " Sitting down",
+              "prob": 0.113090585844
+            },
+            {
+              "phrase": " uncomfortable anything",
+              "prob": 0.0625000023446
+            },
+            {
+              "phrase": " uncomfortable Who",
+              "prob": 0.0625000023446
+            },
+            {
+              "phrase": " uncomfortable Quote",
+              "prob": 0.0625000023446
+            },
+            {
+              "phrase": " Apple",
+              "prob": 0.0625000023446
+            }
+          ],
+          "topicsentiments": [
+            14,
+            22,
+            15,
+            10,
+            3
+          ]
+        },        
+        {
+          "topicID": "iphone_2:4",
+          "strength": 21,
+          "labels": [
+            {
+              "phrase": "user experience",
+              "prob": 0.0543433939821
+            },
+            {
+              "phrase": " front door",
+              "prob": 0.0543433939821
+            },
+            {
+              "phrase": " inch TV",
+              "prob": 0.0543433939821
+            },
+            {
+              "phrase": " common Samsung phone",
+              "prob": 0.0543433939821
+            },
+            {
+              "phrase": " aluminum unibody",
+              "prob": 0.0543433939821
+            },
+            {
+              "phrase": " it bends",
+              "prob": 0.0312500054023
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0312500054023
+            },
+            {
+              "phrase": " device",
+              "prob": 0.0312500054023
+            },
+            {
+              "phrase": " notebook",
+              "prob": 0.0312500054023
+            }
+          ],
+          "topicsentiments": [
+            6,
+            9,
+            10,
+            9,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "topicID": "6",
+      "labels": [
+        {
+          "phrase": "Structural issue",
+          "prob": 0.0806686122812
+        },
+        {
+          "phrase": " longer piece",
+          "prob": 0.0806686122812
+        },
+        {
+          "phrase": " Pretty sure Macrumors",
+          "prob": 0.0714091253408
+        },
+        {
+          "phrase": " malleable larger iPhone",
+          "prob": 0.0543470348277
+        },
+        {
+          "phrase": " smaller iPhone",
+          "prob": 0.0543470348277
+        },
+        {
+          "phrase": " iPad Air",
+          "prob": 0.0543470348277
+        },
+        {
+          "phrase": " byLeonard1818Plus",
+          "prob": 0.0312500066639
+        },
+        {
+          "phrase": " surprising Well",
+          "prob": 0.0312500066639
+        },
+        {
+          "phrase": " phones",
+          "prob": 0.0312500066639
+        },
+        {
+          "phrase": " line",
+          "prob": 0.0312500066639
+        },
+        {
+          "phrase": " Quote",
+          "prob": 0.0312500066639
+        }
+      ],
+      "children": [
+{
+          "topicID": "iphone_20:6",
+          "strength": 15,
+          "labels": [
+            {
+              "phrase": "structure parts",
+              "prob": 0.0597488200896
+            },
+            {
+              "phrase": " order currently",
+              "prob": 0.0397932963723
+            },
+            {
+              "phrase": " clear Apple",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " mechanical engineer",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " type comments",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " guys phone",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " *****ty phone",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " normal circumstances",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " volume buttons",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " christmas tree",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " weak spot",
+              "prob": 0.0386472529344
+            },
+            {
+              "phrase": " wonder structural analyses",
+              "prob": 0.0386472529344
+            }
+          ],
+          "topicsentiments": [
+            0,
+            17,
+            40,
+            17,
+            3
+          ]
+        },	  
+        {
+          "topicID": "iphone_3:1",
+          "strength": 333,
+          "labels": [
+            {
+              "phrase": "it surprising shorter piece",
+              "prob": 0.0806686122812
+            },
+            {
+              "phrase": " longer piece",
+              "prob": 0.0806686122812
+            },
+            {
+              "phrase": " Pretty sure Macrumors",
+              "prob": 0.0714091253408
+            },
+            {
+              "phrase": " malleable larger iPhone",
+              "prob": 0.0543470348277
+            },
+            {
+              "phrase": " smaller iPhone",
+              "prob": 0.0543470348277
+            },
+            {
+              "phrase": " iPad Air",
+              "prob": 0.0543470348277
+            },
+            {
+              "phrase": " byLeonard1818Plus",
+              "prob": 0.0312500066639
+            },
+            {
+              "phrase": " surprising Well",
+              "prob": 0.0312500066639
+            },
+            {
+              "phrase": " phones",
+              "prob": 0.0312500066639
+            },
+            {
+              "phrase": " line",
+              "prob": 0.0312500066639
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0312500066639
+            }
+          ],
+          "topicsentiments": [
+            41,
+            78,
+            149,
+            99,
+            27
+          ]
+        },
+        
+         
+        {
+          "topicID": "iphone_3:4",
+          "strength": 18,
+          "labels": [
+            {
+              "phrase": "chemical acid bath",
+              "prob": 0.0355277116956
+            },
+            {
+              "phrase": " metal framework",
+              "prob": 0.0335981784733
+            },
+            {
+              "phrase": " anodized framework",
+              "prob": 0.0335981784733
+            },
+            {
+              "phrase": " weak material",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " Furniture designers",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " protective housings",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " computer systems",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " decorative home appliances",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " outdoor pieces",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " space debris",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " anodized automobile industry",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " modern buildings",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " process",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " stronger durable process",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " oxidation process",
+              "prob": 0.0255745743335
+            },
+            {
+              "phrase": " anodized number",
+              "prob": 0.0147058913301
+            },
+            {
+              "phrase": " anodized trims",
+              "prob": 0.0147058913301
+            },
+            {
+              "phrase": " metals",
+              "prob": 0.0147058913301
+            },
+            {
+              "phrase": " layers",
+              "prob": 0.0147058913301
+            }
+          ],
+          "topicsentiments": [
+            5,
+            8,
+            10,
+            7,
+            2
+          ]
+        },
+        
+        
+        {
+          "topicID": "iphone_3:8",
+          "strength": 1361,
+          "labels": [
+            {
+              "phrase": " smaller iPhone",
+              "prob": 0.0354919490354
+            },		  
+            {
+              "phrase": "appears",
+              "prob": 0.0525970629745
+            },
+            {
+              "phrase": " previous video appears",
+              "prob": 0.0525970629745
+            },
+            {
+              "phrase": " malleable larger iPhone",
+              "prob": 0.0354919490354
+            },
+
+            {
+              "phrase": " common sense",
+              "prob": 0.0354919490354
+            },
+            {
+              "phrase": " surprising smaller phone",
+              "prob": 0.0354919490354
+            },
+            {
+              "phrase": " point",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " obvious Macrumors",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " Well",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " strike area",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " Apple",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " twist- durable Surprisingly",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " Why",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " design",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " surprising JS",
+              "prob": 0.0204081716202
+            },
+            {
+              "phrase": " pockets",
+              "prob": 0.0204081716202
+            }
+          ],
+          "topicsentiments": [
+            208,
+            377,
+            569,
+            361,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "topicID": "7",
+      "labels": [
+        {
+          "phrase": "YouTube video",
+          "prob": 0
+        }
+      ],
+      "children": [
+{
+          "topicID": "iphone_20:4",
+          "strength": 50,
+          "labels": [
+            {
+              "phrase": "YouTube video maker Lewis Hilsenteger ofUnbox Therapy",
+              "prob": 0.034359931239
+            },
+            {
+              "phrase": " Hilsenteger bends",
+              "prob": 0.0286969494402
+            },
+            {
+              "phrase": " Jony Ive",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " pre-heated oven",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " Hilsenger onTwitter",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " significant warping",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " previous generations",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " bending incidents",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " remain functional",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " device screen",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " slight curvature",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " Earlier today",
+              "prob": 0.0228833043576
+            },
+            {
+              "phrase": " post16362767",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " http",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " fire",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " top Samsung",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " worth clickbait",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " advice",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " couple",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " gimmicks",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " wonder",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " test",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " Nov",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " rigid protective test",
+              "prob": 0.0131579010363
+            },
+            {
+              "phrase": " iapplelove",
+              "prob": 0.0131579010363
+            }
+          ],
+          "topicsentiments": [
+            5,
+            6,
+            30,
+            7,
+            5
+          ]
+        },	  
+        {
+          "topicID": "iphone_4:1",
+          "strength": 1,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_4:2",
+          "strength": 1,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_4:3",
+          "strength": 1,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_4:4",
+          "strength": 1,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_4:5",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_4:6",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            1,
+            1,
+            0,
+            0
+          ]
+        },
+{
+          "topicID": "iphone_3:2",
+          "strength": 18,
+          "labels": [
+            {
+              "phrase": "Lewis Hilsenteger ofUnbox Therapy",
+              "prob": 0.0291749685343
+            },
+            {
+              "phrase": " original video",
+              "prob": 0.0233797865985
+            },
+            {
+              "phrase": " able video",
+              "prob": 0.0233797865985
+            },
+            {
+              "phrase": " second video",
+              "prob": 0.0233797865985
+            },
+            {
+              "phrase": " capable handling real world",
+              "prob": 0.0215604877334
+            },
+            {
+              "phrase": " bent iPhone 6 Plus devices",
+              "prob": 0.0178645368251
+            },
+            {
+              "phrase": " device",
+              "prob": 0.0178645368251
+            },
+            {
+              "phrase": " iPhone 6 Plus users",
+              "prob": 0.0165940016053
+            },
+            {
+              "phrase": " placing",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " huge amount",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " volume buttons",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " bendingafter placing",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " small dent",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " slight curvature",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " future iterations",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " Johnny Ive",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " rigid protective roundup",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " thinness fixation",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " issue",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " day",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " last day",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " Non issue",
+              "prob": 0.0164068750935
+            },
+            {
+              "phrase": " iPhone 6 Plus bending incidents",
+              "prob": 0.0150201567395
+            },
+            {
+              "phrase": " iPhone 6 Plus owners",
+              "prob": 0.0141348296828
+            },
+            {
+              "phrase": " older iPhones",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " pockets",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " BACK pockets",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " durable preliminary testing",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " test",
+              "prob": 0.0131636707309
+            },
+            {
+              "phrase": " smaller iPhone 6 appears",
+              "prob": 0.0118931355112
+            },
+            {
+              "phrase": " sit",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " Hopefully",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " Do",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " comments",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " lesson",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " acknowledge",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " blamers",
+              "prob": 0.00943396358858
+            },
+            {
+              "phrase": " phones",
+              "prob": 0.00943396358858
+            }
+          ],
+          "topicsentiments": [
+            3,
+            10,
+            15,
+            11,
+            3
+          ]
+        },		
+        {
+          "topicID": "iphone_4:7",
+          "strength": 4,
+          "labels": [
+            {
+              "phrase": "rigid protective Guy bends",
+              "prob": 0.0550962121246
+            },
+            {
+              "phrase": " Hilsenteger bends",
+              "prob": 0.0550962121246
+            },
+            {
+              "phrase": " YouTube video maker Lewis Hilsenteger ofUnbox Therapycreated",
+              "prob": 0.0492708512971
+            },
+            {
+              "phrase": " Earlier today",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " previous generations",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " slight curvature",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " significant warping",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " remain functional",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " Hilsenger onTwitter",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " device screen",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " bending incidents",
+              "prob": 0.0328138022162
+            },
+            {
+              "phrase": " photos",
+              "prob": 0.0188679384547
+            },
+            {
+              "phrase": " bending iPhone",
+              "prob": 0.0188679384547
+            },
+            {
+              "phrase": " users",
+              "prob": 0.0188679384547
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0188679384547
+            },
+            {
+              "phrase": " force",
+              "prob": 0.0188679384547
+            },
+            {
+              "phrase": " iPhones",
+              "prob": 0.0188679384547
+            }
+          ],
+          "topicsentiments": [
+            0,
+            2,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_4:8",
+          "strength": 1,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+{
+      "topicID": "3",
+      "labels": [
+        {
+          "phrase": "better idea iFixit",
+          "prob": 0.0648645624737
+        },
+        {
+          "phrase": " 'grabbing-power-out-of-the-air solar cell skin",
+          "prob": 0.0601340129572
+        },
+        {
+          "phrase": " radioshack knock",
+          "prob": 0.0476190662971
+        },
+        {
+          "phrase": " byNancy NallyThey",
+          "prob": 0.0457659326405
+        },
+        {
+          "phrase": " entire site",
+          "prob": 0.0457659326405
+        },
+        {
+          "phrase": " A6 processors",
+          "prob": 0.0370957652338
+        },
+        {
+          "phrase": " website A6 processors",
+          "prob": 0.0370957652338
+        },
+        {
+          "phrase": " point",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " hood",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " free Quote",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " hardware",
+          "prob": 0.0263157993214
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_10:1",
+          "strength": 11,
+          "labels": [
+            {
+              "phrase": "better idea iFixit",
+              "prob": 0.0648645624737
+            },
+            {
+              "phrase": " 'grabbing-power-out-of-the-air solar cell skin",
+              "prob": 0.0601340129572
+            },
+            {
+              "phrase": " radioshack knock",
+              "prob": 0.0476190662971
+            },
+            {
+              "phrase": " byNancy NallyThey",
+              "prob": 0.0457659326405
+            },
+            {
+              "phrase": " entire site",
+              "prob": 0.0457659326405
+            },
+            {
+              "phrase": " A6 processors",
+              "prob": 0.0370957652338
+            },
+            {
+              "phrase": " website A6 processors",
+              "prob": 0.0370957652338
+            },
+            {
+              "phrase": " point",
+              "prob": 0.0263157993214
+            },
+            {
+              "phrase": " hood",
+              "prob": 0.0263157993214
+            },
+            {
+              "phrase": " free Quote",
+              "prob": 0.0263157993214
+            },
+            {
+              "phrase": " hardware",
+              "prob": 0.0263157993214
+            }
+          ],
+          "topicsentiments": [
+            0,
+            4,
+            5,
+            1,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_10:2",
+          "strength": 4,
+          "labels": [
+            {
+              "phrase": "solid solid colors",
+              "prob": 0.213588243089
+            },
+            {
+              "phrase": " byKlae17Love",
+              "prob": 0.142857172688
+            },
+            {
+              "phrase": " pastels",
+              "prob": 0.142857172688
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            0,
+            4,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_10:3",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            1,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_10:4",
+          "strength": 8,
+          "labels": [
+            {
+              "phrase": "low big difference extending battery life",
+              "prob": 0.0811693237591
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0586681003049
+            },
+            {
+              "phrase": " modern phone",
+              "prob": 0.0586681003049
+            },
+            {
+              "phrase": " substantial part",
+              "prob": 0.0411255566192
+            },
+            {
+              "phrase": " logic board",
+              "prob": 0.0406976906219
+            },
+            {
+              "phrase": " plastic shell",
+              "prob": 0.0406976906219
+            },
+            {
+              "phrase": " sony phones",
+              "prob": 0.0406976905185
+            },
+            {
+              "phrase": " Motorola phones",
+              "prob": 0.0406976905185
+            },
+            {
+              "phrase": " byelMacJunkieI wonder",
+              "prob": 0.0395256867095
+            },
+            {
+              "phrase": " user accessible",
+              "prob": 0.0395256867095
+            },
+            {
+              "phrase": " real advantage",
+              "prob": 0.0395256867095
+            }
+          ],
+          "topicsentiments": [
+            0,
+            1,
+            0,
+            5,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_10:5",
+          "strength": 13,
+          "labels": [
+            {
+              "phrase": "tamper resistant screws",
+              "prob": 0.0616212265165
+            },
+            {
+              "phrase": " screws common not that iFixit",
+              "prob": 0.0616212265165
+            },
+            {
+              "phrase": " that companies",
+              "prob": 0.049737849739
+            },
+            {
+              "phrase": " repairable iFixit",
+              "prob": 0.049737849739
+            },
+            {
+              "phrase": " pentalobe screwdriver set",
+              "prob": 0.0491598524979
+            },
+            {
+              "phrase": " repair-ability devices",
+              "prob": 0.0454819475382
+            },
+            {
+              "phrase": " device",
+              "prob": 0.0454819475382
+            },
+            {
+              "phrase": " monolithic nature",
+              "prob": 0.0452381139648
+            },
+            {
+              "phrase": " glue strengthens",
+              "prob": 0.0452381139648
+            },
+            {
+              "phrase": " screwdriver kit",
+              "prob": 0.0370799320425
+            },
+            {
+              "phrase": " substrate",
+              "prob": 0.0250000117856
+            }
+          ],
+          "topicsentiments": [
+            1,
+            10,
+            1,
+            7,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_10:6",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_10:7",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            0,
+            2,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_10:8",
+          "strength": 18,
+          "labels": [
+            {
+              "phrase": "iPhone 5",
+              "prob": 0.0322411592883
+            },
+            {
+              "phrase": " heavier iPhone 5",
+              "prob": 0.0322411592883
+            },
+            {
+              "phrase": " plastic shell",
+              "prob": 0.0316210462951
+            },
+            {
+              "phrase": " score",
+              "prob": 0.0309747120748
+            },
+            {
+              "phrase": " repairability score",
+              "prob": 0.0309747120748
+            },
+            {
+              "phrase": " battery",
+              "prob": 0.0266792017621
+            },
+            {
+              "phrase": " mAh battery",
+              "prob": 0.0266792017621
+            },
+            {
+              "phrase": " larger battery",
+              "prob": 0.0266792017621
+            },
+            {
+              "phrase": " rear case weighs",
+              "prob": 0.0253865340293
+            },
+            {
+              "phrase": " point lower",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " gave",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " proprietary screws",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " detailed rundown",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " pull tab",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " super strength",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " muscle test",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " numerous similarities",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " considerable amount",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " identical innards",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " matching A6",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " dismantling processon",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " form factor",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " camera parts",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " last night'steardownof iPhone",
+              "prob": 0.02173735648
+            },
+            {
+              "phrase": " rear panel",
+              "prob": 0.0174418461673
+            },
+            {
+              "phrase": " iFixithas",
+              "prob": 0.0125000008851
+            }
+          ],
+          "topicsentiments": [
+            1,
+            4,
+            8,
+            4,
+            1
+          ]
+        }
+      ]
+    },	
+    {
+      "topicID": "8",
+      "labels": [
+        {
+          "phrase": "scratch resistant",
+          "prob": 0.0949946900109
+        },
+        {
+          "phrase": " own melting process",
+          "prob": 0.057127318417
+        },
+        {
+          "phrase": " Hopefully Apple dealt",
+          "prob": 0.057127318417
+        },
+        {
+          "phrase": " Home button",
+          "prob": 0.0434776418598
+        },
+        {
+          "phrase": " it factory",
+          "prob": 0.0434776418598
+        },
+        {
+          "phrase": " common fall",
+          "prob": 0.0434776418598
+        },
+        {
+          "phrase": " pocket full",
+          "prob": 0.0434776418598
+        },
+        {
+          "phrase": " screen protector",
+          "prob": 0.0370801080271
+        },
+        {
+          "phrase": " screens",
+          "prob": 0.0250000135024
+        },
+        {
+          "phrase": " scratch fear screen",
+          "prob": 0.0250000135024
+        },
+        {
+          "phrase": " years",
+          "prob": 0.0250000135024
+        },
+        {
+          "phrase": " press",
+          "prob": 0.0250000135024
+        },
+        {
+          "phrase": " Quote",
+          "prob": 0.0250000135024
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_5:1",
+          "strength": 91,
+          "labels": [
+            {
+              "phrase": "single it scratch resistant",
+              "prob": 0.0949946900109
+            },
+            {
+              "phrase": " own melting process",
+              "prob": 0.057127318417
+            },
+            {
+              "phrase": " Hopefully Apple dealt",
+              "prob": 0.057127318417
+            },
+            {
+              "phrase": " Home button",
+              "prob": 0.0434776418598
+            },
+            {
+              "phrase": " it factory",
+              "prob": 0.0434776418598
+            },
+            {
+              "phrase": " common fall",
+              "prob": 0.0434776418598
+            },
+            {
+              "phrase": " pocket full",
+              "prob": 0.0434776418598
+            },
+            {
+              "phrase": " screen protector",
+              "prob": 0.0370801080271
+            },
+            {
+              "phrase": " screens",
+              "prob": 0.0250000135024
+            },
+            {
+              "phrase": " scratch fear screen",
+              "prob": 0.0250000135024
+            },
+            {
+              "phrase": " years",
+              "prob": 0.0250000135024
+            },
+            {
+              "phrase": " press",
+              "prob": 0.0250000135024
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0250000135024
+            }
+          ],
+          "topicsentiments": [
+            20,
+            32,
+            27,
+            18,
+            3
+          ]
+        },
+        {
+          "topicID": "iphone_5:2",
+          "strength": 158,
+          "labels": [
+            {
+              "phrase": "RF chip",
+              "prob": 0.0716585716171
+            },
+            {
+              "phrase": " regular glass",
+              "prob": 0.0611395446082
+            },
+            {
+              "phrase": " impact resistant",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " apple",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " apple usage",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " sure apple",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " camera lens",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " better insulation",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " fair test",
+              "prob": 0.037002232094
+            },
+            {
+              "phrase": " Surely",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " building",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " distribution",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " phones",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " shatter-prone smartphone",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " lasers",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " Here",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " iWatch",
+              "prob": 0.0212765966672
+            },
+            {
+              "phrase": " assumption",
+              "prob": 0.0212765966672
+            }
+          ],
+          "topicsentiments": [
+            13,
+            43,
+            53,
+            47,
+            15
+          ]
+        },
+        {
+          "topicID": "iphone_5:3",
+          "strength": 21,
+          "labels": [
+            {
+              "phrase": "watches",
+              "prob": 0.0714151218754
+            },
+            {
+              "phrase": " high end watches",
+              "prob": 0.0714151218754
+            },
+            {
+              "phrase": " comment yetBTW",
+              "prob": 0.0543474965521
+            },
+            {
+              "phrase": " phones",
+              "prob": 0.0543474965521
+            },
+            {
+              "phrase": " bysundog925OMG",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " byDaffyDuckThis",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " stupid carrier-exclusive Quote",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " names",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " bypwhiteheadI",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " thicker",
+              "prob": 0.0312500069368
+            },
+            {
+              "phrase": " bezel",
+              "prob": 0.0312500069368
+            }
+          ],
+          "topicsentiments": [
+            1,
+            4,
+            9,
+            8,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_5:4",
+          "strength": 15,
+          "labels": [
+            {
+              "phrase": "impact tests",
+              "prob": 0.184385088642
+            },
+            {
+              "phrase": " bycocky jeremyWho cares",
+              "prob": 0.172560299159
+            },
+            {
+              "phrase": " it rocket science",
+              "prob": 0.129251742965
+            },
+            {
+              "phrase": " phone",
+              "prob": 0.0714285991831
+            }
+          ],
+          "topicsentiments": [
+            1,
+            2,
+            18,
+            6,
+            5
+          ]
+        },
+        {
+          "topicID": "iphone_5:5",
+          "strength": 24,
+          "labels": [
+            {
+              "phrase": "scratch resistance comparison",
+              "prob": 0.0426217990549
+            },
+            {
+              "phrase": " aa four-point bend testto compare",
+              "prob": 0.0364154092321
+            },
+            {
+              "phrase": " sapphire asa display coverin future iPhone models",
+              "prob": 0.0338779668672
+            },
+            {
+              "phrase": " tungsten carbide drill",
+              "prob": 0.0238067133051
+            },
+            {
+              "phrase": " sapphire glass",
+              "prob": 0.0206897415144
+            },
+            {
+              "phrase": " future exact details",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " failure stress",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " susceptible impacts due",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " Kyocera Brigadier",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " Repair experts",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " percent stronger",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " smash earlier leaks",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " protective measures",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " saphire",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " pure saphire",
+              "prob": 0.0181159455398
+            },
+            {
+              "phrase": " top end watches",
+              "prob": 0.0175787874103
+            },
+            {
+              "phrase": " iWatch face",
+              "prob": 0.0160383628712
+            },
+            {
+              "phrase": " Phone manufacturers",
+              "prob": 0.0145348869151
+            },
+            {
+              "phrase": " scratch resistant",
+              "prob": 0.0141271634788
+            },
+            {
+              "phrase": " iWatch wearable",
+              "prob": 0.0132275157269
+            },
+            {
+              "phrase": " theimpact resistance",
+              "prob": 0.0113665395963
+            },
+            {
+              "phrase": " superior scratch resistance",
+              "prob": 0.0113665395963
+            },
+            {
+              "phrase": " better",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " voila",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " worlds Yes",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " materials",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " byJaySoulInteresting",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " screens",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0104166685041
+            },
+            {
+              "phrase": " sports",
+              "prob": 0.0104166685041
+            }
+          ],
+          "topicsentiments": [
+            2,
+            6,
+            10,
+            4,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_5:6",
+          "strength": 4,
+          "labels": [
+            {
+              "phrase": "SNIPAs",
+              "prob": 0.0909091018246
+            },
+            {
+              "phrase": " flexibility",
+              "prob": 0.0909091018246
+            },
+            {
+              "phrase": " agents",
+              "prob": 0.0909091018246
+            },
+            {
+              "phrase": " Bonded silicates",
+              "prob": 0.0909091018246
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            3,
+            0,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_5:7",
+          "strength": 9,
+          "labels": [
+            {
+              "phrase": "gorilla glass resists normal",
+              "prob": 0.0717424721842
+            },
+            {
+              "phrase": " scratch test",
+              "prob": 0.068225383235
+            },
+            {
+              "phrase": " bend test",
+              "prob": 0.068225383235
+            },
+            {
+              "phrase": " big deal",
+              "prob": 0.0380999503071
+            },
+            {
+              "phrase": " watch face",
+              "prob": 0.0380999503071
+            },
+            {
+              "phrase": " large phone",
+              "prob": 0.0370022327604
+            },
+            {
+              "phrase": " marketing gimmick",
+              "prob": 0.0370022327604
+            },
+            {
+              "phrase": " optional Diamond",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " relevant glass",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " millimetres",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " carborundum",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " pocket",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " iPhone",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " small iPhone",
+              "prob": 0.0212765970818
+            },
+            {
+              "phrase": " function",
+              "prob": 0.0212765970818
+            }
+          ],
+          "topicsentiments": [
+            3,
+            4,
+            0,
+            7,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_5:8",
+          "strength": 13,
+          "labels": [
+            {
+              "phrase": "better questions",
+              "prob": 0.0621067456384
+            },
+            {
+              "phrase": " byHobeSoundDarrylBig difference",
+              "prob": 0.0621067456384
+            },
+            {
+              "phrase": " shattered screen",
+              "prob": 0.0621067456384
+            },
+            {
+              "phrase": " scratches visible",
+              "prob": 0.0621067456384
+            },
+            {
+              "phrase": " maybe big rectangle",
+              "prob": 0.0503442493269
+            },
+            {
+              "phrase": " watch dial",
+              "prob": 0.0503442493269
+            },
+            {
+              "phrase": " big benefit",
+              "prob": 0.0503442493269
+            },
+            {
+              "phrase": " thicker watch",
+              "prob": 0.0357142968588
+            },
+            {
+              "phrase": " Laminated",
+              "prob": 0.0357142968588
+            }
+          ],
+          "topicsentiments": [
+            6,
+            2,
+            2,
+            5,
+            2
+          ]
+        }
+      ]
+    },
+	
+    {
+      "topicID": "9",
+      "labels": [
+        {
+          "phrase": "high-definition audio playback",
+          "prob": 0.0703317848244
+        },
+        {
+          "phrase": " this connector",
+          "prob": 0.0599004029091
+        },
+        {
+          "phrase": " cable this reversible USB",
+          "prob": 0.0538751597389
+        },
+        {
+          "phrase": " Lightning cable",
+          "prob": 0.0538751597389
+        },
+        {
+          "phrase": " future iOS devices",
+          "prob": 0.0496828625042
+        },
+        {
+          "phrase": " flexible stalk",
+          "prob": 0.0378071464132
+        },
+        {
+          "phrase": " this fabulous idea",
+          "prob": 0.0378071464132
+        },
+        {
+          "phrase": " susceptible equal parts",
+          "prob": 0.0378071464132
+        },
+        {
+          "phrase": " sure Apple revealing",
+          "prob": 0.0378071464132
+        },
+        {
+          "phrase": " vulnerable insertions",
+          "prob": 0.0217391330875
+        },
+        {
+          "phrase": " Really",
+          "prob": 0.0217391330875
+        },
+        {
+          "phrase": " features",
+          "prob": 0.0217391330875
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_6:1",
+          "strength": 190,
+          "labels": [
+            {
+              "phrase": "high-definition audio playback",
+              "prob": 0.0703317848244
+            },
+            {
+              "phrase": " this connector",
+              "prob": 0.0599004029091
+            },
+            {
+              "phrase": " cable this reversible USB",
+              "prob": 0.0538751597389
+            },
+            {
+              "phrase": " Lightning cable",
+              "prob": 0.0538751597389
+            },
+            {
+              "phrase": " future iOS devices",
+              "prob": 0.0496828625042
+            },
+            {
+              "phrase": " flexible stalk",
+              "prob": 0.0378071464132
+            },
+            {
+              "phrase": " this fabulous idea",
+              "prob": 0.0378071464132
+            },
+            {
+              "phrase": " susceptible equal parts",
+              "prob": 0.0378071464132
+            },
+            {
+              "phrase": " sure Apple revealing",
+              "prob": 0.0378071464132
+            },
+            {
+              "phrase": " vulnerable insertions",
+              "prob": 0.0217391330875
+            },
+            {
+              "phrase": " Really",
+              "prob": 0.0217391330875
+            },
+            {
+              "phrase": " features",
+              "prob": 0.0217391330875
+            }
+          ],
+          "topicsentiments": [
+            13,
+            47,
+            62,
+            65,
+            19
+          ]
+        },
+        {
+          "topicID": "iphone_6:2",
+          "strength": 10,
+          "labels": [
+            {
+              "phrase": "4-way adapter strips",
+              "prob": 0.0648747959133
+            },
+            {
+              "phrase": " induction plate part",
+              "prob": 0.048623058145
+            },
+            {
+              "phrase": " modern cars",
+              "prob": 0.0370025464889
+            },
+            {
+              "phrase": " multiple devices",
+              "prob": 0.0370025464889
+            },
+            {
+              "phrase": " hotel rooms",
+              "prob": 0.0370025464889
+            },
+            {
+              "phrase": " generic USB power supplies",
+              "prob": 0.0321662039715
+            },
+            {
+              "phrase": " power supply",
+              "prob": 0.0321662039715
+            },
+            {
+              "phrase": " USB connector",
+              "prob": 0.0275449199028
+            },
+            {
+              "phrase": " reversible USB cables",
+              "prob": 0.0275449199028
+            },
+            {
+              "phrase": " great wireless charger",
+              "prob": 0.0270179008638
+            },
+            {
+              "phrase": " point",
+              "prob": 0.0212765968927
+            },
+            {
+              "phrase": " maybe wireless",
+              "prob": 0.0212765968927
+            },
+            {
+              "phrase": " computer",
+              "prob": 0.0212765968927
+            }
+          ],
+          "topicsentiments": [
+            0,
+            2,
+            10,
+            2,
+            4
+          ]
+        },
+        {
+          "topicID": "iphone_6:3",
+          "strength": 20,
+          "labels": [
+            {
+              "phrase": "tongue showing durable",
+              "prob": 0.0341268981515
+            },
+            {
+              "phrase": " durable flexible portion",
+              "prob": 0.0341268981515
+            },
+            {
+              "phrase": " key design detail",
+              "prob": 0.0308418790814
+            },
+            {
+              "phrase": " Increase Contact Normal Force",
+              "prob": 0.0227901396394
+            },
+            {
+              "phrase": " structural support element",
+              "prob": 0.0227301953276
+            },
+            {
+              "phrase": " allow plug connector tongues",
+              "prob": 0.0203202872256
+            },
+            {
+              "phrase": " future iOS devices",
+              "prob": 0.0193681756418
+            },
+            {
+              "phrase": " Trademark Office today",
+              "prob": 0.0193681756418
+            },
+            {
+              "phrase": " iPhone MFi audio accessories",
+              "prob": 0.0186081539538
+            },
+            {
+              "phrase": " high-definition audio playback",
+              "prob": 0.0186081539538
+            },
+            {
+              "phrase": " Lightning cable",
+              "prob": 0.0180888160012
+            },
+            {
+              "phrase": " mating event",
+              "prob": 0.0180888160012
+            },
+            {
+              "phrase": " structural support elements",
+              "prob": 0.0179783239949
+            },
+            {
+              "phrase": " leakedphotosandvideossuggest Apple",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " susceptible Apple",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " present invention",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " Spread Stress",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " Compliant Member",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " strong connection",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " distinct advantage",
+              "prob": 0.0147384001975
+            },
+            {
+              "phrase": " plug connectors",
+              "prob": 0.0141222030759
+            },
+            {
+              "phrase": " flexible tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " holds tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " thin tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " thin flexible stalkThis flexible tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " rigid tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " thicker tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " allow tongue",
+              "prob": 0.0139102964172
+            },
+            {
+              "phrase": " flexible stalk",
+              "prob": 0.0126876409712
+            },
+            {
+              "phrase": " This stalk",
+              "prob": 0.0126876409712
+            },
+            {
+              "phrase": " latest application",
+              "prob": 0.0118249959954
+            },
+            {
+              "phrase": " aseparate applicationmade",
+              "prob": 0.0118249959954
+            },
+            {
+              "phrase": " These cables",
+              "prob": 0.0118249959954
+            },
+            {
+              "phrase": " current solutions",
+              "prob": 0.0118249959954
+            },
+            {
+              "phrase": " USB port regardless",
+              "prob": 0.0106817978437
+            },
+            {
+              "phrase": " mating USB ports",
+              "prob": 0.0102959580694
+            },
+            {
+              "phrase": " describes",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " anotherApple",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " Patent",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " weeks",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " ViaAppleInsider",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " February",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " differs",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " PCB",
+              "prob": 0.00847458019172
+            },
+            {
+              "phrase": " highlighting",
+              "prob": 0.00847458019172
+            }
+          ],
+          "topicsentiments": [
+            1,
+            3,
+            7,
+            7,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_6:4",
+          "strength": 6,
+          "labels": [
+            {
+              "phrase": "biggest pet peeves",
+              "prob": 0.176054754841
+            },
+            {
+              "phrase": " usb plugs",
+              "prob": 0.12925150102
+            },
+            {
+              "phrase": " symmetrical design",
+              "prob": 0.12925150102
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            10,
+            7,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_6:5",
+          "strength": 10,
+          "labels": [
+            {
+              "phrase": "pro-Windows argument",
+              "prob": 0.0495595537768
+            },
+            {
+              "phrase": " valuable life lesson",
+              "prob": 0.0483168868234
+            },
+            {
+              "phrase": " serious so shoes",
+              "prob": 0.0426867356588
+            },
+            {
+              "phrase": " power plugs",
+              "prob": 0.0394558101239
+            },
+            {
+              "phrase": " reversible IEC plugs",
+              "prob": 0.0394558101239
+            },
+            {
+              "phrase": " plug",
+              "prob": 0.0394558101239
+            },
+            {
+              "phrase": " common sense",
+              "prob": 0.0358139186194
+            },
+            {
+              "phrase": " work deviceI",
+              "prob": 0.0347797814403
+            },
+            {
+              "phrase": " patient careful hard obvious resistance",
+              "prob": 0.0347797814403
+            },
+            {
+              "phrase": " device work",
+              "prob": 0.0347797814403
+            },
+            {
+              "phrase": " real man",
+              "prob": 0.0347797814403
+            },
+            {
+              "phrase": " balsa wood",
+              "prob": 0.0347797814403
+            },
+            {
+              "phrase": " reversible shoes",
+              "prob": 0.0281927832544
+            },
+            {
+              "phrase": " better solution",
+              "prob": 0.0279069633223
+            },
+            {
+              "phrase": " cheaper",
+              "prob": 0.0200000091037
+            }
+          ],
+          "topicsentiments": [
+            0,
+            3,
+            13,
+            1,
+            5
+          ]
+        },
+        {
+          "topicID": "iphone_6:6",
+          "strength": 9,
+          "labels": [
+            {
+              "phrase": "faster NAND",
+              "prob": 0.112397558241
+            },
+            {
+              "phrase": " iPad Air",
+              "prob": 0.0826944269598
+            },
+            {
+              "phrase": " iCloud Drive",
+              "prob": 0.0790449377892
+            },
+            {
+              "phrase": " bysputnikvI wonder",
+              "prob": 0.0790449377892
+            },
+            {
+              "phrase": " horizon",
+              "prob": 0.0454545535155
+            },
+            {
+              "phrase": " so Syncing",
+              "prob": 0.0454545535155
+            },
+            {
+              "phrase": " real devices",
+              "prob": 0.0454545535155
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            3,
+            3,
+            6
+          ]
+        },
+        {
+          "topicID": "iphone_6:7",
+          "strength": 11,
+          "labels": [
+            {
+              "phrase": "solid part",
+              "prob": 0.0535081581781
+            },
+            {
+              "phrase": " hard time",
+              "prob": 0.0532212798267
+            },
+            {
+              "phrase": " safer place",
+              "prob": 0.0511410710761
+            },
+            {
+              "phrase": " reversible usb sure",
+              "prob": 0.0442438952553
+            },
+            {
+              "phrase": " port",
+              "prob": 0.0442438952553
+            },
+            {
+              "phrase": " usb ports",
+              "prob": 0.0442438952553
+            },
+            {
+              "phrase": " horizontal ports",
+              "prob": 0.0442438952553
+            },
+            {
+              "phrase": " tasty",
+              "prob": 0.0294117708844
+            },
+            {
+              "phrase": " world",
+              "prob": 0.0294117708844
+            },
+            {
+              "phrase": " butterflies",
+              "prob": 0.0294117708844
+            },
+            {
+              "phrase": " thank",
+              "prob": 0.0294117708844
+            }
+          ],
+          "topicsentiments": [
+            1,
+            5,
+            3,
+            6,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_6:8",
+          "strength": 13,
+          "labels": [
+            {
+              "phrase": "it movable joint",
+              "prob": 0.0644113214111
+            },
+            {
+              "phrase": " it Quote",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " flexible part",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " hinge",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " sense",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " durable wait",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " damn",
+              "prob": 0.0370370559081
+            },
+            {
+              "phrase": " cable OMG",
+              "prob": 0.0370370559081
+            }
+          ],
+          "topicsentiments": [
+            2,
+            4,
+            9,
+            0,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "topicID": "10",
+      "labels": [
+        {
+          "phrase": "costly component",
+          "prob": 0.0530964550653
+        },
+        {
+          "phrase": " pricey component",
+          "prob": 0.0530964550653
+        },
+        {
+          "phrase": " corporate hot air",
+          "prob": 0.0503311754778
+        },
+        {
+          "phrase": " that innovation",
+          "prob": 0.0476060983756
+        },
+        {
+          "phrase": " profitable marketing ploy",
+          "prob": 0.0376984313152
+        },
+        {
+          "phrase": " likely wrong Quote",
+          "prob": 0.0362313670189
+        },
+        {
+          "phrase": " that times cheaper",
+          "prob": 0.0362313670189
+        },
+        {
+          "phrase": " cost",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " expensive today",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " figure",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " bytaelan28I",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " masses",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " crystal",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " numbers",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " bytaelan28This",
+          "prob": 0.0208333432689
+        },
+        {
+          "phrase": " strong trouble",
+          "prob": 0.0208333432689
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_7:1",
+          "strength": 11,
+          "labels": [
+            {
+              "phrase": "able costly component",
+              "prob": 0.0530964550653
+            },
+            {
+              "phrase": " pricey component",
+              "prob": 0.0530964550653
+            },
+            {
+              "phrase": " corporate hot air",
+              "prob": 0.0503311754778
+            },
+            {
+              "phrase": " that innovation",
+              "prob": 0.0476060983756
+            },
+            {
+              "phrase": " profitable marketing ploy",
+              "prob": 0.0376984313152
+            },
+            {
+              "phrase": " likely wrong Quote",
+              "prob": 0.0362313670189
+            },
+            {
+              "phrase": " that times cheaper",
+              "prob": 0.0362313670189
+            },
+            {
+              "phrase": " cost",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " expensive today",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " figure",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " bytaelan28I",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " masses",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " crystal",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " numbers",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " bytaelan28This",
+              "prob": 0.0208333432689
+            },
+            {
+              "phrase": " strong trouble",
+              "prob": 0.0208333432689
+            }
+          ],
+          "topicsentiments": [
+            5,
+            5,
+            6,
+            2,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_7:2",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            2,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_7:3",
+          "strength": 12,
+          "labels": [
+            {
+              "phrase": "HF acidi wonder",
+              "prob": 0.0737609052928
+            },
+            {
+              "phrase": " bythasani wonder",
+              "prob": 0.0737609052928
+            },
+            {
+              "phrase": " sand paper",
+              "prob": 0.0594149053343
+            },
+            {
+              "phrase": " dust sand paper",
+              "prob": 0.0594149053343
+            },
+            {
+              "phrase": " worst night mare",
+              "prob": 0.0589242888864
+            },
+            {
+              "phrase": " bend test",
+              "prob": 0.0511047711031
+            },
+            {
+              "phrase": " horror movie",
+              "prob": 0.0424172002714
+            },
+            {
+              "phrase": " scratch sapphire",
+              "prob": 0.0417653920035
+            },
+            {
+              "phrase": " ppl carry sand papers",
+              "prob": 0.0384001124855
+            },
+            {
+              "phrase": " able scratch Quote",
+              "prob": 0.0243902501616
+            },
+            {
+              "phrase": " dust recommend",
+              "prob": 0.0243902501616
+            },
+            {
+              "phrase": " carbides",
+              "prob": 0.0243902501616
+            }
+          ],
+          "topicsentiments": [
+            3,
+            2,
+            5,
+            2,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_7:4",
+          "strength": 25,
+          "labels": [
+            {
+              "phrase": "ta cover it",
+              "prob": 0.0682253827088
+            },
+            {
+              "phrase": " it process",
+              "prob": 0.0682253827088
+            },
+            {
+              "phrase": " able production process",
+              "prob": 0.0568524566701
+            },
+            {
+              "phrase": " bypeterdevriesThe production process",
+              "prob": 0.0568524566701
+            },
+            {
+              "phrase": " cheap plastic bodies",
+              "prob": 0.0486189758477
+            },
+            {
+              "phrase": " likely enormous capital investment",
+              "prob": 0.0486189758477
+            },
+            {
+              "phrase": " addition Apple",
+              "prob": 0.0380999499911
+            },
+            {
+              "phrase": " entry barrier",
+              "prob": 0.0370022324578
+            },
+            {
+              "phrase": " glass processing",
+              "prob": 0.0368837942538
+            },
+            {
+              "phrase": " production quantities",
+              "prob": 0.0312609276744
+            },
+            {
+              "phrase": " public domain",
+              "prob": 0.0299923115985
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0212765968929
+            },
+            {
+              "phrase": " able Quote",
+              "prob": 0.0212765968929
+            },
+            {
+              "phrase": " machinery",
+              "prob": 0.0212765968929
+            },
+            {
+              "phrase": " video",
+              "prob": 0.0212765968929
+            }
+          ],
+          "topicsentiments": [
+            1,
+            3,
+            14,
+            11,
+            6
+          ]
+        },
+        {
+          "topicID": "iphone_7:5",
+          "strength": 23,
+          "labels": [
+            {
+              "phrase": "phone size",
+              "prob": 0.0644113214966
+            },
+            {
+              "phrase": " own person",
+              "prob": 0.0644113214966
+            },
+            {
+              "phrase": " great Friday",
+              "prob": 0.0644113214966
+            },
+            {
+              "phrase": " able past issues",
+              "prob": 0.0370370559611
+            },
+            {
+              "phrase": " judging",
+              "prob": 0.0370370559611
+            },
+            {
+              "phrase": " bylightz39I",
+              "prob": 0.0370370559611
+            },
+            {
+              "phrase": " secure",
+              "prob": 0.0370370559611
+            }
+          ],
+          "topicsentiments": [
+            2,
+            11,
+            10,
+            6,
+            5
+          ]
+        },
+        {
+          "topicID": "iphone_7:6",
+          "strength": 61,
+          "labels": [
+            {
+              "phrase": "drop test",
+              "prob": 0.074612333906
+            },
+            {
+              "phrase": " better weather man",
+              "prob": 0.0724578813779
+            },
+            {
+              "phrase": " alleged sapphire panel",
+              "prob": 0.0581395096687
+            },
+            {
+              "phrase": " sapphire screens",
+              "prob": 0.0581395096687
+            },
+            {
+              "phrase": " Yes",
+              "prob": 0.041666687516
+            },
+            {
+              "phrase": " rain Quote",
+              "prob": 0.041666687516
+            },
+            {
+              "phrase": " chance",
+              "prob": 0.041666687516
+            },
+            {
+              "phrase": " byLordEntropyCurious",
+              "prob": 0.041666687516
+            }
+          ],
+          "topicsentiments": [
+            8,
+            18,
+            22,
+            13,
+            4
+          ]
+        },
+        {
+          "topicID": "iphone_7:7",
+          "strength": 31,
+          "labels": [
+            {
+              "phrase": "concurs",
+              "prob": 0.0298679982867
+            },
+            {
+              "phrase": " front panel",
+              "prob": 0.0277107219199
+            },
+            {
+              "phrase": " alleged front panel",
+              "prob": 0.0277107219199
+            },
+            {
+              "phrase": " alleged sapphire panel",
+              "prob": 0.0277107219199
+            },
+            {
+              "phrase": " extra strength",
+              "prob": 0.027535998814
+            },
+            {
+              "phrase": " faster A8 processor",
+              "prob": 0.0253920469131
+            },
+            {
+              "phrase": " sapphire thin it’s flaw free",
+              "prob": 0.0253920469131
+            },
+            {
+              "phrase": " Apple likely overcame",
+              "prob": 0.0253920469131
+            },
+            {
+              "phrase": " part thin",
+              "prob": 0.0250372250436
+            },
+            {
+              "phrase": " larger display",
+              "prob": 0.0206444586129
+            },
+            {
+              "phrase": " sapphire display",
+              "prob": 0.0206444586129
+            },
+            {
+              "phrase": " crystal cuts",
+              "prob": 0.0202998351406
+            },
+            {
+              "phrase": " stress tests",
+              "prob": 0.0198966477943
+            },
+            {
+              "phrase": " material",
+              "prob": 0.0198966477943
+            },
+            {
+              "phrase": " durable material",
+              "prob": 0.0198966477943
+            },
+            {
+              "phrase": " significant bending",
+              "prob": 0.0193235568608
+            },
+            {
+              "phrase": " tellsThe Guardianthat",
+              "prob": 0.0193235568608
+            },
+            {
+              "phrase": " Past rumors",
+              "prob": 0.0193235568608
+            },
+            {
+              "phrase": " Imperial College",
+              "prob": 0.0193235568608
+            },
+            {
+              "phrase": " enormous “I think",
+              "prob": 0.0155038813384
+            },
+            {
+              "phrase": " sapphire screens",
+              "prob": 0.0124320166597
+            },
+            {
+              "phrase": " So",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " yes",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " roundup",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " likely thinner",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " devices",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " addition",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " larger version",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " September",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " likely hard work",
+              "prob": 0.0111111149076
+            },
+            {
+              "phrase": " due supply",
+              "prob": 0.0111111149076
+            }
+          ],
+          "topicsentiments": [
+            0,
+            6,
+            12,
+            7,
+            6
+          ]
+        },
+        {
+          "topicID": "iphone_7:8",
+          "strength": 106,
+          "labels": [
+            {
+              "phrase": "though Samsung",
+              "prob": 0.0605629770355
+            },
+            {
+              "phrase": " sapphire screen",
+              "prob": 0.0418156002339
+            },
+            {
+              "phrase": " bulletproof glass",
+              "prob": 0.0401560205857
+            },
+            {
+              "phrase": " gorilla glass",
+              "prob": 0.0401560205857
+            },
+            {
+              "phrase": " previous iPhone designs",
+              "prob": 0.0362766850255
+            },
+            {
+              "phrase": " plastic ridge",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " Quick question",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " flat face",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " flexibility hints",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " huge problem",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " cover sticks",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " brittle nature",
+              "prob": 0.0276052529045
+            },
+            {
+              "phrase": " smart phones",
+              "prob": 0.0246293778418
+            },
+            {
+              "phrase": " reason sapphire works",
+              "prob": 0.0233220544853
+            },
+            {
+              "phrase": " sapphire panel",
+              "prob": 0.0233220544853
+            },
+            {
+              "phrase": " impact",
+              "prob": 0.0158730278895
+            },
+            {
+              "phrase": " suspect strategic Apple",
+              "prob": 0.0158730278895
+            },
+            {
+              "phrase": " interesting Apple",
+              "prob": 0.0158730278895
+            },
+            {
+              "phrase": " innovation",
+              "prob": 0.0158730278895
+            },
+            {
+              "phrase": " tests",
+              "prob": 0.0158730278895
+            }
+          ],
+          "topicsentiments": [
+            11,
+            19,
+            36,
+            30,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "topicID": "11",
+      "labels": [
+        {
+          "phrase": "Curved handheld displays",
+          "prob": 0.0750981676331
+        },
+        {
+          "phrase": " it gimmick",
+          "prob": 0.0750981676331
+        },
+        {
+          "phrase": " it sense",
+          "prob": 0.0750981676331
+        },
+        {
+          "phrase": " it wallet",
+          "prob": 0.0750981676331
+        },
+        {
+          "phrase": " geometric distortion effect",
+          "prob": 0.0692510270796
+        },
+        {
+          "phrase": " large tv screens",
+          "prob": 0.0692510270796
+        },
+        {
+          "phrase": " utility proposition",
+          "prob": 0.0527006018452
+        },
+        {
+          "phrase": " foldable glass",
+          "prob": 0.0527006018452
+        },
+        {
+          "phrase": " better picture",
+          "prob": 0.0527006018452
+        }
+      ],
+      "children": [
+        {
+          "topicID": "iphone_9:1",
+          "strength": 271,
+          "labels": [
+            {
+              "phrase": "hate it TVs",
+              "prob": 0.0750981676331
+            },
+            {
+              "phrase": " it gimmick",
+              "prob": 0.0750981676331
+            },
+            {
+              "phrase": " it sense",
+              "prob": 0.0750981676331
+            },
+            {
+              "phrase": " it wallet",
+              "prob": 0.0750981676331
+            },
+            {
+              "phrase": " geometric distortion effect",
+              "prob": 0.0692510270796
+            },
+            {
+              "phrase": " large tv screens",
+              "prob": 0.0692510270796
+            },
+            {
+              "phrase": " utility proposition",
+              "prob": 0.0527006018452
+            },
+            {
+              "phrase": " foldable glass",
+              "prob": 0.0527006018452
+            },
+            {
+              "phrase": " better picture",
+              "prob": 0.0527006018452
+            }
+          ],
+          "topicsentiments": [
+            25,
+            39,
+            107,
+            73,
+            38
+          ]
+        },
+        {
+          "topicID": "iphone_9:2",
+          "strength": 15,
+          "labels": [
+            {
+              "phrase": "smartphone willlaunchin October",
+              "prob": 0.0426434984698
+            },
+            {
+              "phrase": " device waspublishedin March",
+              "prob": 0.0315928452017
+            },
+            {
+              "phrase": " displays",
+              "prob": 0.0307972571323
+            },
+            {
+              "phrase": " displays plastic substrate",
+              "prob": 0.0307972571323
+            },
+            {
+              "phrase": " curved displays",
+              "prob": 0.0307972571323
+            },
+            {
+              "phrase": " Flexible curved displays",
+              "prob": 0.0307972571323
+            },
+            {
+              "phrase": " feature curved displays",
+              "prob": 0.0307972571323
+            },
+            {
+              "phrase": " foldable designs",
+              "prob": 0.0288169870205
+            },
+            {
+              "phrase": " rigid similar impliable designs",
+              "prob": 0.0288169870205
+            },
+            {
+              "phrase": " Willow GlassMore",
+              "prob": 0.0282887984167
+            },
+            {
+              "phrase": " initial curved display products",
+              "prob": 0.0277771493952
+            },
+            {
+              "phrase": " plastic-based display similar",
+              "prob": 0.0277771493952
+            },
+            {
+              "phrase": " television sets",
+              "prob": 0.0276177308923
+            },
+            {
+              "phrase": " utilizedin television sets",
+              "prob": 0.0276177308923
+            },
+            {
+              "phrase": " thinnest mobile",
+              "prob": 0.0233601423829
+            },
+            {
+              "phrase": " allow mobile wearable gadgets",
+              "prob": 0.0233601423829
+            },
+            {
+              "phrase": " unclear finished smartphones",
+              "prob": 0.0208220812227
+            },
+            {
+              "phrase": " upcoming smartphones",
+              "prob": 0.0208220812227
+            },
+            {
+              "phrase": " consumer devices",
+              "prob": 0.0208141678149
+            },
+            {
+              "phrase": " electronic devices",
+              "prob": 0.0208141678149
+            },
+            {
+              "phrase": " technology isnot",
+              "prob": 0.0202224511285
+            },
+            {
+              "phrase": " bend flex",
+              "prob": 0.0202224511285
+            },
+            {
+              "phrase": " Samsung plan",
+              "prob": 0.0202224511285
+            },
+            {
+              "phrase": " early stages",
+              "prob": 0.0202224511285
+            },
+            {
+              "phrase": " benefit",
+              "prob": 0.0116279152366
+            },
+            {
+              "phrase": " late hype",
+              "prob": 0.0116279152366
+            },
+            {
+              "phrase": " later Apple",
+              "prob": 0.0116279152366
+            },
+            {
+              "phrase": " top Samsung",
+              "prob": 0.0116279152366
+            },
+            {
+              "phrase": " curved iBracelet",
+              "prob": 0.0116279152366
+            }
+          ],
+          "topicsentiments": [
+            1,
+            0,
+            7,
+            4,
+            4
+          ]
+        },
+        {
+          "topicID": "iphone_9:3",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            1,
+            0,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_9:4",
+          "strength": 2,
+          "labels": [
+            {
+              "phrase": "off-topic",
+              "prob": 0
+            }
+          ],
+          "topicsentiments": [
+            0,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "topicID": "iphone_9:5",
+          "strength": 3,
+          "labels": [
+            {
+              "phrase": "sake",
+              "prob": 0.1
+            },
+            {
+              "phrase": " guess",
+              "prob": 0.1
+            }
+          ],
+          "topicsentiments": [
+            0,
+            3,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_9:6",
+          "strength": 5,
+          "labels": [
+            {
+              "phrase": "body",
+              "prob": 0.119372132704
+            },
+            {
+              "phrase": " human body",
+              "prob": 0.119372132704
+            },
+            {
+              "phrase": " shirt",
+              "prob": 0.0666666721443
+            },
+            {
+              "phrase": " derivative glass",
+              "prob": 0.0666666721443
+            },
+            {
+              "phrase": " cloth",
+              "prob": 0.0666666721443
+            },
+            {
+              "phrase": " Well",
+              "prob": 0.0666666721443
+            }
+          ],
+          "topicsentiments": [
+            0,
+            4,
+            4,
+            0,
+            0
+          ]
+        },
+        {
+          "topicID": "iphone_9:7",
+          "strength": 26,
+          "labels": [
+            {
+              "phrase": "bezel size",
+              "prob": 0.0825992353156
+            },
+            {
+              "phrase": " similar designs",
+              "prob": 0.0596898468235
+            },
+            {
+              "phrase": " usable area",
+              "prob": 0.0579662870015
+            },
+            {
+              "phrase": " year",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " technology",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " Quote",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " physical Quote",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " Samsung",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " Anyway",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " benefit",
+              "prob": 0.0333333386873
+            },
+            {
+              "phrase": " byKPOMThis",
+              "prob": 0.0333333386873
+            }
+          ],
+          "topicsentiments": [
+            5,
+            16,
+            9,
+            9,
+            2
+          ]
+        },
+        {
+          "topicID": "iphone_9:8",
+          "strength": 5,
+          "labels": [
+            {
+              "phrase": "pocketsized internet communicator",
+              "prob": 0.173907014476
+            },
+            {
+              "phrase": " byHarrycookeI",
+              "prob": 0.100000006834
+            }
+          ],
+          "topicsentiments": [
+            4,
+            0,
+            8,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1196 @@
+{
+  "totalAuthors": "24",
+  "totalTopics": "8",
+  "totalLines": "68",
+  "topics": [
+    {
+      "topicID": 1,
+      "strength": 11,
+      "labels": [
+        {
+          "phrase": "better idea iFixit",
+          "prob": 0.0648645624737
+        },
+        {
+          "phrase": " 'grabbing-power-out-of-the-air solar cell skin",
+          "prob": 0.0601340129572
+        },
+        {
+          "phrase": " radioshack knock",
+          "prob": 0.0476190662971
+        },
+        {
+          "phrase": " byNancy NallyThey",
+          "prob": 0.0457659326405
+        },
+        {
+          "phrase": " entire site",
+          "prob": 0.0457659326405
+        },
+        {
+          "phrase": " A6 processors",
+          "prob": 0.0370957652338
+        },
+        {
+          "phrase": " website A6 processors",
+          "prob": 0.0370957652338
+        },
+        {
+          "phrase": " point",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " hood",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " free Quote",
+          "prob": 0.0263157993214
+        },
+        {
+          "phrase": " hardware",
+          "prob": 0.0263157993214
+        }
+      ],
+      "topicsentiments": [
+        0,
+        4,
+        5,
+        1,
+        1
+      ]
+    },
+    {
+      "topicID": 2,
+      "strength": 4,
+      "labels": [
+        {
+          "phrase": "solid solid colors",
+          "prob": 0.213588243089
+        },
+        {
+          "phrase": " byKlae17Love",
+          "prob": 0.142857172688
+        },
+        {
+          "phrase": " pastels",
+          "prob": 0.142857172688
+        }
+      ],
+      "topicsentiments": [
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    },
+    
+    
+    {
+      "topicID": 4,
+      "strength": 8,
+      "labels": [
+        {
+          "phrase": "low big difference extending battery life",
+          "prob": 0.0811693237591
+        },
+        {
+          "phrase": " phone",
+          "prob": 0.0586681003049
+        },
+        {
+          "phrase": " modern phone",
+          "prob": 0.0586681003049
+        },
+        {
+          "phrase": " substantial part",
+          "prob": 0.0411255566192
+        },
+        {
+          "phrase": " logic board",
+          "prob": 0.0406976906219
+        },
+        {
+          "phrase": " plastic shell",
+          "prob": 0.0406976906219
+        },
+        {
+          "phrase": " sony phones",
+          "prob": 0.0406976905185
+        },
+        {
+          "phrase": " Motorola phones",
+          "prob": 0.0406976905185
+        },
+        {
+          "phrase": " byelMacJunkieI wonder",
+          "prob": 0.0395256867095
+        },
+        {
+          "phrase": " user accessible",
+          "prob": 0.0395256867095
+        },
+        {
+          "phrase": " real advantage",
+          "prob": 0.0395256867095
+        }
+      ],
+      "topicsentiments": [
+        0,
+        1,
+        0,
+        5,
+        2
+      ]
+    },
+    {
+      "topicID": 5,
+      "strength": 13,
+      "labels": [
+        {
+          "phrase": "tamper resistant screws",
+          "prob": 0.0616212265165
+        },
+        {
+          "phrase": " screws common not that iFixit",
+          "prob": 0.0616212265165
+        },
+        {
+          "phrase": " that companies",
+          "prob": 0.049737849739
+        },
+        {
+          "phrase": " repairable iFixit",
+          "prob": 0.049737849739
+        },
+        {
+          "phrase": " pentalobe screwdriver set",
+          "prob": 0.0491598524979
+        },
+        {
+          "phrase": " repair-ability devices",
+          "prob": 0.0454819475382
+        },
+        {
+          "phrase": " device",
+          "prob": 0.0454819475382
+        },
+        {
+          "phrase": " monolithic nature",
+          "prob": 0.0452381139648
+        },
+        {
+          "phrase": " glue strengthens",
+          "prob": 0.0452381139648
+        },
+        {
+          "phrase": " screwdriver kit",
+          "prob": 0.0370799320425
+        },
+        {
+          "phrase": " substrate",
+          "prob": 0.0250000117856
+        }
+      ],
+      "topicsentiments": [
+        1,
+        10,
+        1,
+        7,
+        2
+      ]
+    },
+    {
+      "topicID": 8,
+      "strength": 18,
+      "labels": [
+        {
+          "phrase": "iPhone 5",
+          "prob": 0.0322411592883
+        },
+        {
+          "phrase": " heavier iPhone 5",
+          "prob": 0.0322411592883
+        },
+        {
+          "phrase": " plastic shell",
+          "prob": 0.0316210462951
+        },
+        {
+          "phrase": " score",
+          "prob": 0.0309747120748
+        },
+        {
+          "phrase": " repairability score",
+          "prob": 0.0309747120748
+        },
+        {
+          "phrase": " battery",
+          "prob": 0.0266792017621
+        },
+        {
+          "phrase": " mAh battery",
+          "prob": 0.0266792017621
+        },
+        {
+          "phrase": " larger battery",
+          "prob": 0.0266792017621
+        },
+        {
+          "phrase": " rear case weighs",
+          "prob": 0.0253865340293
+        },
+        {
+          "phrase": " point lower",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " gave",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " proprietary screws",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " detailed rundown",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " pull tab",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " super strength",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " muscle test",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " numerous similarities",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " considerable amount",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " identical innards",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " matching A6",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " dismantling processon",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " form factor",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " camera parts",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " last night'steardownof iPhone",
+          "prob": 0.02173735648
+        },
+        {
+          "phrase": " rear panel",
+          "prob": 0.0174418461673
+        },
+        {
+          "phrase": " iFixithas",
+          "prob": 0.0125000008851
+        }
+      ],
+      "topicsentiments": [
+        1,
+        4,
+        8,
+        4,
+        1
+      ]
+    }
+  ],
+  "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#articleiphone_10",
+  "title": "iFixit Completes iPhone 5c Teardown Highlights Include Durable Shell Larger Battery  Mac Rumors",
+  "author": "Juli_Clover",
+  "date": "Friday September 20, 2014 11:35 am PDT",
+  "htmltext": "\t\t\t\t\t\tFollowing last night's <a href=\"http://www.macrumors.com/2014/09/20/ifixits-iphone-5s-teardown-reveals-touch-id-fingerprint-sensor-invisible-m7-chip/\">teardown</a> of the iPhone 5s, <a href=\"http://www.ifixit.com/Teardown/iPhone+5c+Teardown/17382/1?utm_campaign=iFixit+Its+blue\">iFixit</a> has completed its iPhone 5c teardown. Unsurprisingly, the iPhone 5c's dismantling has revealed numerous similarities with the iPhone 5, including nearly identical innards with matching A6 processors.\r<br />\n<br />\nWhile the internals and form factor are largely the same, the iPhone 5c is slightly thicker and heavier than the iPhone 5 and due to its polycarbonate shell. The 5c also has a larger battery, measuring in at 1510 mAh compared to the 1440 mAh battery of the iPhone 5, and it shares camera parts with the iPhone 5s, though the latter has a larger aperture. iFixit found that the plastic shell was nearly impossible to bend, largely because of its heft — the rear case weighs in at 43.8 grams.\r<br />\n<br />\n<center><div id=\"video-wrapper\"><div id=\"video-container\"><iframe src=\"//www.youtube.com/embed/4E55-y7s7Ek?feature=player_detailpage\" height=\"360\" width=\"640\" allowfullscreen=\"\" frameborder=\"0\"></iframe></div></div></center><blockquote>We may not have super strength, but we put this case to the muscle test, anyway. The results: this lacquered plastic is as strong and blue as Captain Planet.\r<br />\n<br />\nIt's good to know that, though the rear panel is made with plastic to presumably cut costs, Apple did not compromise build quality in the process.</blockquote>iFixit gave the iPhone 5c a 6 out of 10 repairability score, one point lower than the iPhone 5 and the same score given to the iPhone 5s, due to the lack of the pull tab on the battery, the proprietary screws, and the considerable amount of adhesive used to hold the phone together. iFixit has a number of other pictures and a detailed rundown of the iPhone 5c dismantling process <a href=\"http://www.ifixit.com/Teardown/iPhone+5c+Teardown/17382/\">on its website</a>.\n                                        <div style=\"clear:both;\"></div>\n",
+  "sent": [
+    {
+      "linePolarity": 0,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "1",
+      "sent": "Following last nightsteardownof the iPhone 5siFixithas completed its iPhone 5c teardown.",
+      "sentimentwords": []
+    },
+    {
+      "linePolarity": -1.125,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "2",
+      "sent": "Unsurprisingly the iPhone 5cs dismantling has revealed numerous similarities with the iPhone 5 including nearly identical innards with matching A6 processors.While the internals and form factor are largely the same the iPhone 5c is slightly thicker and heavier than the iPhone 5 and due to its polycarbonate shell.",
+      "sentimentwords": []
+    },
+    {
+      "linePolarity": 0.583333333333,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "3",
+      "sent": "The 5c also has a larger battery measuring in at 1510 mAh compared to the 1440 mAh battery of the iPhone 5 and it shares camera parts with the iPhone 5s though the latter has a larger aperture.",
+      "sentimentwords": []
+    },
+    {
+      "linePolarity": -0.9,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "4",
+      "sent": "iFixit found that the plastic shell was nearly impossible to bend largely because of its heft  the rear case weighs in at 43.8 grams.We may not have super strength but we put this case to the muscle test anyway.",
+      "sentimentwords": []
+    },
+    {
+      "linePolarity": -0.4375,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "5",
+      "sent": "The results: this lacquered plastic is as strong and blue as Captain Planet.Its good to know that though the rear panel is made with plastic to presumably cut costs Apple did not compromise build quality in the process.iFixit gave the iPhone 5c a 6 out of 10 repairability score one point lower than the iPhone 5 and the same score given to the iPhone 5s due to the lack of the pull tab on the battery the proprietary screws and the considerable amount of adhesive used to hold the phone together.",
+      "sentimentwords": []
+    },
+    {
+      "linePolarity": 1,
+      "systemtopicid": 8,
+      "systemlabel": "iPhone 5",
+      "sentid": "6",
+      "sent": "iFixit has a number of other pictures and a detailed rundown of the iPhone 5c dismantling processon its website.",
+      "sentimentwords": []
+    }
+  ],
+  "children": [
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958408",
+      "date": "Sep 20, 2014, 01:41 PM",
+      "author": "Klae17",
+      "aid": "594955",
+      "htmltext": "\r\n            \r\n            Love me some solid construction. Now can we get solid colors instead of pastels?\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 0.8,
+          "systemtopicid": 2,
+          "systemlabel": "solid solid colors",
+          "sentid": "7",
+          "sent": "Love me some solid construction.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 1,
+          "systemtopicid": 2,
+          "systemlabel": "solid solid colors",
+          "sentid": "8",
+          "sent": "Now can we get solid colors instead of pastels?",
+          "sentimentwords": []
+        }
+      ],
+      "children": [
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959818",
+          "date": "Sep 20, 2014, 03:16 PM",
+          "author": "brand",
+          "aid": "85668",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Klae17</strong>\n<a href=\"showthread.php?p=17958408#post17958408\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Love me some solid construction. Now can we get solid colors instead of pastels?</div>\n</td>\n</tr>\n</table>\n</div>The 5C only comes in solid colors.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958408",
+          "sent": [
+            {
+              "linePolarity": 0.8,
+              "systemtopicid": 2,
+              "systemlabel": "solid solid colors",
+              "sentid": "48",
+              "sent": "Quote:Originally Posted byKlae17Love me some solid construction.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 0.25,
+              "systemtopicid": 2,
+              "systemlabel": "solid solid colors",
+              "sentid": "49",
+              "sent": "Now can we get solid colors instead of pastels?The 5C only comes in solid colors.",
+              "sentimentwords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958412",
+      "date": "Sep 20, 2014, 01:41 PM",
+      "author": "AngerDanger",
+      "aid": "256215",
+      "htmltext": "\r\n            \r\n            And here I was, expecting the removal of the plastic shell to reveal a disguised iPhone 5. Oh well&#8230;<br />\n<img src=\"http://i.imgur.com/nhJ370Z.gif\" border=\"0\" alt=\"\" />\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "9",
+          "sent": "And here I was expecting the removal of the plastic shell to reveal a disguised iPhone 5.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 1,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "10",
+          "sent": "Oh well8230",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958461",
+      "date": "Sep 20, 2014, 01:44 PM",
+      "author": "Szarky",
+      "aid": "472512",
+      "htmltext": "\n<img src=\"http://collider.com/wp-content/uploads/captain-planet-01.jpg\" border=\"0\" alt=\"\" /><br />\n<br />\r\nSomeone put a blue 5c in his hand <img src=\"http://cdn.macrumors.com/vb/images/smilies/tongue.png\" border=\"0\" alt=\"\" title=\"Stick Out Tongue\" class=\"inlineimg\" />\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "11",
+          "sent": "Someone put a blue 5c in his hand",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958482",
+      "date": "Sep 20, 2014, 01:45 PM",
+      "author": "TeamMojo",
+      "aid": "29027",
+      "htmltext": "\r\n            \r\n            I give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.   For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls, etc.   And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.  Such screws are quite common all throughout industry.  <br />\n<br />\r\nOh, and let's not forget, that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repair-ability devices for the good of mankind. <br />\n<br />\r\nFunny that.\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 1.5,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "12",
+          "sent": "I give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": -0.666666666667,
+          "systemtopicid": 5,
+          "systemlabel": "tamper resistant screws",
+          "sentid": "13",
+          "sent": "For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls etc.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": -1.25,
+          "systemtopicid": 5,
+          "systemlabel": "tamper resistant screws",
+          "sentid": "14",
+          "sent": "And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 1.16666666667,
+          "systemtopicid": 5,
+          "systemlabel": "tamper resistant screws",
+          "sentid": "15",
+          "sent": "Such screws are quite common all throughout industry.Oh and lets not forget that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repairability devices for the good of mankind.Funny that.",
+          "sentimentwords": []
+        }
+      ],
+      "children": [
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958819",
+          "date": "Sep 20, 2014, 02:07 PM",
+          "author": "ikramerica",
+          "aid": "303318",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TeamMojo</strong>\n<a href=\"showthread.php?p=17958482#post17958482\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.   For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls, etc.   And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.  Such screws are quite common all throughout industry.  <br />\n<br />\r\nOh, and let's not forget, that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repair-ability devices for the good of mankind. <br />\n<br />\r\nFunny that.</div>\n</td>\n</tr>\n</table>\n</div>Their screwdriver kit and spudgers have helped me greatly.  Otherwise, I agree that the repairability of a phone isn't a buying point.  I don't recall them even caring if they could repair my old Motorola phones, or sony phones, etc.  Then again, the batteries were user accessible...\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958482",
+          "sent": [
+            {
+              "linePolarity": 1.5,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "16",
+              "sent": "Quote:Originally Posted byTeamMojoI give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -0.666666666667,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "17",
+              "sent": "For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls etc.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -1.25,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "18",
+              "sent": "And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 1.125,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "19",
+              "sent": "Such screws are quite common all throughout industry.Oh and lets not forget that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repairability devices for the good of mankind.Funny that.Their screwdriver kit and spudgers have helped me greatly.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 1,
+              "systemtopicid": 4,
+              "systemlabel": "low big difference extending battery life",
+              "sentid": "20",
+              "sent": "Otherwise I agree that the repairability of a phone isnt a buying point.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 1,
+              "systemtopicid": 4,
+              "systemlabel": "low big difference extending battery life",
+              "sentid": "21",
+              "sent": "I dont recall them even caring if they could repair my old Motorola phones or sony phones etc.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 3,
+              "systemtopicid": 4,
+              "systemlabel": "low big difference extending battery life",
+              "sentid": "22",
+              "sent": "Then again the batteries were user accessible...",
+              "sentimentwords": [
+                {
+                  "word": "accessible",
+                  "polarity": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959031",
+          "date": "Sep 20, 2014, 02:20 PM",
+          "author": "macsrcool1234",
+          "aid": "501379",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TeamMojo</strong>\n<a href=\"showthread.php?p=17958482#post17958482\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.   For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls, etc.   And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.  Such screws are quite common all throughout industry.  <br />\n<br />\r\nOh, and let's not forget, that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repair-ability devices for the good of mankind. <br />\n<br />\r\nFunny that.</div>\n</td>\n</tr>\n</table>\n</div>I give your reading comprehension a 2/10.  Obviously you miss the entire point of the website.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958482",
+          "sent": [
+            {
+              "linePolarity": 1.5,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "25",
+              "sent": "Quote:Originally Posted byTeamMojoI give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -0.666666666667,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "26",
+              "sent": "For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls etc.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -1.25,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "27",
+              "sent": "And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 1.16666666667,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "28",
+              "sent": "Such screws are quite common all throughout industry.Oh and lets not forget that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repairability devices for the good of mankind.Funny that.I give your reading comprehension a 210.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -1.5,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "29",
+              "sent": "Obviously you miss the entire point of the website.",
+              "sentimentwords": []
+            }
+          ],
+          "children": [
+            {
+              "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959558",
+              "date": "Sep 20, 2014, 02:58 PM",
+              "author": "TeamMojo",
+              "aid": "29027",
+              "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>macsrcool1234</strong>\n<a href=\"showthread.php?p=17959031#post17959031\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I give your reading comprehension a 2/10.  Obviously you miss the entire point of the website.</div>\n</td>\n</tr>\n</table>\n</div>Don't misunderstand.  iFixit is a great website, and their products are great and I use them frequently.  I just think their tone of scoring stuff and their pithy attitude is BS.   Just stick to delivering good content and tools and dispense with the holier than thou repairability ratings BS.\r\n\n",
+              "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959031",
+              "sent": [
+                {
+                  "linePolarity": 0,
+                  "systemtopicid": 5,
+                  "systemlabel": "tamper resistant screws",
+                  "sentid": "43",
+                  "sent": "Quote:Originally Posted bymacsrcool1234I give your reading comprehension a 210.",
+                  "sentimentwords": []
+                },
+                {
+                  "linePolarity": -1.5,
+                  "systemtopicid": 5,
+                  "systemlabel": "tamper resistant screws",
+                  "sentid": "44",
+                  "sent": "Obviously you miss the entire point of the website.Dont misunderstand.",
+                  "sentimentwords": []
+                },
+                {
+                  "linePolarity": 3,
+                  "systemtopicid": 5,
+                  "systemlabel": "tamper resistant screws",
+                  "sentid": "45",
+                  "sent": "iFixit is a great website and their products are great and I use them frequently.",
+                  "sentimentwords": [
+                    {
+                      "word": "great",
+                      "polarity": 4
+                    },
+                    {
+                      "word": "great",
+                      "polarity": 2
+                    }
+                  ]
+                },
+                {
+                  "linePolarity": 1,
+                  "systemtopicid": 1,
+                  "systemlabel": "off-topic",
+                  "sentid": "46",
+                  "sent": "I just think their tone of scoring stuff and their pithy attitude is BS.",
+                  "sentimentwords": []
+                },
+                {
+                  "linePolarity": 0.833333333333,
+                  "systemtopicid": 1,
+                  "systemlabel": "off-topic",
+                  "sentid": "47",
+                  "sent": "Just stick to delivering good content and tools and dispense with the holier than thou repairability ratings BS.",
+                  "sentimentwords": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959034",
+          "date": "Sep 20, 2014, 02:21 PM",
+          "author": "Mac_Fly__film_",
+          "aid": "66988",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>TeamMojo</strong>\n<a href=\"showthread.php?p=17958482#post17958482\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.   For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls, etc.   And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.  Such screws are quite common all throughout industry.  <br />\n<br />\r\nOh, and let's not forget, that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repair-ability devices for the good of mankind. <br />\n<br />\r\nFunny that.</div>\n</td>\n</tr>\n</table>\n</div>iFixit is a great website. I have a lot of respect for the time and effort they put into their breakdowns. They sell stuff to help people fix their iPhones? No way! You mean they are a company and make money by providing a service? Someone jail them all, quick.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958482",
+          "sent": [
+            {
+              "linePolarity": 1.5,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "30",
+              "sent": "Quote:Originally Posted byTeamMojoI give iFixit a 6 out of 10 in their ability to understand that companies do not necessarily build products to be repairable by iFixit with many good reasons.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -0.666666666667,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "31",
+              "sent": "For example more glue strengthens the substrate and overall monolithic nature of the device to survive falls etc.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -1.25,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "32",
+              "sent": "And tamper resistant screws prevent the inexperienced from delving in to areas where they wish they had not.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 1.57142857143,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "33",
+              "sent": "Such screws are quite common all throughout industry.Oh and lets not forget that iFixit conveniently has a link to THEIR pentalobe screwdriver set and tools all throughout their allegedly unbiased and democratic reviews that score repairability devices for the good of mankind.Funny that.iFixit is a great website.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 3.9,
+              "systemtopicid": 5,
+              "systemlabel": "tamper resistant screws",
+              "sentid": "34",
+              "sent": "I have a lot of respect for the time and effort they put into their breakdowns.",
+              "sentimentwords": [
+                {
+                  "word": "a",
+                  "polarity": 3.9
+                }
+              ]
+            },
+            {
+              "linePolarity": 1,
+              "systemtopicid": 1,
+              "systemlabel": "off-topic",
+              "sentid": "35",
+              "sent": "They sell stuff to help people fix their iPhones?",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 0,
+              "systemtopicid": 1,
+              "systemlabel": "off-topic",
+              "sentid": "36",
+              "sent": "No way",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 0,
+              "systemtopicid": 1,
+              "systemlabel": "off-topic",
+              "sentid": "37",
+              "sent": "You mean they are a company and make money by providing a service?",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 2,
+              "systemtopicid": 1,
+              "systemlabel": "off-topic",
+              "sentid": "38",
+              "sent": "Someone jail them all quick.",
+              "sentimentwords": [
+                {
+                  "word": "quick",
+                  "polarity": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958887",
+      "date": "Sep 20, 2014, 02:11 PM",
+      "author": "pmz",
+      "aid": "383481",
+      "htmltext": "\r\n            \r\n            Here's a better idea iFixit:<br />\n<br />\r\nDon't rate products on their ability to be taken apart, like its some radioshack knock off from 1993.\r\n\n",
+      "sent": [
+        {
+          "linePolarity": -0.166666666667,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "23",
+          "sent": "Heres a better idea iFixit:Dont rate products on their ability to be taken apart like its some radioshack knock off from 1993.",
+          "sentimentwords": []
+        }
+      ],
+      "children": [
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17962717",
+          "date": "Sep 20, 2014, 07:36 PM",
+          "author": "lathode",
+          "aid": "330228",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>pmz</strong>\n<a href=\"showthread.php?p=17958887#post17958887\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Here's a better idea iFixit:<br />\n<br />\r\nDon't rate products on their ability to be taken apart, like its some radioshack knock off from 1993.</div>\n</td>\n</tr>\n</table>\n</div>But that's sort of the point of the website...\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958887",
+          "sent": [
+            {
+              "linePolarity": -0.166666666667,
+              "systemtopicid": 1,
+              "systemlabel": "better idea iFixit",
+              "sentid": "56",
+              "sent": "Quote:Originally Posted bypmzHeres a better idea iFixit:Dont rate products on their ability to be taken apart like its some radioshack knock off from 1993.But thats sort of the point of the website...",
+              "sentimentwords": []
+            }
+          ]
+        },
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17970260",
+          "date": "Sep 21, 2014, 05:28 PM",
+          "author": "thekev",
+          "aid": "476048",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>pmz</strong>\n<a href=\"showthread.php?p=17958887#post17958887\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">Here's a better idea iFixit:<br />\n<br />\r\nDon't rate products on their ability to be taken apart, like its some radioshack knock off from 1993.</div>\n</td>\n</tr>\n</table>\n</div>The entire site is dedicated to budget methods of fixing electronics. If you dislike that, it has nothing truly interesting to offer beyond a peek under the hood of new hardware.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958887",
+          "sent": [
+            {
+              "linePolarity": 0.375,
+              "systemtopicid": 1,
+              "systemlabel": "better idea iFixit",
+              "sentid": "65",
+              "sent": "Quote:Originally Posted bypmzHeres a better idea iFixit:Dont rate products on their ability to be taken apart like its some radioshack knock off from 1993.The entire site is dedicated to budget methods of fixing electronics.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": -0.09375,
+              "systemtopicid": 1,
+              "systemlabel": "better idea iFixit",
+              "sentid": "66",
+              "sent": "If you dislike that it has nothing truly interesting to offer beyond a peek under the hood of new hardware.",
+              "sentimentwords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17958985",
+      "date": "Sep 20, 2014, 02:17 PM",
+      "author": "thefourthpope",
+      "aid": "124765",
+      "htmltext": "\r\n            \r\n            I'm glad to have another link for all those forum threads about how cheap the C is and anybody dumb enough to buy one doesn't know anything about phones because plastic!?!\r\n\n",
+      "sent": [
+        {
+          "linePolarity": -2.66666666667,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "24",
+          "sent": "Im glad to have another link for all those forum threads about how cheap the C is and anybody dumb enough to buy one doesnt know anything about phones because plastic?",
+          "sentimentwords": [
+            {
+              "word": "glad",
+              "polarity": 4
+            },
+            {
+              "word": "cheap",
+              "polarity": -3
+            },
+            {
+              "word": "dumb",
+              "polarity": -9
+            },
+            {
+              "word": "enough",
+              "polarity": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959130",
+      "date": "Sep 20, 2014, 02:28 PM",
+      "author": "elMacJunkie",
+      "aid": "139053",
+      "htmltext": "\r\n            \r\n            i wonder if i can use a 5C battery on my 5.\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "39",
+          "sent": "i wonder if i can use a 5C battery on my 5.",
+          "sentimentwords": []
+        }
+      ],
+      "children": [
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959287",
+          "date": "Sep 20, 2014, 02:37 PM",
+          "author": "Gudi",
+          "aid": "811901",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>elMacJunkie</strong>\n<a href=\"showthread.php?p=17959130#post17959130\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">I wonder if i can use a 5C battery on my 5.</div>\n</td>\n</tr>\n</table>\n</div><b>You can't.</b> The 5c logic board is smaller to allow for a bigger battery.<br />\nThats why all the talk about the 5c being just a 5 in a plastic shell is just bull.<br />\n<br />\nIts a new phone with an old cpu in it.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959130",
+          "sent": [
+            {
+              "linePolarity": 0.861111111111,
+              "systemtopicid": 4,
+              "systemlabel": "low big difference extending battery life",
+              "sentid": "40",
+              "sent": "Quote:Originally Posted byelMacJunkieI wonder if i can use a 5C battery on my 5.You cant.The 5c logic board is smaller to allow for a bigger battery.Thats why all the talk about the 5c being just a 5 in a plastic shell is just bull.Its a new phone with an old cpu in it.",
+              "sentimentwords": []
+            }
+          ],
+          "children": [
+            {
+              "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959449",
+              "date": "Sep 20, 2014, 02:49 PM",
+              "author": "Jimrod",
+              "aid": "451256",
+              "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Gudi</strong>\n<a href=\"showthread.php?p=17959287#post17959287\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\"><b>You can't.</b> The 5c logic board is smaller to allow for a bigger battery.<br />\r\nThats why all the talk about the 5c being just a 5 in a plastic shell is just bull.<br />\n<br />\r\nIts a new phone with an old cpu in it.</div>\n</td>\n</tr>\n</table>\n</div>And old screen, which is a pretty substantial part of a modern phone...\r\n\n",
+              "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959287",
+              "sent": [
+                {
+                  "linePolarity": 0.536363636364,
+                  "systemtopicid": 4,
+                  "systemlabel": "low big difference extending battery life",
+                  "sentid": "42",
+                  "sent": "Quote:Originally Posted byGudiYou cant.The 5c logic board is smaller to allow for a bigger battery.Thats why all the talk about the 5c being just a 5 in a plastic shell is just bull.Its a new phone with an old cpu in it.And old screen which is a pretty substantial part of a modern phone...",
+                  "sentimentwords": []
+                }
+              ],
+              "children": [
+                {
+                  "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17960185",
+                  "date": "Sep 20, 2014, 03:47 PM",
+                  "author": "Gudi",
+                  "aid": "811901",
+                  "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Jimrod</strong>\n<a href=\"showthread.php?p=17959449#post17959449\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">And old screen, which is a pretty substantial part of a modern phone...</div>\n</td>\n</tr>\n</table>\n</div>Its a phone so the most substantial part of it is the (also new) baseband chip.<br />\nNow supporting all the LTE frequencies in Europe. Which gives the 5c a real advantage over the 5.\r\n\n",
+                  "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959449",
+                  "sent": [
+                    {
+                      "linePolarity": 0.929166666667,
+                      "systemtopicid": 4,
+                      "systemlabel": "low big difference extending battery life",
+                      "sentid": "50",
+                      "sent": "Quote:Originally Posted byJimrodAnd old screen which is a pretty substantial part of a modern phone...Its a phone so the most substantial part of it is the also new baseband chip.Now supporting all the LTE frequencies in Europe.",
+                      "sentimentwords": []
+                    },
+                    {
+                      "linePolarity": 2.4,
+                      "systemtopicid": 4,
+                      "systemlabel": "low big difference extending battery life",
+                      "sentid": "51",
+                      "sent": "Which gives the 5c a real advantage over the 5.",
+                      "sentimentwords": [
+                        {
+                          "word": "real",
+                          "polarity": 2.4
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17959316",
+      "date": "Sep 20, 2014, 02:40 PM",
+      "author": "westcoastin",
+      "aid": "571036",
+      "htmltext": "\r\n            \r\n            But does it blend?\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "41",
+          "sent": "But does it blend?",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17962328",
+      "date": "Sep 20, 2014, 06:53 PM",
+      "author": "pubwvj",
+      "aid": "41310",
+      "htmltext": "\r\n            \r\n            Good on more battery. I would really like Apple to use the 'grabbing-power-out-of-the-air' and solar cell skin so that the devices are constantly charging them selves when they have resources. Power's free if you know where to look. The consumption is getting low enough that these could make a big difference extending battery life.\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "52",
+          "sent": "Good on more battery.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 0,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "53",
+          "sent": "I would really like Apple to use the grabbingpoweroutoftheair and solar cell skin so that the devices are constantly charging them selves when they have resources.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 3,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "54",
+          "sent": "Powers free if you know where to look.",
+          "sentimentwords": [
+            {
+              "word": "free",
+              "polarity": 3
+            }
+          ]
+        },
+        {
+          "linePolarity": -1,
+          "systemtopicid": 4,
+          "systemlabel": "low big difference extending battery life",
+          "sentid": "55",
+          "sent": "The consumption is getting low enough that these could make a big difference extending battery life.",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17962741",
+      "date": "Sep 20, 2014, 07:39 PM",
+      "author": "macs4nw",
+      "aid": "496792",
+      "htmltext": "\r\n            \r\n            Gwendolyn is charming and soooo cute&hellip;..\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 3.5,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "57",
+          "sent": "Gwendolyn is charming and soooo cutehellip..",
+          "sentimentwords": [
+            {
+              "word": "charming",
+              "polarity": 4
+            },
+            {
+              "word": "cute",
+              "polarity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17963176",
+      "date": "Sep 20, 2014, 08:36 PM",
+      "author": "Battlefield_Fan",
+      "aid": "170132",
+      "htmltext": "\r\n            \r\n            IFixit is a waste of digital space. Blah\r\n\n",
+      "sent": [
+        {
+          "linePolarity": -1,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "58",
+          "sent": "IFixit is a waste of digital space.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "59",
+          "sent": "Blah",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17964152",
+      "date": "Sep 20, 2014, 10:57 PM",
+      "author": "henrypham120190",
+      "aid": "806660",
+      "htmltext": "\r\n            \r\n            Make it water resistant and you'll go home with daddy <img src=\"http://cdn.macrumors.com/vb/images/smilies/biggrin.png\" border=\"0\" alt=\"\" title=\"Big Grin\" class=\"inlineimg\" />\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 8,
+          "systemlabel": "iPhone 5",
+          "sentid": "60",
+          "sent": "Make it water resistant and youll go home with daddy",
+          "sentimentwords": []
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17966520",
+      "date": "Sep 21, 2014, 09:02 AM",
+      "author": "Nancy_Nally",
+      "aid": "357134",
+      "htmltext": "\r\n            \r\n            They don't have &quot;matching A6 processors&quot;. The 5s has an A7 processor.\r\n\n",
+      "sent": [
+        {
+          "linePolarity": 0,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "61",
+          "sent": "They dont have quotmatching A6 processorsquot.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": 0,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "62",
+          "sent": "The 5s has an A7 processor.",
+          "sentimentwords": []
+        }
+      ],
+      "children": [
+        {
+          "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17967682",
+          "date": "Sep 21, 2014, 11:44 AM",
+          "author": "SVTmaniac",
+          "aid": "788404",
+          "htmltext": "\n<div style=\"margin:20px; margin-top:5px; \">\n<div class=\"smallfont\" style=\"margin-bottom:2px\">Quote:</div>\n<table cellpadding=\"6\" cellspacing=\"0\" border=\"0\" width=\"100%\">\n<tr>\n<td class=\"alt2\" style=\"border:1px inset\">\n<div>\r\n\t\t\t\t\tOriginally Posted by <strong>Nancy Nally</strong>\n<a href=\"showthread.php?p=17966520#post17966520\" rel=\"nofollow\"><img class=\"inlineimg\" src=\"http://cdn.macrumors.com/vb/images/buttons/viewpost.gif\" border=\"0\" alt=\"View Post\" /></a>\n</div>\n<div style=\"font-style:italic\">They don't have &quot;matching A6 processors&quot;. The 5s has an A7 processor.</div>\n</td>\n</tr>\n</table>\n</div>They were talking about the iPhone 5, not the 5s.\r\n\n",
+          "parent": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17966520",
+          "sent": [
+            {
+              "linePolarity": 0,
+              "systemtopicid": 1,
+              "systemlabel": "better idea iFixit",
+              "sentid": "63",
+              "sent": "Quote:Originally Posted byNancy NallyThey dont have quotmatching A6 processorsquot.",
+              "sentimentwords": []
+            },
+            {
+              "linePolarity": 0,
+              "systemtopicid": 1,
+              "systemlabel": "better idea iFixit",
+              "sentid": "64",
+              "sent": "The 5s has an A7 processor.They were talking about the iPhone 5 not the 5s.",
+              "sentimentwords": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentid": "http://www.semanticweb.org/ontologies/ConversationInstances.owl#commentiphone_10.17974256",
+      "date": "Sep 22, 2014, 04:58 AM",
+      "author": "Tech198",
+      "aid": "555085",
+      "htmltext": "\r\n            \r\n            Nice job <img src=\"http://cdn.macrumors.com/vb/images/smilies/smile.png\" border=\"0\" alt=\"\" title=\"Smilie\" class=\"inlineimg\" /><br />\n<br />\nApple can't prevent us from opening up &quot;What we own&quot;<br />\n<br />\nThey can try as hard as they like though.<br />\n<br />\nI just wish companies would realize this sooner, than later, and rather making it more difficult, make it easier.<br />\n<br />\n(Besides, Apple is using too much glue as of late too)\r\n\n",
+      "sent": [
+        {
+          "linePolarity": -0.333333333333,
+          "systemtopicid": 1,
+          "systemlabel": "better idea iFixit",
+          "sentid": "67",
+          "sent": "Nice jobApple cant prevent us from opening up quotWhat we ownquotThey can try as hard as they like though.I just wish companies would realize this sooner than later and rather making it more difficult make it easier.",
+          "sentimentwords": []
+        },
+        {
+          "linePolarity": -3,
+          "systemtopicid": 5,
+          "systemlabel": "tamper resistant screws",
+          "sentid": "68",
+          "sent": "Besides Apple is using too much glue as of late too",
+          "sentimentwords": [
+            {
+              "word": "late",
+              "polarity": -1.5
+            },
+            {
+              "word": "too",
+              "polarity": -4.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

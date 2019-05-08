@@ -1,0 +1,80 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "alpha",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=alpha&userid=100&interface=2"
+        },
+        {
+            "name": "gamma",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=gamma&userid=100&interface=2"
+        },
+        {
+            "name": "delta",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=delta&userid=100&interface=2"
+        },
+        {
+            "name": "omega",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=omega&userid=100&interface=2"
+        },
+        {
+            "name": "iphone",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=iphone&userid=100&interface=2"
+        },
+        {
+            "name": "test",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=test&userid=100&interface=2"
+        },
+        {
+            "name": "iphonetest2",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=iphonetest2&userid=100&interface=2"
+        },
+        {
+            "name": "kendall",
+            "type": "chrome",
+            "request": "launch",
+            "runtimeArgs":["--allow-file-access-from-files"],
+            "userDataDir": true,
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/index.html?a=kendall&userid=100&interface=2"
+        }
+    ]
+}
