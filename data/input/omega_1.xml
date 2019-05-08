@@ -1,0 +1,32 @@
+<article>
+<id>articleomega_1</id>
+<title>This is a test for the scripts in the autorun folder</title>
+<author>Amon</author>
+<datestamp>2018-03-14T15:26</datestamp>
+<sentencetext>Did you make sure that the closing tag of this text element is on a new line? 
+</sentencetext>
+<htmltext>Did you make sure that the closing tag of this text element is on a new line?
+</htmltext>
+</article>
+<comment>
+<id>2</id>
+<title>Date and time</title>
+<author>Patrick</author>
+<datestamp>2018-03-14T15:30</datestamp>
+<sentencetext>Did you make sure that the datestamp is in ISO8601 format?
+</sentencetext>
+<htmltext>Did you make sure that the datestamp is in ISO8601 format?
+</htmltext>
+</comment>
+<comment>
+<id>3</id>
+<title>Python version</title>
+<author>Amon</author>
+<datestamp>2018-03-14T16:10</datestamp>
+<sentencetext>On the server, just run "python autosegment.py" (It will be Python 2). 
+Once you localize the output folder, use Python 3 to run "python autolabel.py". Enjoy your JSON files in the output folder!
+</sentencetext>
+<htmltext>On the server, just run "python autosegment.py" (It will be Python 2). 
+Once you localize the output folder, use Python 3 to run "python autolabel.py". Enjoy your JSON files in the output folder!
+</htmltext>
+</comment>
